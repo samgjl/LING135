@@ -4,25 +4,32 @@ import os, glob
 class SubtitleReader:
     # Constructor
     # Inputs: None
-    # Sets self.intensifiers to a list of intensifiers
-    # ASSUMPTION: intensifiers in the file are separated by newlines
+    # Sets self.targets to a list of targets
+    # ASSUMPTION: targets in the file are separated by newlines
     def __init__(self, filename = None):
-        self.intensifiers = []
+        self.targets = []
 
         # If filename is given, initialize with that file:
         if filename == None:
             file, filename = self.loop_file_input()
         else:
             file = open(filename, 'r')
+        
+        self.target_name = filename[0:-4].upper()
 
-        # Open file and read intensifiers into list
-        intensifier_list = file.read().split('\n')
-        intensifier_regex = r'(' + r'|'.join(intensifier_list) + r')'
-        self.intensifiers = re.compile(intensifier_regex, re.IGNORECASE)
+        # Open file and read targets into list
+        target_list = [target for target in file.read().split('\n') if target != ''] # remove empty strings
+        # ensure that the targets are separated by word boundaries
+        target_list = [r'\b' + target.lower() + r'\b|' for target in target_list]
+        # combine the targets into a single regex
+        target_regex = r'(' + r''.join(target_list)
+        target_regex = target_regex[0:-1] + r')' # remove the last '|'
+        self.targets = re.compile(target_regex, re.IGNORECASE) # compile.
 
         # ALWAYS CLOSE THE FILE!
         file.close()
     
+    # Loop until a valid file is given
     def loop_file_input(self):
         working_file = False
         while (working_file == False):
@@ -39,8 +46,10 @@ class SubtitleReader:
         return file, filename
          
 
-    # Read the subtitles from a file and write the paragraphs with intensifiers to a new file
+    # Read the subtitles from a file and write the paragraphs with targets to a new file
     def read_subtitles(self, filename = None, output_path = None):
+        target_totals = {}
+        output = ""
         # Read from this file:
         read_file = None
         if filename == None:
@@ -50,9 +59,9 @@ class SubtitleReader:
 
         # Write to this file:
         if output_path != None:
-            write_name = output_path + filename.split("\\")[-1] + '.out'
+            write_name = output_path + filename.split("\\")[-1][0:-4] + '.' + self.target_name.lower()
         else:
-            write_name = filename + '.out'
+            write_name = filename[0:-4] + '.' + self.target_name.lower()
         write_file = open(write_name, 'w')
         
         # Use regular expressions to break this file into <p ... </p> tags
@@ -61,17 +70,33 @@ class SubtitleReader:
         
         all_paragraphs = prargraph_regex.findall(read_file.read())
         for paragraph in all_paragraphs:
-            # Check regex to see if there is an intensifier in this paragraph. 
+            # Check regex to see if there is an target in this paragraph. 
             # Write the whole paragraph to the file if so.
-            intensifiers = self.intensifiers.findall(paragraph)
-            if (len(intensifiers) > 0):
-                # Write the times:
+            targets = self.targets.findall(paragraph, re.IGNORECASE)
+            if (len(targets) > 0):
+                # Update dictionary of targets:
+                for target in targets:
+                    # if target in target_totals:
+                    target = target.lower()
+                    target_totals[target] = target_totals[target] + 1 if target in target_totals else 1
+                    # else:
+                    #     target_totals[target] = 1
+                # Convert the times:
                 beginning, ending = self.xml_time_to_readable(paragraph)
-                write_file.write(beginning + " --> " + ending + "\n")
                 # Write the words said in the subtitle:
-                write_file.write(intra_paragraph_regex.findall(paragraph)[0][1:-4])
-                write_file.write("\n\n")
-
+                intra_paragraph = re.sub(r"<br/>", "\n  ", "  " + intra_paragraph_regex.findall(paragraph)[0][1:-4])
+                intra_paragraph = re.sub(r"&quot;", '"', intra_paragraph)
+                intra_paragraph = re.sub(r"<.*?>", "", intra_paragraph)
+                # Add to the output:
+                output += (beginning + " --> " + ending + "\n" # Title: timing
+                                 "  " + self.target_name + ": " + str(targets) + "\n" # targets found
+                                 + intra_paragraph + "\n\n") # word context
+        
+        # Write everything to the file:
+        write_file.write("----- TOTALS -----\n")
+        for target in target_totals:
+            write_file.write(f"  '{target}' : {str(target_totals[target])}\n\n")
+        write_file.write("----- TIME STAMPS -----\n\n" + output)
         # ALWAYS CLOSE THE FILES
         read_file.close()
         write_file.close()
@@ -98,6 +123,7 @@ class SubtitleReader:
         # We're done, return the strings
         return beginning, ending
     
+    # Read all the files in a folder
     def read_all_in_folder(self, input_path = None, output_path = None):
         if (input_path == None):
             input_path = input("Enter folder name: ")
@@ -106,12 +132,11 @@ class SubtitleReader:
         for filename in glob.glob(os.path.join(input_path, '*.xml')):
             self.read_subtitles(filename, output_path = output_path)
 
-
-# ACTUAL MAIN FUNCTION
-def main():
-    reader = SubtitleReader(filename = 'intensifiers.txt')
-    # reader.read_subtitles()
-    reader.read_all_in_folder(input_path = "./input-files/", output_path = "./output-files/")
-
+# DEMO:
 if __name__ == "__main__":
-    main()
+    # Intensifiers:
+    reader = SubtitleReader(filename = 'intensifiers.txt')
+    reader.read_all_in_folder(input_path = "./input-files/", output_path = "./output-files/")
+    # Like:
+    reader = SubtitleReader(filename = 'like.txt')
+    reader.read_all_in_folder(input_path = "./input-files/", output_path = "./output-files/")
