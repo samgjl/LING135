@@ -8,7 +8,10 @@ class SubtitleReader:
     # ASSUMPTION: targets in the file are separated by newlines
     def __init__(self, filename = None):
         self.targets = []
+        self.set_targets(filename)
 
+
+    def set_targets(self, filename):
         # If filename is given, initialize with that file:
         if filename == None:
             file, filename = self.loop_file_input()
@@ -16,7 +19,6 @@ class SubtitleReader:
             file = open(filename, 'r')
         
         self.target_name = filename[0:-4].upper()
-
         # Open file and read targets into list
         target_list = [target for target in file.read().split('\n') if target != ''] # remove empty strings
         # ensure that the targets are separated by word boundaries
@@ -26,7 +28,7 @@ class SubtitleReader:
         target_regex = target_regex[0:-1] + r')' # remove the last '|'
         self.targets = re.compile(target_regex, re.IGNORECASE) # compile.
 
-        # ALWAYS CLOSE THE FILE!
+        # ALWAYS CLOSE THE FILE
         file.close()
     
     # Loop until a valid file is given
@@ -95,8 +97,8 @@ class SubtitleReader:
         # Write everything to the file:
         write_file.write("----- TOTALS -----\n")
         for target in target_totals:
-            write_file.write(f"  '{target}' : {str(target_totals[target])}\n\n")
-        write_file.write("----- TIME STAMPS -----\n\n" + output)
+            write_file.write(f"  '{target}' : {str(target_totals[target])}\n")
+        write_file.write("\n----- TIME STAMPS -----\n\n" + output)
         # ALWAYS CLOSE THE FILES
         read_file.close()
         write_file.close()
