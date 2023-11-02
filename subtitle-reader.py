@@ -49,7 +49,7 @@ class SubtitleReader:
          
 
     # Read the subtitles from a file and write the paragraphs with targets to a new file
-    def read_subtitles(self, filename = None, output_path = None):
+    def read_subtitles(self, filename = None, output_path = None, time_in_ms = False):
         target_totals = {}
         output = ""
         # Read from this file:
@@ -84,7 +84,7 @@ class SubtitleReader:
                     # else:
                     #     target_totals[target] = 1
                 # Convert the times:
-                beginning, ending = self.xml_time_to_readable(paragraph)
+                beginning, ending = self.xml_time_to_readable(paragraph, time_in_ms = time_in_ms)
                 # Write the words said in the subtitle:
                 intra_paragraph = re.sub(r"<br/>", "\n  ", "  " + intra_paragraph_regex.findall(paragraph)[0][1:-4])
                 intra_paragraph = re.sub(r"&quot;", '"', intra_paragraph)
@@ -104,7 +104,7 @@ class SubtitleReader:
         write_file.close()
 
     # Convert the time in the xml file to a readable time
-    def xml_time_to_readable(self, ms_string, tick_rate = 10000000):
+    def xml_time_to_readable(self, ms_string, tick_rate = 10000000, time_in_ms = False):
         beginning_regex = re.compile(r'begin=".*?"', re.DOTALL)
         ending_regex = re.compile(r'end=".*?"', re.DOTALL)
         inside_regex = re.compile(r'".*?"', re.DOTALL)
@@ -114,6 +114,11 @@ class SubtitleReader:
         # Get the times as strings of '_____' by themselves
         beginning = inside_regex.findall(beginning)[0][1:-2]
         ending = inside_regex.findall(ending)[0][1:-2]
+
+        # If our time format is already pretty, we're done!
+        if (not time_in_ms):
+            return beginning, ending
+        
         # Convert them into integer values, and then into seconds
         # The last 6 digits are decimals:
         beginning = int(beginning) // tick_rate
@@ -126,19 +131,19 @@ class SubtitleReader:
         return beginning, ending
     
     # Read all the files in a folder
-    def read_all_in_folder(self, input_path = None, output_path = None):
+    def read_all_in_folder(self, input_path = None, output_path = None, time_in_ms = False):
         if (input_path == None):
             input_path = input("Enter folder name: ")
         
         # Get all the files in the folder
         for filename in glob.glob(os.path.join(input_path, '*.xml')):
-            self.read_subtitles(filename, output_path = output_path)
+            self.read_subtitles(filename, output_path = output_path, time_in_ms = time_in_ms)
 
 # DEMO:
 if __name__ == "__main__":
     # Intensifiers:
     reader = SubtitleReader(filename = 'intensifiers.txt')
-    reader.read_all_in_folder(input_path = "./input-files/", output_path = "./output-files/")
+    reader.read_all_in_folder(input_path = "./input-files/", output_path = "./output-files/", time_in_ms = True)
     # Like:
     reader = SubtitleReader(filename = 'like.txt')
-    reader.read_all_in_folder(input_path = "./input-files/", output_path = "./output-files/")
+    reader.read_all_in_folder(input_path = "./input-files/", output_path = "./output-files/", time_in_ms = True)
