@@ -1,0 +1,3506 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:nttm="http://www.netflix.com/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:contentProfiles="http://www.w3.org/ns/ttml/profile/imsc1.1/text" ttp:tickRate="10000000" ttp:timeBase="media" xml:lang="en">
+<head>
+<metadata nttm:schemaVersion="0" nttm:textType="CC" nttm:uuid="07ac2e36-1627-4402-8afe-9d6b20f1e45e"/>
+<styling>
+<initial tts:backgroundColor="transparent" tts:color="white" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:fontSize="6.000rh" tts:opacity="1.000" tts:origin="10.000% 10.000%" tts:showBackground="whenActive" tts:textAlign="center" tts:textOutline="black 0.300rh" tts:writingMode="lrtb"/>
+<style xml:id="style1" tts:fontStyle="italic"/>
+</styling>
+<layout>
+<region xml:id="region0" tts:displayAlign="after" tts:extent="80.000% 40.000%" tts:origin="10.000% 50.000%"/>
+<region xml:id="region1" tts:displayAlign="before" tts:extent="80.000% 40.000%" tts:origin="10.000% 10.000%"/>
+</layout>
+</head>
+<body>
+<div>
+<p xml:id="subtitle1" begin="24691333t" end="65732333t" region="region0" nttm:uuid="297d66fd-2b1c-4323-b3a0-dee20e5fc0a7">
+[Matthew]
+<span style="style1">Previously on </span>
+Love Island...
+</p>
+<p xml:id="subtitle2" begin="90090000t" end="124791333t" region="region0" nttm:uuid="3cbf292a-a161-4673-8fd7-5dd2c45cb718">
+<span style="style1">Five gorgeous girls began</span>
+<br/>
+<span style="style1">their search for love.</span>
+</p>
+<p xml:id="subtitle3" begin="125458666t" end="138471666t" region="region0" nttm:uuid="67052d74-6cac-48fb-b66f-a02c23e1b198">
+Are you ready to get
+<br/>
+this party started?
+</p>
+<p xml:id="subtitle4" begin="139139000t" end="156156000t" region="region0" nttm:uuid="73747fda-da66-40af-bcde-c2a96e65352e">Yes!</p>
+<p xml:id="subtitle5" begin="156823333t" end="187187000t" region="region0" nttm:uuid="e8dc5848-da90-4881-a57e-11e7cc764e13">
+[Matthew]
+<span style="style1">Closely followed</span>
+<br/>
+<span style="style1">by five handsome guys.</span>
+</p>
+<p xml:id="subtitle6" begin="187854333t" end="199866333t" region="region0" nttm:uuid="79507a1b-9e76-41bc-9296-1a3e35bea635">[women whooping]</p>
+<p xml:id="subtitle7" begin="209208999t" end="220220000t" region="region0" nttm:uuid="75aa444d-6d97-400a-bee2-7dffea6fbd68">
+[Matthew]
+<span style="style1">They coupled up...</span>
+</p>
+<p xml:id="subtitle8" begin="229229000t" end="237904333t" region="region0" nttm:uuid="b6285a5b-b189-4aa5-803c-0a673b5e16bd">
+-[cork pops]
+<br/>
+-[woman squeals]
+</p>
+<p xml:id="subtitle9" begin="238571666t" end="267934333t" region="region0" nttm:uuid="d68a8871-a4e3-4460-b67e-73703eff609a">
+<span style="style1">...but there were surprises aplenty.</span>
+</p>
+<p xml:id="subtitle10" begin="271604666t" end="305305000t" region="region0" nttm:uuid="7611ca5b-6c34-47fc-ba6d-cbb11ab77926">
+Johnny will be coupling
+<br/>
+up with one of your girls.
+</p>
+<p xml:id="subtitle11" begin="312979333t" end="335668666t" region="region0" nttm:uuid="df927bea-25b0-4404-a0e7-105c5588711e">
+The girl I would like
+<br/>
+to couple up with is...
+</p>
+<p xml:id="subtitle12" begin="355021333t" end="366366000t" region="region0" nttm:uuid="e5e36c25-739d-4164-bfb5-e1b13c9779d5">Cely.</p>
+<p xml:id="subtitle13" begin="390723666t" end="403736666t" region="region0" nttm:uuid="b00ed4c1-2eae-4c53-ba9f-cdbb51800be4">
+[Matthew]
+<br/>
+<span style="style1">Tonight...</span>
+</p>
+<p xml:id="subtitle14" begin="413079333t" end="439772666t" region="region0" nttm:uuid="778c9ae3-1c0f-4953-abeb-9f1a75cd9c94">
+<span style="style1">we double down</span>
+<br/>
+<span style="style1">with two new girls.</span>
+</p>
+<p xml:id="subtitle15" begin="442442000t" end="457790666t" region="region0" nttm:uuid="f86280ce-ebbc-43b4-9289-b0e1e19bf3c8">
+I'm single
+<br/>
+and ready to mingle.
+</p>
+<p xml:id="subtitle16" begin="459459000t" end="478478000t" region="region0" nttm:uuid="d15ce4ff-a7ac-42fc-83e7-7718a0e4b99a">
+I'm not here to, like,
+<br/>
+waste time.
+</p>
+<p xml:id="subtitle17" begin="479145333t" end="488488000t" region="region0" nttm:uuid="77f6b4e8-2ad8-4293-9181-d027fea76b87">
+[Matthew]
+<span style="style1">And then...</span>
+</p>
+<p xml:id="subtitle18" begin="489155333t" end="519519000t" region="region0" nttm:uuid="60fdfd75-2462-4abe-8a3a-7bcc0984c7b9">
+I saw you... Bam!
+<br/>
+Instant attraction.
+</p>
+<p xml:id="subtitle19" begin="520853666t" end="542208333t" region="region0" nttm:uuid="bd26a947-d436-4beb-b477-2587fb36516a">
+-[Matthew]
+<span style="style1">...they stir things up.</span>
+<br/>
+-Oh, my God.
+</p>
+<p xml:id="subtitle20" begin="552218333t" end="581914666t" region="region0" nttm:uuid="8351431a-3584-493b-ac5b-b12a465b75f1">
+-To new tastings
+<br/>
+-To new beginnings and to finding love.
+</p>
+<p xml:id="subtitle21" begin="585585000t" end="611611000t" region="region0" nttm:uuid="8874b468-fc22-48a8-a9c5-59aa5736113b">All of a sudden this bomb dropped.</p>
+<p xml:id="subtitle22" begin="612278333t" end="622955666t" region="region0" nttm:uuid="0f0dc708-dda3-4e70-91b8-72c4f7b50b83">We're definitely on vibe.</p>
+<p xml:id="subtitle23" begin="623623000t" end="635635000t" region="region0" nttm:uuid="5ce136e7-a4ad-4a51-bbaa-779246104ad3">
+I'm looking forward
+<br/>
+to see where it goes.
+</p>
+<p xml:id="subtitle24" begin="653319333t" end="664997666t" region="region0" nttm:uuid="056e5d62-d267-423f-ba91-e2c2764c3046">Argh!</p>
+<p xml:id="subtitle25" begin="671337333t" end="693692999t" region="region0" nttm:uuid="1eb43191-93ec-4937-a7f5-393d4465ea61">[theme music]</p>
+<p xml:id="subtitle26" begin="781447333t" end="818150666t" region="region0" nttm:uuid="7e5eb851-3a95-440d-bd3c-2a9deb84f5c2">
+[Matthew]
+<span style="style1">Last night's events</span>
+<br/>
+<span style="style1">unsurprisingly proved eventful.</span>
+</p>
+<p xml:id="subtitle27" begin="819151666t" end="843509333t" region="region0" nttm:uuid="8922f713-58a5-4a5f-891d-213737e832a2">
+The girl I would like
+<br/>
+to couple up with is...
+</p>
+<p xml:id="subtitle28" begin="894226666t" end="903235666t" region="region0" nttm:uuid="6caa8081-4e52-4a72-ae06-4bd9138510cc">Cely.</p>
+<p xml:id="subtitle29" begin="911911000t" end="933599333t" region="region0" nttm:uuid="b753be36-32af-4017-89d9-657dd53be7f2">
+[Matthew]
+<span style="style1">Johnny</span>
+<br/>
+<span style="style1">stole Cely from Tre.</span>
+</p>
+<p xml:id="subtitle30" begin="934266666t" end="969301666t" region="region0" nttm:uuid="35027881-59e6-48aa-ad57-19740a4ce61c">
+<span style="style1">I had my "Cely" stolen once,</span>
+<br/>
+<span style="style1">too, a flip phone in '98.</span>
+</p>
+<p xml:id="subtitle31" begin="969969000t" end="980646333t" region="region0" nttm:uuid="f1d3bddd-12e5-4ea2-950c-b560e29833d5">
+<span style="style1">It still hurts.</span>
+</p>
+<p xml:id="subtitle32" begin="981313666t" end="998998000t" region="region0" nttm:uuid="762b5628-4e8a-41c0-b1f2-337bdc82508f">Is she on my side or what?</p>
+<p xml:id="subtitle33" begin="1013012000t" end="1053719333t" region="region1" nttm:uuid="a88af08f-9b59-44cd-bc03-761018a18f74">
+[Matthew]
+<span style="style1">So now our couples</span>
+<br/>
+<span style="style1">are Cely and Johnny...</span>
+</p>
+<p xml:id="subtitle34" begin="1058057000t" end="1085751333t" region="region1" nttm:uuid="79afde02-74ec-4840-9371-c5170a86c5c6">
+<span style="style1">Smitten Moira and James...</span>
+</p>
+<p xml:id="subtitle35" begin="1086418666t" end="1115447666t" region="region1" nttm:uuid="c1b2cd46-edd8-4c7a-95df-260e32afab32">
+<span style="style1">"You can tell they smell great,"</span>
+<br/>
+<span style="style1">Connor and Mackenzie...</span>
+</p>
+<p xml:id="subtitle36" begin="1116115000t" end="1154820333t" region="region1" nttm:uuid="c9b62b60-5f25-47b0-9936-0e69a62d3468">
+<span style="style1">Friend zoning Jason,</span>
+<br/>
+<span style="style1">Justine and Jeremiah...</span>
+</p>
+<p xml:id="subtitle37" begin="1155487666t" end="1190189000t" region="region1" nttm:uuid="46806783-f1a7-4b13-9fbf-6a370cac7319">
+<span style="style1">And the struggle is real</span>
+<br/>
+<span style="style1">for Carrington and Kaitlyn.</span>
+</p>
+<p xml:id="subtitle38" begin="1198530666t" end="1216548666t" region="region0" nttm:uuid="756e4489-34cb-442a-b5c1-ad2ebb462824">
+[Carrington] I think that we came
+<br/>
+to a realization today.
+</p>
+<p xml:id="subtitle39" begin="1220552666t" end="1238904333t" region="region0" nttm:uuid="ecc186e8-7a02-46a4-8949-3e353af12743">
+And mostly from your part,
+<br/>
+but for now,
+</p>
+<p xml:id="subtitle40" begin="1239571666t" end="1258924333t" region="region0" nttm:uuid="6e6472ac-7c85-456b-a342-54b8e65fbdbf">
+we'll just be friends,
+<br/>
+and that's fine with me.
+</p>
+<p xml:id="subtitle41" begin="1259591666t" end="1272604666t" region="region0" nttm:uuid="a9b9e90f-f7ac-466e-9f70-39b8a452e385">
+Not everyone's
+<br/>
+willing to date.
+</p>
+<p xml:id="subtitle42" begin="1277943333t" end="1289288000t" region="region0" nttm:uuid="dc7483a0-184b-41f9-9784-a0f38fe77cdb">
+[Matthew]
+<span style="style1">So now</span>
+<br/>
+<span style="style1">you're caught up,</span>
+</p>
+<p xml:id="subtitle43" begin="1289955333t" end="1310642666t" region="region0" nttm:uuid="4a419391-dbbd-4abc-9e28-1dfe9b69e656">
+<span style="style1">and we can all hang out</span>
+<br/>
+<span style="style1">at the pretty people party</span>
+</p>
+<p xml:id="subtitle44" begin="1311310000t" end="1336001333t" region="region0" nttm:uuid="2172863a-1b2c-4246-805a-845a15c5e8a4">
+<span style="style1">without having to wait in line</span>
+<br/>
+<span style="style1">on the sidewalk.</span>
+</p>
+<p xml:id="subtitle45" begin="1360025333t" end="1372371000t" region="region0" nttm:uuid="4ee2613f-a0c9-4ed6-af74-4e659ee1b379">Tre's spaced.</p>
+<p xml:id="subtitle46" begin="1374039333t" end="1399398000t" region="region0" nttm:uuid="c3480a04-edc0-4d3e-a87d-1d3c4a66bd9d">
+-I'm watching that all unfold.
+<br/>
+-Oh...
+</p>
+<p xml:id="subtitle47" begin="1400065333t" end="1424423000t" region="region0" nttm:uuid="43ec67f7-0fad-4125-8148-dbe79a1d2407">
+I literally...
+<br/>
+A little part of me died.
+</p>
+<p xml:id="subtitle48" begin="1425090333t" end="1450115333t" region="region0" nttm:uuid="908e1b92-5231-468e-808d-749cf0546de2">
+-That moment was so intense.
+<br/>
+-It
+<span style="style1">was </span>
+intense!
+</p>
+<p xml:id="subtitle49" begin="1450782666t" end="1473138333t" region="region0" nttm:uuid="43efa7ba-6174-49a8-90fc-4ea79d09d23c">
+I already knew
+<br/>
+she was getting picked.
+</p>
+<p xml:id="subtitle50" begin="1473805666t" end="1482147333t" region="region0" nttm:uuid="f0207e30-9523-447c-a925-8490169e1057">How did you know?</p>
+<p xml:id="subtitle51" begin="1482814666t" end="1498163333t" region="region0" nttm:uuid="d5661fe6-9b34-4341-b088-a5fa4051dad7">
+Like, he and I
+<br/>
+had a discussion.
+</p>
+<p xml:id="subtitle52" begin="1498830666t" end="1528193333t" region="region0" nttm:uuid="87678ea2-31cf-424f-b9d1-cb646fdcf92e">
+And I was, like, "I like you, but
+<br/>
+I don't know if I
+<span style="style1">like </span>
+you, like you."
+</p>
+<p xml:id="subtitle53" begin="1528860666t" end="1559558000t" region="region0" nttm:uuid="0674bf4e-a467-4b28-baf6-e3e334c228f1">
+The thing is like, I came here
+<br/>
+to make a connection,
+</p>
+<p xml:id="subtitle54" begin="1560225333t" end="1588253333t" region="region0" nttm:uuid="84aeaea5-d190-4ef2-a998-a2cd7e79d43c">
+but I can't really make the one
+<br/>
+that I want with anyone.
+</p>
+<p xml:id="subtitle55" begin="1588920666t" end="1600932666t" region="region0" nttm:uuid="3b2cbd0f-5515-4908-92d5-79ce891e120a">So I'm, like, "Where is it?"</p>
+<p xml:id="subtitle56" begin="1601600000t" end="1614613000t" region="region0" nttm:uuid="f5a6d891-5766-483c-90a3-84f4e03e2a2a">[phone chimes]</p>
+<p xml:id="subtitle57" begin="1615280333t" end="1626625000t" region="region0" nttm:uuid="eec84988-8cdb-43b0-937d-098196c96c0d">I got a text!</p>
+<p xml:id="subtitle58" begin="1627292333t" end="1656988666t" region="region0" nttm:uuid="06856929-6e3d-48fe-958d-abf43c08482b">
+-Whoo!
+<br/>
+-Hey, c'mon, c'mon, c'mon, c'mon, c'mon!
+</p>
+<p xml:id="subtitle59" begin="1773438333t" end="1796795000t" region="region1" nttm:uuid="a9e12e67-167d-46ed-801f-bba7d43f9dcb">[applause and cheering]</p>
+<p xml:id="subtitle60" begin="1804469333t" end="1817816000t" region="region1" nttm:uuid="0d44cccc-14eb-4494-b17e-a59c65d6cf78">Oh, my God.</p>
+<p xml:id="subtitle61" begin="1818483333t" end="1836835000t" region="region1" nttm:uuid="e7e98fee-ad98-4f39-bb52-fd562e280b80">Hold on, hold on.</p>
+<p xml:id="subtitle62" begin="1884549333t" end="1899898000t" region="region0" nttm:uuid="0f32966c-67a6-45f3-aa86-6aceec79d02e">[men shouting]</p>
+<p xml:id="subtitle63" begin="1945944000t" end="1975306666t" region="region0" nttm:uuid="6b79091d-e726-4daf-a6de-5ab797c478f0">
+I cannot stop
+<br/>
+shaking my head.
+</p>
+<p xml:id="subtitle64" begin="1975974000t" end="1994325666t" region="region0" nttm:uuid="e9350871-7909-4005-a076-dd16b30482a0">
+Is this real life
+<br/>
+right now?
+</p>
+<p xml:id="subtitle65" begin="1996327666t" end="2032697333t" region="region0" nttm:uuid="78d7507d-a588-4175-be41-a7db0633c1d2">
+I was expecting Jeremiah
+<br/>
+to go on a few dates.
+</p>
+<p xml:id="subtitle66" begin="2037702333t" end="2062727333t" region="region0" nttm:uuid="b3c60da5-f935-45f1-9b95-6ec75432c578">
+Hearing he got a text,
+<br/>
+I was, like... [hyperventilating].
+</p>
+<p xml:id="subtitle67" begin="2063394666t" end="2085750333t" region="region0" nttm:uuid="609efd34-0b45-41e8-996b-a6b35b54df5e">My heart just stopped for a second.</p>
+<p xml:id="subtitle68" begin="2086417666t" end="2105103000t" region="region0" nttm:uuid="7b10807c-8a68-445e-b8f9-e16dab1fcf01">
+I just didn't think
+<br/>
+it would be this soon.
+</p>
+<p xml:id="subtitle69" begin="2105770333t" end="2145476666t" region="region0" nttm:uuid="87876883-f0c8-4183-8350-f88e6c371c08">
+-[overlapping voices]
+<br/>
+-Oh! Get out of here, bro!
+</p>
+<p xml:id="subtitle70" begin="2146144000t" end="2159824333t" region="region0" nttm:uuid="eb5235da-4fd0-4539-8a1d-3f6842e42e30">Get out of here, man.</p>
+<p xml:id="subtitle71" begin="2165163000t" end="2179177000t" region="region0" nttm:uuid="a2d0169a-3d69-4903-ab94-719faaa2eb95">Okay. Thank you.</p>
+<p xml:id="subtitle72" begin="2184515666t" end="2193191000t" region="region0" nttm:uuid="44a2d1bc-97ec-49df-95c5-03d9debeff72">What?</p>
+<p xml:id="subtitle73" begin="2193858333t" end="2212210000t" region="region0" nttm:uuid="4e8b6c04-58a2-4b18-8c39-c7734b336a97">
+Did you not see what just
+<br/>
+happened?
+</p>
+<p xml:id="subtitle74" begin="2212877333t" end="2227225000t" region="region0" nttm:uuid="37e83e11-b09f-4437-adff-0e98544b452e">I will be drinking all of this.</p>
+<p xml:id="subtitle75" begin="2235900333t" end="2244909333t" region="region0" nttm:uuid="2809bfa2-2b40-4c91-be02-84e288b7d758">[phone chimes]</p>
+<p xml:id="subtitle76" begin="2245576666t" end="2258923333t" region="region0" nttm:uuid="92b5304f-ac7e-4315-8f0d-3934358863ed">
+Yo, yo, yo, yo,
+<br/>
+wait, wait.
+</p>
+<p xml:id="subtitle77" begin="2268933333t" end="2284615666t" region="region0" nttm:uuid="4cc54271-07b7-4519-8a7b-5cb9335cf98f">I got a text!</p>
+<p xml:id="subtitle78" begin="2285283000t" end="2300631666t" region="region0" nttm:uuid="61558503-add8-4f51-b630-03a6a6cebb05">
+-Oh, oh!
+<br/>
+-Okay, what's it say?
+</p>
+<p xml:id="subtitle79" begin="2428759666t" end="2460124333t" region="region0" nttm:uuid="9819851e-f896-44b5-8766-802797996e8e">
+-Oh... my... gosh.
+<br/>
+-...cozy.
+</p>
+<p xml:id="subtitle80" begin="2473804666t" end="2498829666t" region="region0" nttm:uuid="1fbe0c16-840d-490c-895e-525192550321">
+-We're going on a date.
+<br/>
+-It's time to get cozy.
+</p>
+<p xml:id="subtitle81" begin="2499497000t" end="2507838666t" region="region0" nttm:uuid="65aae8db-448d-447d-9de1-7e99d7cbc976">We're going on a date.</p>
+<p xml:id="subtitle82" begin="2509507000t" end="2547545000t" region="region0" nttm:uuid="f0498bcf-fa7a-44dd-8968-f5831d41f053">
+-[both yelling, overlapping]
+<br/>
+-Let's go. Let's go.
+</p>
+<p xml:id="subtitle83" begin="2550548000t" end="2567898666t" region="region0" nttm:uuid="4140d8f8-7c0d-49ef-bfc2-8e655d5cb027">
+We are deserving.
+<br/>
+We are funny.
+</p>
+<p xml:id="subtitle84" begin="2569233333t" end="2583914666t" region="region0" nttm:uuid="917d91fa-db62-44c8-8d3e-1c7605d7413e">
+We are handsome
+<br/>
+and we're good guys.
+</p>
+<p xml:id="subtitle85" begin="2584582000t" end="2599930666t" region="region0" nttm:uuid="f4eced24-0f8f-4fb9-a40c-5ada5d9176cf">So we've been needing this,</p>
+<p xml:id="subtitle86" begin="2600931666t" end="2613944666t" region="region0" nttm:uuid="f8ea0c95-1146-4057-a955-844ef59f9f04">
+and these girls,
+<br/>
+we're going to wow 'em.
+</p>
+<p xml:id="subtitle87" begin="2614612000t" end="2623954666t" region="region0" nttm:uuid="233a221e-122d-4afa-8918-fc1aea4e6b36">
+-Oh yeah.
+<br/>
+-We're gonna wow 'em.
+</p>
+<p xml:id="subtitle88" begin="2624622000t" end="2641305333t" region="region0" nttm:uuid="bdceb307-c69b-437b-a607-e1c98179f878">
+-Mos def.
+<br/>
+-We are unappreciated.
+</p>
+<p xml:id="subtitle89" begin="2641972666t" end="2675339333t" region="region0" nttm:uuid="221427e9-8c01-4c8f-889f-244471096aa1">
+I kinda shoulda been a little
+<br/>
+more reserved, bro,
+</p>
+<p xml:id="subtitle90" begin="2676673999t" end="2706704000t" region="region0" nttm:uuid="29ff4761-8d7a-45c5-8969-94e9183cb01a">
+-sayin' how I acted, 'cause...
+<br/>
+-With what?
+</p>
+<p xml:id="subtitle91" begin="2711041666t" end="2735399333t" region="region0" nttm:uuid="f304d13d-898b-4301-a057-42334128c053">
+All you were doing is just bonding.
+<br/>
+Hell, yeah.
+</p>
+<p xml:id="subtitle92" begin="2736066666t" end="2746076666t" region="region0" nttm:uuid="4c9d2ef4-f411-40f7-bf78-658862647da2">Yeah.</p>
+<p xml:id="subtitle93" begin="2746743999t" end="2780110666t" region="region0" nttm:uuid="00d18d89-31c4-45f7-b252-b742b3984fdc">
+Honestly, how would you, like--
+<br/>
+Like how would y'all feel
+</p>
+<p xml:id="subtitle94" begin="2780778000t" end="2817147666t" region="region0" nttm:uuid="4ab8cd99-8995-4980-94f9-b13ff9dcc7ed">
+like, if your person just like,
+<br/>
+was, like, all happily like that...
+</p>
+<p xml:id="subtitle95" begin="2817815000t" end="2837835000t" region="region0" nttm:uuid="f5a2a503-f32e-4166-9cd1-038c835306fa">
+I'd be really happy
+<br/>
+for him.
+</p>
+<p xml:id="subtitle96" begin="2838502333t" end="2860190666t" region="region0" nttm:uuid="034c7886-eccd-4327-b305-e00aff89fa9a">
+Honestly,
+<br/>
+when Carrington got the text,
+</p>
+<p xml:id="subtitle97" begin="2860858000t" end="2884548333t" region="region0" nttm:uuid="8f9a4e59-e7ab-4e49-bade-d7e46ebff78c">
+I was definitely excited
+<br/>
+for him.
+</p>
+<p xml:id="subtitle98" begin="2888552333t" end="2918916000t" region="region0" nttm:uuid="c3d94b6d-f174-47bb-a4ad-7f9cc8a49e8a">
+Was I nervous for me also?
+<br/>
+Of course.
+</p>
+<p xml:id="subtitle99" begin="2919583333t" end="2943273666t" region="region0" nttm:uuid="3af300db-fe89-43bb-93a9-e76486bef5ae">
+But like, I do want the best
+<br/>
+for him, for sure.
+</p>
+<p xml:id="subtitle100" begin="2943941000t" end="2980978000t" region="region0" nttm:uuid="db70e889-bc82-4eb0-bb56-c461a3ca4707">
+I know I would be upset
+<br/>
+because I finally meet you guys.
+</p>
+<p xml:id="subtitle101" begin="2985649333t" end="3017681333t" region="region0" nttm:uuid="d2eba9a3-147d-4e99-9093-51be66645bad">
+I took a lot of gut punches in public.
+<br/>
+You know what?
+</p>
+<p xml:id="subtitle102" begin="3018348666t" end="3030027000t" region="region0" nttm:uuid="4d7b9ece-ab36-42fc-95e6-0ec53d35c701">
+I'm gonna
+<br/>
+friend zone him.
+</p>
+<p xml:id="subtitle103" begin="3030694333t" end="3066063000t" region="region0" nttm:uuid="79dfe1fb-4ef1-4492-8aae-963d3ee0cc1f">
+But then like, we had such a good
+<br/>
+connection, I saw him in a suit,
+</p>
+<p xml:id="subtitle104" begin="3066730333t" end="3103767333t" region="region0" nttm:uuid="1ec73e9d-bb85-43c1-9da7-f2f673c56ec8">
+-and now I'm, like... arggh!
+<br/>
+-Aw.
+</p>
+<p xml:id="subtitle105" begin="3104434666t" end="3122452666t" region="region0" nttm:uuid="c96f8461-8ab8-4ebd-8edb-28dd85595f5d">If I had left it in the friend zone,</p>
+<p xml:id="subtitle106" begin="3127457666t" end="3152482666t" region="region0" nttm:uuid="85917822-36d1-4622-a581-0071a478ee4b">
+maybe I-- I probably would have still felt
+<br/>
+this heavy,
+</p>
+<p xml:id="subtitle107" begin="3153150000t" end="3172169000t" region="region0" nttm:uuid="e48ce387-7552-4eba-ab45-5c5746489a6b">
+but it wouldn't be public
+<br/>
+like this.
+</p>
+<p xml:id="subtitle108" begin="3172836333t" end="3189519666t" region="region0" nttm:uuid="0d21a18d-f1f6-4873-9d4f-cda96a977d42">Just make him feel welcome, man.</p>
+<p xml:id="subtitle109" begin="3190187000t" end="3212209000t" region="region0" nttm:uuid="12173a5e-3e3e-4baf-8269-499f44f0944d">
+This couldn't have came
+<br/>
+at a better time.
+</p>
+<p xml:id="subtitle110" begin="3212876333t" end="3229226000t" region="region0" nttm:uuid="d0136fff-fbec-4138-9134-15c98dfdd059">
+-Like...
+<br/>
+-We might never leave the hot tub.
+</p>
+<p xml:id="subtitle111" begin="3230227000t" end="3246910333t" region="region0" nttm:uuid="af240eef-5023-424f-b05d-091d96bb973a">
+-We might never leave it.
+<br/>
+-Be there all night, man.
+</p>
+<p xml:id="subtitle112" begin="3247577666t" end="3257253999t" region="region0" nttm:uuid="501fe150-86f6-4dd9-a733-e7f2088b38e9">
+-[laughing]
+<br/>
+-All night.
+</p>
+<p xml:id="subtitle113" begin="3257921333t" end="3268932333t" region="region0" nttm:uuid="42d12fad-0959-4ca4-bcf9-530ee7fbbcd2">Y'all sure you wanna do this?</p>
+<p xml:id="subtitle114" begin="3269599666t" end="3308305000t" region="region0" nttm:uuid="d3310761-8e66-4693-9dfc-cff4f5dafa03">
+♪
+<span style="style1">I don't care</span>
+<br/>
+<span style="style1">If I don't make a scene </span>
+♪
+</p>
+<p xml:id="subtitle115" begin="3308972333t" end="3344341000t" region="region0" nttm:uuid="cf15e283-3621-404b-8d8a-e357d18e5f0f">
+My name is Rachel, I'm 21,
+<br/>
+I'm from Minneapolis, Minnesota.
+</p>
+<p xml:id="subtitle116" begin="3345008333t" end="3365695666t" region="region0" nttm:uuid="718d6124-ceff-4765-a644-8a78197ccad7">
+I know what I want,
+<br/>
+I know who I am,
+</p>
+<p xml:id="subtitle117" begin="3366363000t" end="3384714666t" region="region0" nttm:uuid="12872948-1133-4c7b-9ccb-c7e373dac39c">
+so I'm not really here
+<br/>
+to, like, waste time.
+</p>
+<p xml:id="subtitle118" begin="3385382000t" end="3431761666t" region="region0" nttm:uuid="78fa5023-c9d7-43b3-9b64-407cd94c0308">
+♪
+<span style="style1">I do as I please</span>
+<br/>
+<span style="style1">Bring you to your knees </span>
+♪
+</p>
+<p xml:id="subtitle119" begin="3442772666t" end="3458455000t" region="region0" nttm:uuid="b2fdbe39-c920-4bc9-bf18-b2629c0762d7">Bring on the men.</p>
+<p xml:id="subtitle120" begin="3459122333t" end="3489152333t" region="region0" nttm:uuid="a049fc96-6b68-4c8a-aac8-8137905b7630">[music continues indistinctly]</p>
+<p xml:id="subtitle121" begin="3517180333t" end="3543206333t" region="region0" nttm:uuid="80adfe99-fbbc-4182-9dad-03f72cb58a36">
+Hey y'all, my name is Kirstin.
+<br/>
+I'm 23 years old,
+</p>
+<p xml:id="subtitle122" begin="3543873666t" end="3564227333t" region="region0" nttm:uuid="4f94d508-1ffb-4073-bf4c-9078e4d15a42">
+and I'm from Austin, Texas,
+<br/>
+and I'm a bartender.
+</p>
+<p xml:id="subtitle123" begin="3575238333t" end="3590920666t" region="region0" nttm:uuid="e3ecfa5b-e959-4e42-8892-598e80fa45c2">I'm so excited to get into the villa,</p>
+<p xml:id="subtitle124" begin="3591588000t" end="3621284333t" region="region0" nttm:uuid="8c25b381-c92a-471f-86bf-925a3759bce1">
+I have these new babies
+<br/>
+on my chest, brand-new.
+</p>
+<p xml:id="subtitle125" begin="3621951666t" end="3639302333t" region="region0" nttm:uuid="bdf3e105-8c62-4a90-a570-e4cc560774fa">
+You can look,
+<br/>
+but don't touch, yes.
+</p>
+<p xml:id="subtitle126" begin="3669332333t" end="3701030666t" region="region0" nttm:uuid="5f119d80-a996-490a-bbbc-b36e3dc2793e">
+I'm single, I'm ready to mingle,
+<br/>
+and I'm ready for you boys,
+</p>
+<p xml:id="subtitle127" begin="3701698000t" end="3714043666t" region="region0" nttm:uuid="19c919fe-d2aa-4707-a3d9-8b6b63f02e22">so you better be ready for me.</p>
+<p xml:id="subtitle128" begin="3786449333t" end="3799128666t" region="region0" nttm:uuid="753fdc63-fb8d-4a26-8605-ab7c3e1574a9">
+-Ooh.
+<br/>
+-Hey, how y'all doing?
+</p>
+<p xml:id="subtitle129" begin="3799796000t" end="3817480333t" region="region0" nttm:uuid="f1315fc6-56e6-4d7a-b9b1-5f9b777ed22f">
+-Hi, I'm Kierstan.
+<br/>
+-Hello.
+</p>
+<p xml:id="subtitle130" begin="3818147666t" end="3840837000t" region="region0" nttm:uuid="1e5d1307-b966-45b8-9697-774f0af3bbe1">
+-I'm good, how are you?
+<br/>
+-I'm good, I'm good.
+</p>
+<p xml:id="subtitle131" begin="3841504333t" end="3865528333t" region="region0" nttm:uuid="f736cd1e-b3e7-474a-a256-f3d80e35a596">
+-Doing even better now.
+<br/>
+-Yeah? [giggles]
+</p>
+<p xml:id="subtitle132" begin="3866195666t" end="3893556333t" region="region0" nttm:uuid="cb3c4f7e-bb52-4212-ad78-e09a2148dd11">
+-Chocolate-covered strawberries--
+<br/>
+-I know, you're welcome to those.
+</p>
+<p xml:id="subtitle133" begin="3894223666t" end="3914243666t" region="region0" nttm:uuid="34d87391-e854-4daa-be47-ea9a89678bdf">
+-So I'm Kierstan.
+<br/>
+-I'm Carrington.
+</p>
+<p xml:id="subtitle134" begin="3914911000t" end="3924253666t" region="region0" nttm:uuid="7c95dbf7-8547-408d-8ca7-2cc740d80cb2">Nice to meet you.</p>
+<p xml:id="subtitle135" begin="3924921000t" end="3947944000t" region="region0" nttm:uuid="9eed415e-2354-45ec-998b-5d7190e35c1a">
+We'll do a little cheers,
+<br/>
+first and foremost.
+</p>
+<p xml:id="subtitle136" begin="3949278666t" end="3975304666t" region="region0" nttm:uuid="e567a52e-45e0-4e9e-a859-a5b186f88e68">
+-Yes.
+<br/>
+-Almost seems like we met before.
+</p>
+<p xml:id="subtitle137" begin="3975972000t" end="3991320666t" region="region0" nttm:uuid="0c908e55-e425-4c8f-8114-fcfc3fda1870">
+I know, it is crazy.
+<br/>
+[giggles]
+</p>
+<p xml:id="subtitle138" begin="3995324666t" end="4014010000t" region="region0" nttm:uuid="f27e64b6-9ecc-4b04-8dc3-58de2fb9f308">
+-Rachel, right?
+<br/>
+-Yes. I am.
+</p>
+<p xml:id="subtitle139" begin="4014677333t" end="4034697333t" region="region0" nttm:uuid="0ee2ccb3-d6a5-4224-a49d-cefa86994fdb">
+-I'm Rachel, and you are--
+<br/>
+-Jeremiah.
+</p>
+<p xml:id="subtitle140" begin="4039702333t" end="4054383666t" region="region0" nttm:uuid="de6abf75-c99a-4bff-a73a-8e6688f89a13">Oh, my God, your skin is beautiful.</p>
+<p xml:id="subtitle141" begin="4055051000t" end="4080743333t" region="region0" nttm:uuid="057f1eca-5844-4544-af46-d0a10ba4bceb">
+Thank you.
+<br/>
+Yours is very nice, too.
+</p>
+<p xml:id="subtitle142" begin="4081410666t" end="4099095000t" region="region0" nttm:uuid="2ad183e5-a511-4929-897c-c64cb0b085cc">[both laugh]</p>
+<p xml:id="subtitle143" begin="4099762333t" end="4110439666t" region="region0" nttm:uuid="be85b704-4e1e-447d-a658-3cd835c34d02">
+Maybe we should eat
+<br/>
+one of these.
+</p>
+<p xml:id="subtitle144" begin="4122785333t" end="4140803333t" region="region0" nttm:uuid="5368789f-9f7a-40a9-89b8-1b56b1857da1">
+Maybe I should feed you
+<br/>
+one of them.
+</p>
+<p xml:id="subtitle145" begin="4142471666t" end="4168831333t" region="region0" nttm:uuid="5f2f1f96-152f-4541-b7c0-bbc8780726bb">
+-Oh. Okay. There we go.
+<br/>
+-Okay, let's do this.
+</p>
+<p xml:id="subtitle146" begin="4182845333t" end="4203866333t" region="region0" nttm:uuid="6555af79-473f-4268-b30a-97e851ab6151">[giggling] Okay, there we go.</p>
+<p xml:id="subtitle147" begin="4209872333t" end="4251247000t" region="region0" nttm:uuid="678dd074-37f7-4942-bc0a-4a622818927c">
+[Matthew]
+<span style="style1">Looks like Carrington and</span>
+<br/>
+<span style="style1">Kierstan have strawberry fields forever,</span>
+</p>
+<p xml:id="subtitle148" begin="4251914333t" end="4297960333t" region="region0" nttm:uuid="89aad034-92bc-4a73-adb9-9fd0d8235fe2">
+<span style="style1">and Jeremiah and Rachel</span>
+<br/>
+<span style="style1">have a... magical mystery tour...</span>
+</p>
+<p xml:id="subtitle149" begin="4301297000t" end="4314977333t" region="region0" nttm:uuid="c7569af1-221c-41af-b5a5-a6b00539a7ba">
+<span style="style1">Oh, that didn't work.</span>
+</p>
+<p xml:id="subtitle150" begin="4315644666t" end="4355351000t" region="region0" nttm:uuid="3ca420eb-a8d7-4353-9304-9e87187d335d">
+<span style="style1">Now, after being single</span>
+<br/>
+<span style="style1">for a whole 48 seconds,</span>
+</p>
+<p xml:id="subtitle151" begin="4356018333t" end="4381710666t" region="region0" nttm:uuid="54492116-564c-4c65-8793-9bb7076dc34d">
+<span style="style1">Tre-Tre's trying again with Justine,</span>
+</p>
+<p xml:id="subtitle152" begin="4382378000t" end="4428090333t" region="region0" nttm:uuid="a170a832-edd7-48b4-819a-6b57e6f0e6a6">
+<span style="style1">but only after cameraman Tom</span>
+<br/>
+<span style="style1">refocuses on the neon sign.</span>
+</p>
+<p xml:id="subtitle153" begin="4436765666t" end="4449778666t" region="region0" nttm:uuid="ace53219-cc8e-40b1-9b16-b1efd0d377dd">
+<span style="style1">Gorgeous.</span>
+</p>
+<p xml:id="subtitle154" begin="4456785666t" end="4485481000t" region="region0" nttm:uuid="a77112dc-640e-4ea5-8357-c8a1e11f518d">
+What if all of this stuff, like,
+<br/>
+happened for a reason?
+</p>
+<p xml:id="subtitle155" begin="4486148333t" end="4513509000t" region="region0" nttm:uuid="bbd69c54-cece-44f1-b6fc-16fcb0769699">
+Like, what if things wasn't
+<br/>
+supposed to work out
+</p>
+<p xml:id="subtitle156" begin="4514176333t" end="4551547000t" region="region0" nttm:uuid="04487e1c-21ed-4ef6-af1d-13c81a099de5">
+with who I picked, and then, things wasn't
+<br/>
+supposed to work out with who you picked?
+</p>
+<p xml:id="subtitle157" begin="4552214333t" end="4580909666t" region="region0" nttm:uuid="bb7a5c9d-cb46-4706-a6c0-0e718cd36e69">
+Not gonna lie to you.
+<br/>
+Like, I'm an open book and I'm real.
+</p>
+<p xml:id="subtitle158" begin="4584246333t" end="4604266333t" region="region0" nttm:uuid="7a874395-22c5-4860-805f-f8f6a06a3745">
+-Like, I kinda ruled you off first.
+<br/>
+-Yes.
+</p>
+<p xml:id="subtitle159" begin="4605601000t" end="4628957666t" region="region0" nttm:uuid="1eba9ada-0978-4e00-b54e-dd3a63cb36a3">
+And I'm sure you probably
+<br/>
+did the same thing for me.
+</p>
+<p xml:id="subtitle160" begin="4629625000t" end="4650646000t" region="region0" nttm:uuid="83bce9a2-4df7-4c3e-bac1-e78aa3a41ecf">
+-Yeah.
+<br/>
+-Everybody always thinks I'm a player.
+</p>
+<p xml:id="subtitle161" begin="4653315333t" end="4663659000t" region="region0" nttm:uuid="5d5db39a-e9a6-4ef0-abca-c1286116aa30">Yeah, I was.</p>
+<p xml:id="subtitle162" begin="4668997666t" end="4680676000t" region="region0" nttm:uuid="509f181a-3f40-444b-92f7-afcb52705576">
+Like, I'm not going to lie.
+<br/>
+I'm not perfect.
+</p>
+<p xml:id="subtitle163" begin="4681343333t" end="4701363333t" region="region0" nttm:uuid="59718907-fdc9-4a76-96fe-4bba0301ae7e">
+I've got a past,
+<br/>
+but don't we all?
+</p>
+<p xml:id="subtitle164" begin="4702030666t" end="4725721000t" region="region0" nttm:uuid="32e04d37-ec86-49e8-ab9a-6f8ba5ba19fe">
+But now, I'm straight up.
+<br/>
+So you know where I stand.
+</p>
+<p xml:id="subtitle165" begin="4726388333t" end="4755751000t" region="region0" nttm:uuid="02370b15-f847-4cf4-95f9-3df3da95ef4e">
+You're a beautiful girl, you're
+<br/>
+attractive, and I'ma talk to you,
+</p>
+<p xml:id="subtitle166" begin="4756418333t" end="4767429333t" region="region0" nttm:uuid="ee4f8504-9c88-4147-834f-31c2e147acad">
+and I wanna get
+<br/>
+to know you,
+</p>
+<p xml:id="subtitle167" begin="4771433333t" end="4803131666t" region="region0" nttm:uuid="523da66a-04d0-488e-9d77-07221c2e71a9">
+but I'm not gonna sit here and say
+<br/>
+I'm not gonna get to know other people.
+</p>
+<p xml:id="subtitle168" begin="4803799000t" end="4823151666t" region="region0" nttm:uuid="64cd29e0-de3e-4b28-97ed-b91028de18ca">
+-Yeah, same.
+<br/>
+-I know you're gonna get to know
+</p>
+<p xml:id="subtitle169" begin="4823819000t" end="4845173666t" region="region0" nttm:uuid="0a28a886-67cd-44ca-954c-6269adc616af">
+other people too. I know you got
+<br/>
+your thing for Jeremiah,
+</p>
+<p xml:id="subtitle170" begin="4845841000t" end="4867529333t" region="region0" nttm:uuid="439faa93-28da-4822-b726-25a3259f5cd1">
+and you're gonna keep on talking to
+<br/>
+him too and y'all are sharing a bed,
+</p>
+<p xml:id="subtitle171" begin="4868196666t" end="4901563333t" region="region0" nttm:uuid="d853b7cf-ed20-46dc-8601-2a58de32ed97">
+and, I don't know,
+<br/>
+maybe we could see where things go?
+</p>
+<p xml:id="subtitle172" begin="4902230666t" end="4925921000t" region="region0" nttm:uuid="8f79b414-3f63-44aa-9721-0026afdc9476">
+You know me by now.
+<br/>
+I'm a very honest person, like--
+</p>
+<p xml:id="subtitle173" begin="4926588333t" end="4952280666t" region="region0" nttm:uuid="6c411b3b-855e-4818-a423-abb32d2b19c8">
+-Okay, question for you.
+<br/>
+-Okay.
+</p>
+<p xml:id="subtitle174" begin="4952948000t" end="4969631333t" region="region0" nttm:uuid="c55958b5-3073-4f10-978f-b0ee2355b5b6">Have you and Jeremiah kissed yet?</p>
+<p xml:id="subtitle175" begin="4970298666t" end="4979641333t" region="region0" nttm:uuid="e5b2665b-b076-47da-8280-53c45c86e0c6">No.</p>
+<p xml:id="subtitle176" begin="4980308666t" end="5012674333t" region="region0" nttm:uuid="f234c061-dc24-49c5-90bb-50e2faadb36c">
+Would you be open to try and see
+<br/>
+what it would feel like?
+</p>
+<p xml:id="subtitle177" begin="5027022000t" end="5043038000t" region="region0" nttm:uuid="92a91043-3924-4766-bb29-f6607f5debb6">
+I mean,
+<br/>
+if the moment's right.
+</p>
+<p xml:id="subtitle178" begin="5053048000t" end="5078073000t" region="region0" nttm:uuid="c9bdade6-c1de-4fc7-ad86-0aa552c23307">
+I feel like
+<br/>
+Tre tries so hard,
+</p>
+<p xml:id="subtitle179" begin="5080408666t" end="5095757333t" region="region0" nttm:uuid="746e6966-eca4-4f8b-9b96-9e97efcd1f99">
+but with me,
+<br/>
+he doesn't have to do that.
+</p>
+<p xml:id="subtitle180" begin="5096424666t" end="5125787333t" region="region0" nttm:uuid="55bb585d-9084-44cb-913f-f204fb84c4af">
+We already have that initial
+<br/>
+genuine connection.
+</p>
+<p xml:id="subtitle181" begin="5126454666t" end="5146141000t" region="region0" nttm:uuid="02252d31-d6ce-4a38-b71a-3c5bfae7c146">
+We have that banter.
+<br/>
+We have that back and forth.
+</p>
+<p xml:id="subtitle182" begin="5146808333t" end="5173168000t" region="region0" nttm:uuid="e6815d81-f37d-42d3-a289-2890d37ec7eb">
+There's no weird lulls
+<br/>
+in conversation.
+</p>
+<p xml:id="subtitle183" begin="5182177000t" end="5196524666t" region="region0" nttm:uuid="3a1ec54e-31f8-4066-bfe8-9465319a128d">But sometimes, I'm like...</p>
+<p xml:id="subtitle184" begin="5201196000t" end="5227889333t" region="region0" nttm:uuid="e1c4ba28-1fd4-428f-961f-c3d19b5f509f">
+I don't know
+<br/>
+if I can believe everything Tre says.
+</p>
+<p xml:id="subtitle185" begin="5228556666t" end="5244906333t" region="region0" nttm:uuid="b4030ed1-eae8-4325-b575-076429746f47">So many things have happened today.</p>
+<p xml:id="subtitle186" begin="5245573666t" end="5260922333t" region="region0" nttm:uuid="4abbe2f0-ee16-45c9-8d0e-9fc04be1b0ef">I don't even know how I feel.</p>
+<p xml:id="subtitle187" begin="5262257000t" end="5285613666t" region="region0" nttm:uuid="95abffd8-5535-4161-942f-11f08fa5ca44">
+Tre. Jeremiah.
+<br/>
+Like, what's going on?
+</p>
+<p xml:id="subtitle188" begin="5286281000t" end="5306301000t" region="region0" nttm:uuid="4c1111e0-4923-4c04-9c50-530efc2c4588">Like, I know...</p>
+<p xml:id="subtitle189" begin="5313975333t" end="5336664666t" region="region0" nttm:uuid="c08f7d93-d55c-4e70-91fd-5d1c918b0255">
+-Aww. What.
+<br/>
+-Other cheek. Other cheek.
+</p>
+<p xml:id="subtitle190" begin="5341669666t" end="5365360000t" region="region0" nttm:uuid="3a768e1f-257c-4966-a150-b3dfd7438982">
+And now the forehead.
+<br/>
+The forehead. Forehead.
+</p>
+<p xml:id="subtitle191" begin="5396057333t" end="5408069333t" region="region0" nttm:uuid="2aa11e02-402b-48b5-a4b9-a40dad34e822">Oh, you're smooth.</p>
+<p xml:id="subtitle192" begin="5408736666t" end="5427755666t" region="region0" nttm:uuid="654ca0ee-593c-425a-a45d-fb489e56213f">
+I'm gonna go downstairs
+<br/>
+before you go...
+</p>
+<p xml:id="subtitle193" begin="5430091333t" end="5456784666t" region="region0" nttm:uuid="78adeea3-b097-41f5-9d12-7e43641df74b">
+you get a little reckless
+<br/>
+on me.
+</p>
+<p xml:id="subtitle194" begin="5457452000t" end="5478139333t" region="region0" nttm:uuid="110b537a-8d01-4d58-8d9a-cbef8e3287ed">
+-What? You think I'm gonna get reckless?
+<br/>
+-Yup.
+</p>
+<p xml:id="subtitle195" begin="5501496000t" end="5529524000t" region="region0" nttm:uuid="c0ce3004-e8b8-4430-ae33-c3bb013c2a15">
+[Matthew]
+<span style="style1">Now Johnny tries</span>
+<br/>
+<span style="style1">keeping Kaitlynn on his good side</span>
+</p>
+<p xml:id="subtitle196" begin="5530191333t" end="5557885666t" region="region0" nttm:uuid="66146028-964a-4ff0-9e31-bdb1e74c6e3b">
+<span style="style1">after not choosing her</span>
+<br/>
+<span style="style1">as his "ride or die".</span>
+</p>
+<p xml:id="subtitle197" begin="5559220333t" end="5576904666t" region="region0" nttm:uuid="06987d49-99b4-4ea5-ad90-d3d520e56d1e">
+-Can we talk for a minute?
+<br/>
+-Yeah.
+</p>
+<p xml:id="subtitle198" begin="5579240333t" end="5599927666t" region="region0" nttm:uuid="2e2b46a2-0a6e-40ee-b099-2b34fd5c186a">
+-I'm liking this spot.
+<br/>
+-Oh, yeah.
+</p>
+<p xml:id="subtitle199" begin="5613274333t" end="5622950666t" region="region0" nttm:uuid="9dd33aad-bc3a-4824-b638-001ab5dea132">So, what's up?</p>
+<p xml:id="subtitle200" begin="5623618000t" end="5670331333t" region="region0" nttm:uuid="d68dbeab-ad65-4e95-bfb1-41cb3df6f7d1">
+I mean, I just wanna maintain a good
+<br/>
+relationship with you, like we said.
+</p>
+<p xml:id="subtitle201" begin="5672333333t" end="5689684000t" region="region0" nttm:uuid="4d71ebd5-4ba5-40be-9dbc-1ac031158794">
+I just wanna make sure
+<br/>
+that still stands.
+</p>
+<p xml:id="subtitle202" begin="5693354333t" end="5703364333t" region="region0" nttm:uuid="097bedad-190c-491f-b5dc-204fba914249">Of course it does.</p>
+<p xml:id="subtitle203" begin="5704031666t" end="5742069666t" region="region0" nttm:uuid="e820c484-dcf8-4617-a7ff-4e5560b7fdff">
+There was so much pressure
+<br/>
+around me, you and her.
+</p>
+<p xml:id="subtitle204" begin="5742737000t" end="5753414333t" region="region0" nttm:uuid="3ce76fdf-e9c6-41c5-b5ee-4f3b47dffef6">
+-Yeah.
+<br/>
+-Yeah.
+</p>
+<p xml:id="subtitle205" begin="5757752000t" end="5788115666t" region="region0" nttm:uuid="9415242e-8ad1-4f08-a9f1-06de73775ef7">
+And I feel as though
+<br/>
+your decision was already made.
+</p>
+<p xml:id="subtitle206" begin="5788782999t" end="5808135666t" region="region0" nttm:uuid="93d675de-b75f-49f5-a3c9-63d0d362eddf">
+When I talked to you,
+<br/>
+I did not know.
+</p>
+<p xml:id="subtitle207" begin="5808803000t" end="5823150666t" region="region0" nttm:uuid="eb71558d-8d27-41e9-af8d-d03bfe5c6def">
+-Matter of fact--
+<br/>
+-This is the thing.
+</p>
+<p xml:id="subtitle208" begin="5823818000t" end="5854181666t" region="region0" nttm:uuid="7c242fb6-b5fd-47d4-a9df-e32a1ff39370">
+I 100% stand by your decision
+<br/>
+and I support you.
+</p>
+<p xml:id="subtitle209" begin="5854849000t" end="5872533333t" region="region0" nttm:uuid="2ea4ed3b-856c-4fea-85e2-2152f6ee3171">
+It was up in the air
+<br/>
+for a long time.
+</p>
+<p xml:id="subtitle210" begin="5873200666t" end="5890885000t" region="region0" nttm:uuid="e3fd1cf6-74ca-414c-a961-e62443b23774">
+This morning I woke up thinking
+<br/>
+about three people.
+</p>
+<p xml:id="subtitle211" begin="5891552333t" end="5913240666t" region="region0" nttm:uuid="0ccf115f-e373-412a-b14f-1b7f9ed994f0">Every single person I talked to, though,</p>
+<p xml:id="subtitle212" begin="5913908000t" end="5939266666t" region="region0" nttm:uuid="e5a14af7-5079-4306-941e-c1de3535f668">
+says that they knew
+<br/>
+what decision you were making.
+</p>
+<p xml:id="subtitle213" begin="5939934000t" end="5961288666t" region="region0" nttm:uuid="0fdbc4b6-4db1-4ce3-a924-0a2d7180a380">
+I don't know how that's possible
+<br/>
+'cause I never told anybody.
+</p>
+<p xml:id="subtitle214" begin="5961956000t" end="5974969000t" region="region0" nttm:uuid="04ab785d-bbcf-456e-80ac-5f669ad66c5e">
+I knew you were going
+<br/>
+to pick her.
+</p>
+<p xml:id="subtitle215" begin="5977972000t" end="5992319666t" region="region0" nttm:uuid="0a38df24-f228-4cc8-8b94-d88091d179de">
+It wasn't your fault
+<br/>
+and it wasn't my fault.
+</p>
+<p xml:id="subtitle216" begin="5992987000t" end="6009336666t" region="region0" nttm:uuid="3390dd93-6747-43ff-abd5-7b87e6b4b408">
+It's just the way
+<br/>
+the conversation went.
+</p>
+<p xml:id="subtitle217" begin="6011672333t" end="6027688333t" region="region0" nttm:uuid="41366ca3-e6c8-4e74-8aac-672d70a198db">
+-Mm-hmm.
+<br/>
+-And with her, I think what it was
+</p>
+<p xml:id="subtitle218" begin="6028355666t" end="6057384666t" region="region0" nttm:uuid="63b6e1a4-7afa-4f0f-b732-a00b1c447d66">
+I got to know her, like,
+<br/>
+her giggly, flirty side.
+</p>
+<p xml:id="subtitle219" begin="6058385666t" end="6075736333t" region="region0" nttm:uuid="3f2d35d2-bbdb-48d8-bc87-1deef815a6af">
+-And then I also got to know--
+<br/>
+-Yes.
+</p>
+<p xml:id="subtitle220" begin="6076403666t" end="6094088000t" region="region0" nttm:uuid="83d5261c-431d-4e4c-9164-0ae5913bfcd5">
+She laughs a lot.
+<br/>
+So that's great.
+</p>
+<p xml:id="subtitle221" begin="6105099000t" end="6121115000t" region="region0" nttm:uuid="5ee0ff60-6ce8-4919-8489-a469f57a0429">I mean, I feel fine.</p>
+<p xml:id="subtitle222" begin="6124451666t" end="6161155000t" region="region0" nttm:uuid="84de1ae4-7b0e-4a6d-a5ff-d2da07b0b973">
+The only thing is like obviously
+<br/>
+you wanna be the chosen one
+</p>
+<p xml:id="subtitle223" begin="6164158000t" end="6198859333t" region="region0" nttm:uuid="5ae11083-797a-4aee-8886-015afe7a469f">
+because doesn't everybody wanna be
+<br/>
+the chosen one?
+</p>
+<p xml:id="subtitle224" begin="6199526666t" end="6239566666t" region="region0" nttm:uuid="67239258-fe66-4ba2-97ba-fd28e0bfee4b">
+But at the end of the day,
+<br/>
+I'm happy for the both of them
+</p>
+<p xml:id="subtitle225" begin="6240234000t" end="6264591666t" region="region0" nttm:uuid="caae6b03-8e34-4826-8546-952cb5866bed">
+because if that
+<br/>
+is a genuine connection,
+</p>
+<p xml:id="subtitle226" begin="6265259000t" end="6306967333t" region="region0" nttm:uuid="5a873f1e-882f-43f5-9fa5-5f5d787ce113">
+then everybody should be making
+<br/>
+that decision, obviously.
+</p>
+<p xml:id="subtitle227" begin="6311305000t" end="6332326000t" region="region0" nttm:uuid="257594da-bd40-4cbf-b84a-b51f72583e22">
+-But are we good?
+<br/>
+-Yeah. Yes.
+</p>
+<p xml:id="subtitle228" begin="6332993333t" end="6346673666t" region="region0" nttm:uuid="52d2c847-8035-490a-93b2-d48b19a7e180">
+You need to couple up
+<br/>
+with the person
+</p>
+<p xml:id="subtitle229" begin="6347341000t" end="6374034333t" region="region0" nttm:uuid="7645dbfd-b92b-4946-b038-ce3a9ba1587f">
+that you feel
+<br/>
+the most genuine connection with.
+</p>
+<p xml:id="subtitle230" begin="6377371000t" end="6405065333t" region="region0" nttm:uuid="19495b13-ff72-4a74-955d-ee2a27db1ebf">
+Because then that also leaves me
+<br/>
+to do that as well.
+</p>
+<p xml:id="subtitle231" begin="6405732666t" end="6452446000t" region="region0" nttm:uuid="956c517e-5c39-4d62-b3c3-60ab6df5316a">
+I didn't get picked, but I'm not
+<br/>
+giving up on love. [clicks tongue]
+</p>
+<p xml:id="subtitle232" begin="6453113333t" end="6479473000t" region="region0" nttm:uuid="41d2ca72-fabe-4db1-95a3-ead9282e855f">
+I've just been a bitch
+<br/>
+for the last three hours.
+</p>
+<p xml:id="subtitle233" begin="6480140333t" end="6494154333t" region="region0" nttm:uuid="52b10c22-ba7d-4655-91fd-23e4f0b2c7b9">
+-I needed to hug you earlier.
+<br/>
+-Uh-huh.
+</p>
+<p xml:id="subtitle234" begin="6494821666t" end="6520514000t" region="region0" nttm:uuid="54449f8d-4f37-4231-8978-1419aa81c9d1">[music]</p>
+<p xml:id="subtitle235" begin="6540867666t" end="6570897666t" region="region0" nttm:uuid="a9d37c5f-a7ea-47fd-bfcf-1d345da1fb99">
+So I heard you're coupled up
+<br/>
+with someone.
+</p>
+<p xml:id="subtitle236" begin="6571565000t" end="6592252333t" region="region0" nttm:uuid="3b3ffb3c-5b32-4a6c-a217-0837591c0893">
+Tell me about that.
+<br/>
+Her name's Kaitlynn, right?
+</p>
+<p xml:id="subtitle237" begin="6592919666t" end="6604597999t" region="region0" nttm:uuid="506b4693-93de-4de2-8624-afebe1d42824">
+-How's that going?
+<br/>
+-It is.
+</p>
+<p xml:id="subtitle238" begin="6609269333t" end="6622616000t" region="region0" nttm:uuid="ab7024d7-8cf0-4594-b4d0-1da771d0aaff">
+We had a good day
+<br/>
+yesterday,
+</p>
+<p xml:id="subtitle239" begin="6623283333t" end="6640634000t" region="region0" nttm:uuid="fc26c1fa-e5df-418f-8d1e-d9133888b710">but again, first day, I'm not...</p>
+<p xml:id="subtitle240" begin="6641301333t" end="6669329333t" region="region0" nttm:uuid="fe521b2b-90a3-4286-99bd-5ab4cdac57c4">
+I don't love the girl. I don't have googly
+<br/>
+eyes for her. We're just coupled up.
+</p>
+<p xml:id="subtitle241" begin="6672332333t" end="6712038666t" region="region0" nttm:uuid="a6712682-3b52-4c99-9e66-549b8840d3df">
+Today, however... just...
+<br/>
+just not... not...
+</p>
+<p xml:id="subtitle242" begin="6712706000t" end="6732058666t" region="region0" nttm:uuid="7473ae59-a3a6-4185-b0d1-5aeb773040a2">
+-You're not feeling it?
+<br/>
+-You were a blessing
+</p>
+<p xml:id="subtitle243" begin="6732726000t" end="6744737999t" region="region0" nttm:uuid="9b1c2c28-6e97-4c70-b865-781fcdef22e3">
+from the skies
+<br/>
+because
+</p>
+<p xml:id="subtitle244" begin="6745405333t" end="6760420333t" region="region0" nttm:uuid="97a43e99-4897-45d7-a81c-c2de56ad22cd">
+literally, today we talked,
+<br/>
+and we were, like,
+</p>
+<p xml:id="subtitle245" begin="6761087666t" end="6775435333t" region="region0" nttm:uuid="ccf5bcf3-5dfb-4dae-b018-bd0b20327907">"I think we should just be friends."</p>
+<p xml:id="subtitle246" begin="6776102666t" end="6803463333t" region="region0" nttm:uuid="db4f56f8-65fb-4660-943e-6adfd58def3d">
+-No way. Oh, my God.
+<br/>
+-Yeah. That fast.
+</p>
+<p xml:id="subtitle247" begin="6804130666t" end="6817477333t" region="region0" nttm:uuid="8724fce6-a160-4c5b-b6c6-09be6aa6b112">That's really good to hear.</p>
+<p xml:id="subtitle248" begin="6818144666t" end="6848842000t" region="region0" nttm:uuid="5888f642-40e2-4781-a4c0-7df3d3346c2c">
+I'm feeling you for sure. I'm feeling you
+<br/>
+and I got nothing in my way.
+</p>
+<p xml:id="subtitle249" begin="6849509333t" end="6862856000t" region="region0" nttm:uuid="423416fb-9449-4554-b0a5-5700dc29f197">Just don't pull a Kaitlynn on me.</p>
+<p xml:id="subtitle250" begin="6863523333t" end="6881875000t" region="region0" nttm:uuid="b96a20a1-5611-4e72-9020-7171fe063c29">
+-Cheers to that.
+<br/>
+-Cheers.
+</p>
+<p xml:id="subtitle251" begin="6894554333t" end="6910236666t" region="region0" nttm:uuid="8e464c29-6d45-4915-85c0-1587b7fa1813">So, what made you pick me?</p>
+<p xml:id="subtitle252" begin="6910904000t" end="6919245666t" region="region0" nttm:uuid="cc33e3bd-0518-48da-8e67-6584856af946">Honestly?</p>
+<p xml:id="subtitle253" begin="6928588333t" end="6942936000t" region="region0" nttm:uuid="cafedc4c-c91d-497b-858f-7b07e89fd2b2">Yeah, I wanna hear this.</p>
+<p xml:id="subtitle254" begin="6943603333t" end="6968628333t" region="region0" nttm:uuid="5f02a5f5-0354-40af-920c-e86cc11fc9d2">
+Yeah, you definitely looked
+<br/>
+the tallest,
+</p>
+<p xml:id="subtitle255" begin="6969295666t" end="6984310666t" region="region0" nttm:uuid="4bfdaee3-e802-423f-8ac0-9a8ba6b56057">which is like, definitely is more,</p>
+<p xml:id="subtitle256" begin="6984977999t" end="7007667333t" region="region0" nttm:uuid="6e36fb9b-21fa-41ed-96f1-54252f9b4c8d">
+but then also you're like,
+<br/>
+luckily, the most attractive.
+</p>
+<p xml:id="subtitle257" begin="7008334666t" end="7025351666t" region="region0" nttm:uuid="3e89d337-93fa-46c2-80ea-9ff32748a9a6">
+-Ooh!
+<br/>
+-I just, like, had to go in.
+</p>
+<p xml:id="subtitle258" begin="7026019000t" end="7045371666t" region="region0" nttm:uuid="a796fa29-eb5c-4dbb-964e-a2109148627e">
+-Ooh!
+<br/>
+-Yeah. A little boost to the ego.
+</p>
+<p xml:id="subtitle259" begin="7049042000t" end="7064390666t" region="region0" nttm:uuid="437dd352-8070-4eec-a7d9-282f9cd3ab96">
+So it's just like, yeah,
+<br/>
+oh, yeah.
+</p>
+<p xml:id="subtitle260" begin="7065058000t" end="7087747333t" region="region0" nttm:uuid="ca484398-e9f2-4ae6-ba80-6788369a0dc6">
+So tell me what has been
+<br/>
+going on in the villa?
+</p>
+<p xml:id="subtitle261" begin="7088414666t" end="7108434666t" region="region0" nttm:uuid="d1319265-0e26-4403-a4a4-e871aebd0dfe">Right now, I was coupled up with Justine.</p>
+<p xml:id="subtitle262" begin="7109102000t" end="7124450666t" region="region0" nttm:uuid="15551c94-2de2-435a-9b3c-9320e62b8a16">
+Okay.
+<br/>
+Do you like her?
+</p>
+<p xml:id="subtitle263" begin="7125118000t" end="7152145000t" region="region0" nttm:uuid="3e0d41b0-7687-4fa1-9964-cfc26af77796">
+Yeah, like, we vibe really well,
+<br/>
+you know what I'm saying?
+</p>
+<p xml:id="subtitle264" begin="7152812333t" end="7176169000t" region="region0" nttm:uuid="6412dbe8-9e85-49f4-8815-1acf7ff0109c">
+But it is kind of like
+<br/>
+on the friends station.
+</p>
+<p xml:id="subtitle265" begin="7176836333t" end="7194187000t" region="region0" nttm:uuid="93203284-cb55-49fd-8054-6ea9532f1b4c">
+-Got you.
+<br/>
+-You know what I'm saying?
+</p>
+<p xml:id="subtitle266" begin="7194854333t" end="7215208000t" region="region0" nttm:uuid="cfb318b2-dec7-47a6-8fc5-0b97f1d3bc87">
+I'm vibing with somebody else better,
+<br/>
+you know what I'm saying?
+</p>
+<p xml:id="subtitle267" begin="7215875333t" end="7242235000t" region="region0" nttm:uuid="48e455e7-fce9-4dc6-b504-57883b963816">
+-We make sure we communicate anything.
+<br/>
+-Yeah.
+</p>
+<p xml:id="subtitle268" begin="7245238000t" end="7258918333t" region="region0" nttm:uuid="e0d601ba-5e79-4f84-a7f2-c0cf75ccfe51">We've definitely been vibing.</p>
+<p xml:id="subtitle269" begin="7259585666t" end="7290950333t" region="region0" nttm:uuid="5cfeb43b-a22e-4aae-9f40-79b76ceb346e">
+I love your vibes, you understand,
+<br/>
+your personality.
+</p>
+<p xml:id="subtitle270" begin="7291617666t" end="7301294000t" region="region0" nttm:uuid="9ea1314a-eb7b-430b-9443-439cf3a84895">Yeah.</p>
+<p xml:id="subtitle271" begin="7301961333t" end="7315308000t" region="region0" nttm:uuid="7b345a88-9649-464b-a34d-4498b0271659">
+I'm looking forward
+<br/>
+to see where it goes.
+</p>
+<p xml:id="subtitle272" begin="7315975333t" end="7338664666t" region="region0" nttm:uuid="bc7b7b60-f0d1-48a2-9d3b-298bf68b4ae0">
+Yeah. I'm definitely
+<br/>
+looking forward to it, too.
+</p>
+<p xml:id="subtitle273" begin="7341667666t" end="7365358000t" region="region0" nttm:uuid="db9a78f1-ce39-4e5e-952c-1c4058ac5ce3">
+-Let's have fun. [laughing]
+<br/>
+-Yeah.
+</p>
+<p xml:id="subtitle274" begin="7470796666t" end="7496155333t" region="region0" nttm:uuid="a705c899-4498-4467-b1b8-903f5c1f989b">
+He deserves to be
+<br/>
+with someone he wants to be with.
+</p>
+<p xml:id="subtitle275" begin="7496822666t" end="7527186333t" region="region0" nttm:uuid="4507dfc3-692d-4501-95ba-d81aecac6c49">
+That's what we're here for
+<br/>
+at the end of the day.
+</p>
+<p xml:id="subtitle276" begin="7557883666t" end="7574567000t" region="region0" nttm:uuid="10372403-162b-4bbf-b17c-dc540d9f4307">But this is what's supposed to happen.</p>
+<p xml:id="subtitle277" begin="7575234333t" end="7602595000t" region="region0" nttm:uuid="fd724e6e-54e3-4fc2-82fa-0773be7f6fd2">
+-And I can tell in her case...
+<br/>
+-[woman squealing and clapping]
+</p>
+<p xml:id="subtitle278" begin="7606265333t" end="7629622000t" region="region0" nttm:uuid="e9079e01-b06f-4036-bf9f-649a1275dbad">
+[man] Rachel and "Kira"?
+<br/>
+"Kira."
+</p>
+<p xml:id="subtitle279" begin="7630956666t" end="7641634000t" region="region0" nttm:uuid="f2e064f9-5980-4c5e-bd4a-e9a8986cc2d3">
+-"Kira."
+<br/>
+-[Cely squeals]
+</p>
+<p xml:id="subtitle280" begin="7642301333t" end="7654647000t" region="region0" nttm:uuid="007cfe66-6d91-4c36-bb50-5816f85ddddd">
+-Yeah, of course.
+<br/>
+-Yeah, I wanna say hi.
+</p>
+<p xml:id="subtitle281" begin="7655314333t" end="7664657000t" region="region0" nttm:uuid="c89f2528-33e7-4447-a04f-a4a8d50f2b2f">Well, come on.</p>
+<p xml:id="subtitle282" begin="7693686000t" end="7703362333t" region="region0" nttm:uuid="f9d3b9a1-b58d-4614-8a3f-40ad6ebdab07">
+-Hi!
+<br/>
+-Hi!
+</p>
+<p xml:id="subtitle283" begin="7704029666t" end="7713038666t" region="region0" nttm:uuid="b3c46eb2-a573-4052-beae-504d3656b40e">
+-Hello!
+<br/>
+-Hi!
+</p>
+<p xml:id="subtitle284" begin="7713706000t" end="7722047666t" region="region0" nttm:uuid="d5277bbb-55bd-47d9-9dd6-f3df3f248ace">
+-Welcome!
+<br/>
+-Welcome! Welcome!
+</p>
+<p xml:id="subtitle285" begin="7722715000t" end="7740399333t" region="region0" nttm:uuid="e45fb471-9951-4e63-ab20-127b3912c6da">You are gorgeous!</p>
+<p xml:id="subtitle286" begin="7741066666t" end="7765757999t" region="region0" nttm:uuid="77f89d07-f3bd-4d20-8a00-1b0967a8da9c">
+Girl, you look so good,
+<br/>
+so good.
+</p>
+<p xml:id="subtitle287" begin="7766425333t" end="7779772000t" region="region0" nttm:uuid="302f9aeb-977b-42c3-83d5-5d60ae06395d">Hi, I'm Mackenzie.</p>
+<p xml:id="subtitle288" begin="7780439333t" end="7809468333t" region="region0" nttm:uuid="d4223092-d92a-4903-aa90-8fa803bdb88f">
+Hi, Kaitlynn. Nice to meet you.
+<br/>
+You're Kierstan?
+</p>
+<p xml:id="subtitle289" begin="7810135666t" end="7825818000t" region="region0" nttm:uuid="05ec3156-b547-40b5-bd01-e5ee623c49ed">
+-Yes.
+<br/>
+-Nice to meet you.
+</p>
+<p xml:id="subtitle290" begin="7830155666t" end="7844503333t" region="region0" nttm:uuid="d84d2c02-3817-4e55-8cc4-c67d2c05b97e">
+I'm Johnny.
+<br/>
+Nice to meet you.
+</p>
+<p xml:id="subtitle291" begin="7845170666t" end="7854513333t" region="region0" nttm:uuid="268f0702-5aef-45ee-a91e-db175f82b0d9">
+-Nice to meet you, Johnny.
+<br/>
+-What's your name?
+</p>
+<p xml:id="subtitle292" begin="7855180666t" end="7867860000t" region="region0" nttm:uuid="d23704f3-bed9-47bb-a394-85cca060c892">
+-Oh my gosh. Rachel. Yes.
+<br/>
+-Rachel?
+</p>
+<p xml:id="subtitle293" begin="7868527333t" end="7885878000t" region="region0" nttm:uuid="9b00fbe4-80b4-4b9d-83fb-cdad7bbac49f">I was so nervous.</p>
+<p xml:id="subtitle294" begin="7886545333t" end="7903896000t" region="region0" nttm:uuid="9a519cbd-6d92-4c9a-9e04-3835568f665e">
+You just had a date
+<br/>
+with a guy,
+</p>
+<p xml:id="subtitle295" begin="7904563333t" end="7920579333t" region="region0" nttm:uuid="9f9de0ef-3a5d-46da-ac56-8cbcc24089cf">
+and you have to walk
+<br/>
+down these stairs
+</p>
+<p xml:id="subtitle296" begin="7921246666t" end="7946939000t" region="region0" nttm:uuid="63e44f68-ff03-433a-bbca-1621f8dd69f4">
+and meet all of these people
+<br/>
+who have already been here.
+</p>
+<p xml:id="subtitle297" begin="7947606333t" end="7965290666t" region="region0" nttm:uuid="98ad161d-3dcb-4cb9-a376-a4f881032a93">It was very nerve-wracking.</p>
+<p xml:id="subtitle298" begin="7965958000t" end="7987980000t" region="region0" nttm:uuid="e2b795ba-9e30-4755-a37a-0d1806e3a71f">
+I'm Connor.
+<br/>
+Nice to meet you.
+</p>
+<p xml:id="subtitle299" begin="7989648333t" end="8004663333t" region="region0" nttm:uuid="3af304d0-547e-4f41-9ef2-cd5fcd013d07">
+Yeah, I'm Rachel.
+<br/>
+Good to meet you too.
+</p>
+<p xml:id="subtitle300" begin="8005330666t" end="8037029000t" region="region0" nttm:uuid="c1feb1e6-e1a3-4a83-98df-77a894707217">
+Just when I thought things would get
+<br/>
+normal, y'all threw a twist at me
+</p>
+<p xml:id="subtitle301" begin="8037696333t" end="8063388666t" region="region0" nttm:uuid="ec3f88f0-b411-4d15-85d5-6b4a4fdfb9b6">
+and two new girls came
+<br/>
+into the villa.
+</p>
+<p xml:id="subtitle302" begin="8065390666t" end="8097089000t" region="region0" nttm:uuid="8afb18da-dac1-4d7d-b83b-1dde6bb9f298">
+I'm not going to lie,
+<br/>
+I was shook.
+</p>
+<p xml:id="subtitle303" begin="8097756333t" end="8131790333t" region="region0" nttm:uuid="bfe29754-42c7-40a6-85ed-7898cbbd844f">
+Okay, shall we, like, sit down over here?
+<br/>
+And you can tell me everything.
+</p>
+<p xml:id="subtitle304" begin="8132457666t" end="8151476666t" region="region0" nttm:uuid="033efd64-79e8-45a8-98e0-5d2093789569">
+[Tre] They're definitely
+<br/>
+both attractive girls.
+</p>
+<p xml:id="subtitle305" begin="8152144000t" end="8185844333t" region="region0" nttm:uuid="6ffe9d39-4449-4c31-8704-73038b981319">
+Deep down inside,
+<br/>
+I was happy.
+</p>
+<p xml:id="subtitle306" begin="8197188999t" end="8215207000t" region="region0" nttm:uuid="0548a0ca-b415-4a1f-850c-d0ff937f4c9a">
+[Matthew]
+<span style="style1">With the arrival</span>
+<br/>
+<span style="style1">of the new girls,</span>
+</p>
+<p xml:id="subtitle307" begin="8215874333t" end="8242567666t" region="region0" nttm:uuid="e3b14bee-4e5f-4d57-8ca5-fe32164abfab">
+<span style="style1">it is one big happy</span>
+<br/>
+<span style="style1">Instagram-ily,</span>
+</p>
+<p xml:id="subtitle308" begin="8243235000t" end="8294953333t" region="region0" nttm:uuid="4466f849-e7f9-4a1a-bb52-a8b935b06963">
+<span style="style1">and it'll stay that way so long</span>
+<br/>
+<span style="style1">as we follow Mackenzie's rules!</span>
+</p>
+<p xml:id="subtitle309" begin="8303628666t" end="8347672666t" region="region0" nttm:uuid="663af761-d4d7-4bdc-9613-b24c46590a51">
+Just in the effort of full disclosure,
+<br/>
+we're very coupled up.
+</p>
+<p xml:id="subtitle310" begin="8351343000t" end="8373698666t" region="region0" nttm:uuid="9b1b41bd-04e6-47fa-bef7-8038cf06f325">They're very coupled up.</p>
+<p xml:id="subtitle311" begin="8374366000t" end="8384709666t" region="region0" nttm:uuid="ca9b6066-ed70-4d05-bf52-1295bd13e4f0">There went your chance now.</p>
+<p xml:id="subtitle312" begin="8385377000t" end="8409401000t" region="region0" nttm:uuid="c68e54b8-3680-44b4-b9f1-8450d53888bc">
+Everyone else, though,
+<br/>
+what is y'all's type?
+</p>
+<p xml:id="subtitle313" begin="8410068333t" end="8426751666t" region="region0" nttm:uuid="826bfb9f-2f96-44a3-8c26-2ae6810aff3d">
+Yeah, all right.
+<br/>
+Let's just jump in.
+</p>
+<p xml:id="subtitle314" begin="8427419000t" end="8449107333t" region="region0" nttm:uuid="8dbb1408-e21b-468a-a6c4-7e2455e87046">
+I'm a sucker
+<br/>
+for broad shoulders.
+</p>
+<p xml:id="subtitle315" begin="8449774666t" end="8472464000t" region="region0" nttm:uuid="2b1832fb-a439-4f4b-9d88-b274fb80fd83">
+[laughs]
+<br/>
+Groovy. Yeah, yeah, yeah.
+</p>
+<p xml:id="subtitle316" begin="8473131333t" end="8506164333t" region="region0" nttm:uuid="4670192a-e1ff-4c06-b8dd-9a93d0ce6f48">
+[laughs]
+<br/>
+My God.
+</p>
+<p xml:id="subtitle317" begin="8512170333t" end="8533525000t" region="region0" nttm:uuid="5eac0386-bbf4-4bf0-b21e-be3a3e14f949">Yeah, that's a little tick.</p>
+<p xml:id="subtitle318" begin="8534192333t" end="8562887666t" region="region0" nttm:uuid="655f488c-f5d3-4255-8cdc-8454af272d11">
+Outside of the guys you picked,
+<br/>
+who else are y'all looking at?
+</p>
+<p xml:id="subtitle319" begin="8563555000t" end="8579904666t" region="region0" nttm:uuid="12ca72ba-3d23-4638-add5-974f13229902">
+If you are looking
+<br/>
+at somebody else?
+</p>
+<p xml:id="subtitle320" begin="8580572000t" end="8614939666t" region="region0" nttm:uuid="6b957e94-2f2e-4755-8a43-2932ebc24d06">
+I'm open to meeting
+<br/>
+whoever is not insanely coupled up.
+</p>
+<p xml:id="subtitle321" begin="8629287333t" end="8654312333t" region="region0" nttm:uuid="46e10bd2-3129-4346-8175-93eef07eb566">
+I don't know, I think
+<br/>
+you were my second choice,
+</p>
+<p xml:id="subtitle322" begin="8664656000t" end="8702694000t" region="region0" nttm:uuid="abdca4b9-722d-47c7-a99e-01aa8c507484">
+and then Connor was,
+<br/>
+but, sorry, you're hers.
+</p>
+<p xml:id="subtitle323" begin="8727719000t" end="8756080666t" region="region0" nttm:uuid="000114ad-eeaa-4af7-b45f-0365acfe371f">
+-Definitely talk with everybody.
+<br/>
+-Yeah, of course.
+</p>
+<p xml:id="subtitle324" begin="8758416333t" end="8782440333t" region="region0" nttm:uuid="1fbeea47-6191-47b8-84b1-a1b1172f3f49">
+-We're all like, very...
+<br/>
+-Even Connor?
+</p>
+<p xml:id="subtitle325" begin="8783441333t" end="8818476333t" region="region0" nttm:uuid="2a128300-5b57-40f5-b416-8ec25af2f39a">
+...big-- Yes!
+<br/>
+Oh, my God!
+</p>
+<p xml:id="subtitle326" begin="8819477333t" end="8852176666t" region="region0" nttm:uuid="3c9327dd-2602-4bbd-a29d-5dd5fb94f8ad">
+-That is not what I--
+<br/>
+-We're strictly coupled up? Back off.
+</p>
+<p xml:id="subtitle327" begin="8852844000t" end="8866190666t" region="region0" nttm:uuid="4b811d9f-59af-4496-8eeb-e73eafbb7e98">You would have said that verbatim.</p>
+<p xml:id="subtitle328" begin="8866858000t" end="8896888000t" region="region0" nttm:uuid="a0ac9dea-235c-4fa2-a001-00dcfc377a00">
+-She's like, "Except him."
+<br/>
+-He isn't mine. We're all coupled up.
+</p>
+<p xml:id="subtitle329" begin="8897555333t" end="8913237666t" region="region0" nttm:uuid="70fb4e19-dd91-479a-b06b-414cb2771273">
+If I came in,
+<br/>
+I'd want to know.
+</p>
+<p xml:id="subtitle330" begin="8913905000t" end="8950942000t" region="region0" nttm:uuid="f5895851-d085-4f64-a309-55f516523cdc">
+-My God!
+<br/>
+-I'm not going to waste my time.
+</p>
+<p xml:id="subtitle331" begin="8951609333t" end="8978302666t" region="region0" nttm:uuid="12c62d32-71b9-4e61-a2ee-9a548ad5aab9">
+I'll be like,
+<br/>
+"Who is available?"
+</p>
+<p xml:id="subtitle332" begin="8978970000t" end="8988980000t" region="region0" nttm:uuid="0cc1a0db-f28e-46e2-b185-bf7c70e926e0">Back off. I know.</p>
+<p xml:id="subtitle333" begin="8989647333t" end="9007999000t" region="region0" nttm:uuid="6429187d-aab0-47ac-8c51-f028271066ae">
+You know what?
+<br/>
+Y'all can't take a joke.
+</p>
+<p xml:id="subtitle334" begin="9010001000t" end="9018342666t" region="region0" nttm:uuid="e0c00411-2f1e-4f71-80ea-7f605b6baeba">I'ma leave.</p>
+<p xml:id="subtitle335" begin="9019677333t" end="9036027000t" region="region0" nttm:uuid="0c2193e5-99fd-4eb1-859b-947b3aa2227c">We're friends. We're all friends.</p>
+<p xml:id="subtitle336" begin="9036694333t" end="9056047000t" region="region0" nttm:uuid="2058fda2-3190-49d6-8f22-e9d6540b3367">Oh, my God. Later.</p>
+<p xml:id="subtitle337" begin="9063387666t" end="9093751333t" region="region0" nttm:uuid="d9b24208-44e6-4fb4-9211-bd352d55b24c">
+-[Connor] See you later.
+<br/>
+-[overlapping voices]
+</p>
+<p xml:id="subtitle338" begin="9094418666t" end="9113771333t" region="region0" nttm:uuid="34421d98-ccaf-42da-b4d4-877988235022">
+-Oh no, it's way better here.
+<br/>
+-Yeah.
+</p>
+<p xml:id="subtitle339" begin="9165823333t" end="9203194000t" region="region0" nttm:uuid="b4c4c40a-d8fe-45fc-a283-9e470c52cd2f">
+[Matthew]
+<span style="style1">Just when the islanders thought</span>
+<br/>
+<span style="style1">it was safe to be beautiful,</span>
+</p>
+<p xml:id="subtitle340" begin="9203861333t" end="9256580666t" region="region0" nttm:uuid="b31ae193-381d-48a3-9fb3-c7a725ef9489">
+<span style="style1">those rascally producers dropped new</span>
+<br/>
+<span style="style1">arrivals Rachel and Kierstan into the mix.</span>
+</p>
+<p xml:id="subtitle341" begin="9262586666t" end="9314638666t" region="region0" nttm:uuid="99d3be62-5124-47bb-838a-c8c03fd33047">
+<span style="style1">Despite so many symmetrical faces,</span>
+<br/>
+<span style="style1">things somehow turn ugly.</span>
+</p>
+<p xml:id="subtitle342" begin="9315306000t" end="9330321000t" region="region0" nttm:uuid="71148616-80d5-46fb-9e1c-6187015b1acd">Definitely chat with everybody.</p>
+<p xml:id="subtitle343" begin="9330988333t" end="9339997333t" region="region0" nttm:uuid="94b4ed63-22e1-49b7-a30f-2241d2fb8325">Even Connor?</p>
+<p xml:id="subtitle344" begin="9344001333t" end="9365356000t" region="region0" nttm:uuid="f405ff71-27cc-4b92-b89a-229039bfa786">
+-[laughter]
+<br/>
+-Oh my God!
+</p>
+<p xml:id="subtitle345" begin="9366690666t" end="9390714666t" region="region0" nttm:uuid="f8bd8be1-c5ba-4388-be1b-3887f3ab8597">
+[Matthew]
+<span style="style1">Who, after not being able</span>
+<br/>
+<span style="style1">to take a joke,</span>
+</p>
+<p xml:id="subtitle346" begin="9391715666t" end="9408732666t" region="region0" nttm:uuid="a1723bb4-cd60-48ce-8699-3e62709ee105">Mackenzie said this.</p>
+<p xml:id="subtitle347" begin="9413404000t" end="9430087333t" region="region0" nttm:uuid="5e32ef2e-0c5e-4283-9bfb-6af662fde970">
+You know what?
+<br/>
+Y'all can't take a joke.
+</p>
+<p xml:id="subtitle348" begin="9433757666t" end="9445436000t" region="region0" nttm:uuid="9bdb6a34-f5bb-4ae3-bdf0-61da1f8e4117">I'm going to leave.</p>
+<p xml:id="subtitle349" begin="9446103333t" end="9461452000t" region="region0" nttm:uuid="4f526c05-458f-4d2e-9ae1-e545f1fd438d">I'll see you later.</p>
+<p xml:id="subtitle350" begin="9508499000t" end="9519510000t" region="region0" nttm:uuid="21ceb6ae-66f6-4fde-ac1e-bd88c040d1b5">Are you okay?</p>
+<p xml:id="subtitle351" begin="9525516000t" end="9536860666t" region="region0" nttm:uuid="1b6feac8-d3a2-4a75-9ecf-89f09e255889">Yeah, I just, like...</p>
+<p xml:id="subtitle352" begin="9537528000t" end="9562886666t" region="region0" nttm:uuid="76c292fc-c0db-4007-9235-f7ccdb65efe6">
+I didn't want you to cry in front
+<br/>
+of everybody, 'cause I get like that.
+</p>
+<p xml:id="subtitle353" begin="9564221333t" end="9591248333t" region="region0" nttm:uuid="1e95a5fc-ee44-4962-a176-8af7e8ce7725">[crying] It was, like, a joke.</p>
+<p xml:id="subtitle354" begin="9591915666t" end="9614271333t" region="region0" nttm:uuid="3cb53701-64a3-4a1e-a613-b43bb71f4dd7">
+Why is everybody being
+<br/>
+such a jerk about it?
+</p>
+<p xml:id="subtitle355" begin="9618942666t" end="9650307333t" region="region0" nttm:uuid="1c560e48-f003-4f5f-996d-27bcf4d511a6">
+Emotions are all over
+<br/>
+the place right now.
+</p>
+<p xml:id="subtitle356" begin="9650974666t" end="9684007666t" region="region0" nttm:uuid="9635ffcc-606c-415a-9afa-f1a9e65ecc69">
+My intention was not
+<br/>
+to come across as, like,
+</p>
+<p xml:id="subtitle357" begin="9684675000t" end="9696687000t" region="region0" nttm:uuid="ce4cbdca-3a86-4456-801e-14a37499af52">possessive of Connor.</p>
+<p xml:id="subtitle358" begin="9700023666t" end="9745736000t" region="region0" nttm:uuid="ee8af874-a007-4462-a978-8684e6cac24b">
+Like I needed to mark my territory,
+<br/>
+and I was frustrated by that,
+</p>
+<p xml:id="subtitle359" begin="9746403333t" end="9776099666t" region="region0" nttm:uuid="026ac34e-52cb-4a57-b0b7-35d8b9f09bca">
+because I don't feel that way
+<br/>
+whatsoever.
+</p>
+<p xml:id="subtitle360" begin="9776767000t" end="9800457333t" region="region0" nttm:uuid="f35a700a-a4d0-4abe-9221-183e1387940d">
+I don't know
+<br/>
+why they had to be like that.
+</p>
+<p xml:id="subtitle361" begin="9801458333t" end="9817474333t" region="region0" nttm:uuid="ff276e72-c6ab-48a5-a825-d74ea48e5051">
+-So weird.
+<br/>
+-What happened?
+</p>
+<p xml:id="subtitle362" begin="9818141666t" end="9841164666t" region="region0" nttm:uuid="b8c98a2e-ee67-4bdb-9816-31c6b4856b73">Why are you crying?</p>
+<p xml:id="subtitle363" begin="9841832000t" end="9882205666t" region="region0" nttm:uuid="020351fd-b36e-42b3-828a-8ab9dbcec891">
+I feel they were trying to make a big deal
+<br/>
+out of what I said for no fricking reason.
+</p>
+<p xml:id="subtitle364" begin="9882873000t" end="9893216666t" region="region0" nttm:uuid="71853032-7de7-426b-a3c2-7b5e68b3a2af">What was said?</p>
+<p xml:id="subtitle365" begin="9893884000t" end="9907898000t" region="region0" nttm:uuid="5e13c373-a59a-43f4-bc89-4b4bd16d6f57">Johnny wouldn't stop.</p>
+<p xml:id="subtitle366" begin="9908565333t" end="9938261666t" region="region0" nttm:uuid="06fe0f02-421d-4788-b921-470ab339c908">
+Don't try to paint me like a jealous girl
+<br/>
+because he doesn't know me
+</p>
+<p xml:id="subtitle367" begin="9939930000t" end="9976633333t" region="region0" nttm:uuid="f304d5fb-6285-4c9a-ba03-0db8aac2d706">
+and I'm not that way
+<br/>
+and I really didn't appreciate that.
+</p>
+<p xml:id="subtitle368" begin="9977300666t" end="9999990000t" region="region0" nttm:uuid="b41a75e0-66d2-4f80-88de-c0efc7315d1b">
+-I felt like it was not cool.
+<br/>
+-Yes.
+</p>
+<p xml:id="subtitle369" begin="10006663333t" end="10023680333t" region="region0" nttm:uuid="60bedc59-ffd4-4a9b-8774-cdbb80a1d548">
+Just breathe.
+<br/>
+There is a lot going on tonight.
+</p>
+<p xml:id="subtitle370" begin="10024347666t" end="10062052000t" region="region0" nttm:uuid="6cdbb42b-fdf0-407c-a199-b51fc7fc6abc">
+Especially when I leave
+<br/>
+the circle crying,
+</p>
+<p xml:id="subtitle371" begin="10071728333t" end="10092749333t" region="region0" nttm:uuid="4e463d08-bea6-4b22-8732-0d6883a465c0">and my guy is still outside.</p>
+<p xml:id="subtitle372" begin="10095418666t" end="10120110000t" region="region0" nttm:uuid="47f20fe6-a5d2-438c-a27c-eb32972151c6">
+-[Kaitlynn] Find him.
+<br/>
+-No, I'm not going to go find him.
+</p>
+<p xml:id="subtitle373" begin="10120777333t" end="10148805333t" region="region0" nttm:uuid="5c4d1456-f850-4323-a1ed-c29bb9953e19">
+[Kaitlynn, laughing]
+<br/>
+You literally should not go find him.
+</p>
+<p xml:id="subtitle374" begin="10149472666t" end="10177834333t" region="region0" nttm:uuid="bcc45355-637d-41e5-b183-a0413ecc0135">
+Oh, I'm absolutely not
+<br/>
+going to go find him.
+</p>
+<p xml:id="subtitle375" begin="10178501666t" end="10206529666t" region="region0" nttm:uuid="c2b3c93a-48a6-42a0-8b50-6a67317a4f1a">[piano music]</p>
+<p xml:id="subtitle376" begin="10262252000t" end="10289946333t" region="region0" nttm:uuid="7be2d8ed-80a0-4701-9ed0-66f8c2a6691b">
+[James] When you just, like, get out
+<br/>
+of that shell, it feels so good.
+</p>
+<p xml:id="subtitle377" begin="10290613666t" end="10328318000t" region="region0" nttm:uuid="8aeb8ceb-47b1-48dc-b294-1b743ebde1ed">
+-I like when you give me that little umph!
+<br/>
+-[laughs]
+</p>
+<p xml:id="subtitle378" begin="10328985333t" end="10337994333t" region="region0" nttm:uuid="28df5353-5d67-43c3-985e-e1c49e635836">And then you go back.</p>
+<p xml:id="subtitle379" begin="10362685666t" end="10392715666t" region="region0" nttm:uuid="32913f18-266e-4684-b00e-d0a885f6e0ca">
+[Matthew]
+<span style="style1">Looking to buy, not rent,</span>
+<br/>
+<span style="style1">Cely talks with Johnny,</span>
+</p>
+<p xml:id="subtitle380" begin="10393383000t" end="10421077333t" region="region0" nttm:uuid="ded4885c-f3f2-4a4b-adea-d717e52ed4c7">
+<span style="style1">the guy who just took her</span>
+<br/>
+<span style="style1">off the market.</span>
+</p>
+<p xml:id="subtitle381" begin="10424747666t" end="10441764666t" region="region0" nttm:uuid="0026707a-2404-4725-9e76-bbf76b4e6278">[laughs] How are you feeling?</p>
+<p xml:id="subtitle382" begin="10442432000t" end="10473796666t" region="region0" nttm:uuid="41cd5bed-183e-452d-8bda-aa47d69cd695">
+-New girls in?
+<br/>
+-I'm not worried about the new girls,
+</p>
+<p xml:id="subtitle383" begin="10474464000t" end="10490813666t" region="region0" nttm:uuid="ec334e11-73f4-44a5-8d53-5a1df2391069">I'm really not. I mean,</p>
+<p xml:id="subtitle384" begin="10493483000t" end="10526182333t" region="region0" nttm:uuid="f553e595-fb33-4ada-b72b-1a01d5c19911">
+I don't really care to get
+<br/>
+to know them, like, romantically,
+</p>
+<p xml:id="subtitle385" begin="10530186333t" end="10560216333t" region="region0" nttm:uuid="d4356617-5392-4205-9178-a408f6262786">because I'm like, so grateful</p>
+<p xml:id="subtitle386" begin="10560883666t" end="10603926666t" region="region0" nttm:uuid="f99a0b4e-e38a-4351-b696-dd846c2d6530">
+that I actually get to... have more
+<br/>
+than a 20-minute conversation with you.
+</p>
+<p xml:id="subtitle387" begin="10611934666t" end="10621611000t" region="region0" nttm:uuid="c7907bfa-40d5-4999-b9b3-2c8310832804">
+-You know what I mean?
+<br/>
+-Yeah.
+</p>
+<p xml:id="subtitle388" begin="10622278333t" end="10636292333t" region="region0" nttm:uuid="035b8b20-1281-488c-8d2c-474f0607e26a">I don't want to give that up so soon,</p>
+<p xml:id="subtitle389" begin="10642298333t" end="10667990666t" region="region0" nttm:uuid="b6187410-0647-4bed-8c5a-a4688e377a8b">
+not just for some--
+<br/>
+a couple of pretty girls walking in.
+</p>
+<p xml:id="subtitle390" begin="10689011666t" end="10701357333t" region="region0" nttm:uuid="bcb7d571-1d1c-4f74-ad5b-92e9169f5196">Cely, she is beautiful.</p>
+<p xml:id="subtitle391" begin="10703025666t" end="10724046666t" region="region0" nttm:uuid="66edb2bc-8fb1-40f8-a8b2-5cbd803109bd">
+I love looking at her.
+<br/>
+She's easy on the eyes.
+</p>
+<p xml:id="subtitle392" begin="10728718000t" end="10751740999t" region="region0" nttm:uuid="461bf09d-e9e4-48ba-bfff-e211fc9c2de2">Cely's laugh is infectious.</p>
+<p xml:id="subtitle393" begin="10752408333t" end="10781437333t" region="region0" nttm:uuid="a29e1542-77a7-43dc-ac01-9a4e9bae1395">
+Like, I love talking to her.
+<br/>
+'Cause she is so bubbly.
+</p>
+<p xml:id="subtitle394" begin="10782438333t" end="10805127666t" region="region0" nttm:uuid="0cb12df8-2675-4b2c-baab-72cc64377b84">
+She is someone I really
+<br/>
+want to get to know.
+</p>
+<p xml:id="subtitle395" begin="10821477333t" end="10874530333t" region="region0" nttm:uuid="d209fa6f-d835-4fd2-9966-f01284b6ab39">
+♪
+<span style="style1">I can't breathe when</span>
+<br/>
+<span style="style1">You're touching like that </span>
+♪
+</p>
+<p xml:id="subtitle396" begin="10875197666t" end="10901557333t" region="region0" nttm:uuid="904748ce-5345-4b21-bc7b-7e6a61d28239">
+♪
+<span style="style1">When you're touching</span>
+<br/>
+<span style="style1">Like that </span>
+♪
+</p>
+<p xml:id="subtitle397" begin="10916238666t" end="10973295666t" region="region0" nttm:uuid="c2c94f3c-dd83-4a88-acac-caeab727f9bf">
+♪
+<span style="style1">And I can't sleep</span>
+<br/>
+<span style="style1">When you kiss me like that </span>
+♪
+</p>
+<p xml:id="subtitle398" begin="10974630333t" end="10996652333t" region="region0" nttm:uuid="c4144903-8c13-4fe9-ade1-9cf5f321bcb6">
+[Johnny] I hope she thought it was just as
+<br/>
+good as I thought it was.
+</p>
+<p xml:id="subtitle399" begin="10999321666t" end="11031353666t" region="region0" nttm:uuid="c64233c0-1ba3-46e8-babb-05fe4f9ea1e8">
+I kind of swooped in, and hopefully
+<br/>
+I secured the bag with that.
+</p>
+<p xml:id="subtitle400" begin="11046702333t" end="11060049000t" region="region0" nttm:uuid="d54db577-cbf0-473e-8d62-5ef48b8ddf6b">[giggles]</p>
+<p xml:id="subtitle401" begin="11063719333t" end="11097419666t" region="region0" nttm:uuid="2e70df32-c46a-4b6e-8297-21895199726e">
+[Matthew]
+<span style="style1">As Cely wipes the gallon</span>
+<br/>
+<span style="style1">of saliva off her face,</span>
+</p>
+<p xml:id="subtitle402" begin="11099421666t" end="11124780333t" region="region0" nttm:uuid="a9729014-8c88-4c2c-ab19-4ba2cead3447">
+<span style="style1">troubled Irish law firm</span>
+<br/>
+<span style="style1">Connor and Mackenzie</span>
+</p>
+<p xml:id="subtitle403" begin="11125447666t" end="11144133000t" region="region0" nttm:uuid="11a2af18-dbad-4554-ba13-70cc6ded1219">
+<span style="style1">negotiate their punishment</span>
+</p>
+<p xml:id="subtitle404" begin="11144800333t" end="11189845333t" region="region0" nttm:uuid="90559cb5-d14f-4c74-82f2-86a4f23dfd0c">
+<span style="style1">for the crime of not consoling</span>
+<br/>
+<span style="style1">a beautiful woman when she cries.</span>
+</p>
+<p xml:id="subtitle405" begin="11216205000t" end="11252240999t" region="region0" nttm:uuid="f0529b03-a175-4fc5-9caa-a8eab9c4c26c">
+I'm sorry that I didn't go with you
+<br/>
+whenever you left the fire pit.
+</p>
+<p xml:id="subtitle406" begin="11255577666t" end="11272594666t" region="region0" nttm:uuid="f56792b2-e81d-4786-a1d0-b389ddfb6401">I understand not coming immediately,</p>
+<p xml:id="subtitle407" begin="11273262000t" end="11298620666t" region="region0" nttm:uuid="cff8d83b-8a86-412b-83a2-61cb2a4724d5">
+but I was there
+<br/>
+for probably 10 or 15 minutes.
+</p>
+<p xml:id="subtitle408" begin="11299287999t" end="11312968333t" region="region0" nttm:uuid="8d0f39a8-07c7-4724-953f-8c7f3f3f8813">You can just breathe, you know.</p>
+<p xml:id="subtitle409" begin="11316305000t" end="11329318000t" region="region0" nttm:uuid="3a1c01d1-eb1c-49e2-a51d-7a972c248720">
+-No, I just--
+<br/>
+-You don't have to worry.
+</p>
+<p xml:id="subtitle410" begin="11329985333t" end="11351340000t" region="region0" nttm:uuid="2d7b37b3-4468-420f-8c0f-b2d414dd6cdd">No, I'm not worried.</p>
+<p xml:id="subtitle411" begin="11352007333t" end="11369691666t" region="region0" nttm:uuid="b80feda3-12a7-4daf-9750-9d316bc84dec">
+I'm just, like, annoyed
+<br/>
+with you.
+</p>
+<p xml:id="subtitle412" begin="11370359000t" end="11386708666t" region="region0" nttm:uuid="7925c2bd-03a1-44f9-b02d-c4302edf12d8">Like, why didn't you just come?</p>
+<p xml:id="subtitle413" begin="11405727666t" end="11429084333t" region="region0" nttm:uuid="6b71e076-b452-4547-8b16-60dd75d8dbed">
+You should have
+<br/>
+immediately come after me.
+</p>
+<p xml:id="subtitle414" begin="11456445000t" end="11465120333t" region="region0" nttm:uuid="f4259f63-f66b-4be1-9974-c6e14ac17ac9">
+-Like...
+<br/>
+-Okay.
+</p>
+<p xml:id="subtitle415" begin="11466121333t" end="11490812666t" region="region0" nttm:uuid="b62a2b5f-c1ac-4686-88f9-6abd748a041c">
+What were you thinking?
+<br/>
+I just don't get it.
+</p>
+<p xml:id="subtitle416" begin="11518840666t" end="11541863666t" region="region0" nttm:uuid="d5755ac3-50f9-4c13-a633-3f45be8c1670">
+-Just breathe for a second.
+<br/>
+-[annoyed] I am breathing.
+</p>
+<p xml:id="subtitle417" begin="11542531000t" end="11562217333t" region="region0" nttm:uuid="8aa95860-016a-4b4a-8122-de60067f6fd3">
+-Okay.
+<br/>
+-Stop saying that.
+</p>
+<p xml:id="subtitle418" begin="11574229333t" end="11603925666t" region="region0" nttm:uuid="927decef-4794-4ce0-8838-7bb56844de89">
+Taking care of a girl and making,
+<br/>
+know that she feels cared for,
+</p>
+<p xml:id="subtitle419" begin="11604593000t" end="11619608000t" region="region0" nttm:uuid="86c981fb-9ce2-4138-88e1-51ee21900cfa">
+that's something
+<br/>
+that takes time, right?
+</p>
+<p xml:id="subtitle420" begin="11620275333t" end="11647302333t" region="region0" nttm:uuid="85ccd17c-96ea-4cbe-a747-d134ecdd656b">
+That's not something you're going
+<br/>
+to develop in a matter of days.
+</p>
+<p xml:id="subtitle421" begin="11647969666t" end="11668323333t" region="region0" nttm:uuid="46d8e582-811f-442b-b34c-cd6b61613ec8">
+So, that's kind of where
+<br/>
+I'm at with Mackenzie
+</p>
+<p xml:id="subtitle422" begin="11668990666t" end="11687342333t" region="region0" nttm:uuid="f1f0fa97-7b22-41d1-afb9-d3ae7aff3fca">and trying to understand why</p>
+<p xml:id="subtitle423" begin="11688343333t" end="11733054666t" region="region0" nttm:uuid="0db4a2ad-651b-4349-9fd0-b70efcd7f9b3">
+she has certain expectations
+<br/>
+of... partners and relationships
+</p>
+<p xml:id="subtitle424" begin="11733722000t" end="11750405333t" region="region0" nttm:uuid="4ff3e568-9509-4092-97f7-ab7b5a889e31">and how she expects to be treated.</p>
+<p xml:id="subtitle425" begin="11751072666t" end="11762083666t" region="region0" nttm:uuid="3bdc454d-3975-450b-97e6-cd9bac8e438b">I'm sorry.</p>
+<p xml:id="subtitle426" begin="11762751000t" end="11781436333t" region="region0" nttm:uuid="f73c2811-ee45-416d-bdf7-ba096e652be6">
+And I'll be that person
+<br/>
+for you.
+</p>
+<p xml:id="subtitle427" begin="11787776000t" end="11821142666t" region="region0" nttm:uuid="c042736c-c27e-4bc2-929a-48ab55e3f5d3">
+And I don't want you
+<br/>
+to be concerned about that.
+</p>
+<p xml:id="subtitle428" begin="11825146666t" end="11854843000t" region="region0" nttm:uuid="e796daa2-724a-42af-96ec-5549fb8faf30">
+Relationships don't work
+<br/>
+and develop
+</p>
+<p xml:id="subtitle429" begin="11855844000t" end="11917238666t" region="region0" nttm:uuid="2ad35ea6-1c99-4f27-b8ac-478d9da82512">
+without a strong foundation of trust
+<br/>
+and open communication.
+</p>
+<p xml:id="subtitle430" begin="11917906000t" end="11939594333t" region="region0" nttm:uuid="785d4bb6-424d-4739-93e7-7b118693b729">
+So I'd like to make
+<br/>
+this relationship stronger.
+</p>
+<p xml:id="subtitle431" begin="11940261666t" end="11954943000t" region="region0" nttm:uuid="85cc80d3-18ec-4c84-beee-3cca8a4bdd24">Go for it.</p>
+<p xml:id="subtitle432" begin="11964953000t" end="11993648333t" region="region0" nttm:uuid="8a79ca93-4fd7-4233-908a-a338af457859">
+-[indistinct]
+<br/>
+-So we can know more about each other, OK?
+</p>
+<p xml:id="subtitle433" begin="12045700333t" end="12066054000t" region="region0" nttm:uuid="cf8dedbd-abd5-43a9-bab4-45f2060fd782">
+What were your impressions
+<br/>
+of the guys?
+</p>
+<p xml:id="subtitle434" begin="12068389666t" end="12087408666t" region="region0" nttm:uuid="81cc2664-ec26-4a9b-9543-268afd435456">Like, does anyone like, pop out to you?</p>
+<p xml:id="subtitle435" begin="12088076000t" end="12109097000t" region="region0" nttm:uuid="eaa06138-221d-46a0-934c-403434e2838f">
+You know, honestly, like,
+<br/>
+I'm just kind of, like,
+</p>
+<p xml:id="subtitle436" begin="12109764333t" end="12145800333t" region="region0" nttm:uuid="3d029691-f380-4817-805f-0ffbfc56e7bd">
+for me right now, just because
+<br/>
+I've spent the most time with him,
+</p>
+<p xml:id="subtitle437" begin="12146467666t" end="12179834333t" region="region0" nttm:uuid="a0e450cf-bc51-429b-a50d-024209022e96">
+Jeremiah is definitely like "it,"
+<br/>
+but I'm definitely open to--
+</p>
+<p xml:id="subtitle438" begin="12183504666t" end="12206861333t" region="region0" nttm:uuid="2f3c8fab-fa76-4e0f-8589-9d4866291f53">
+-[Kierstan] Meeting other people?
+<br/>
+-Yeah.
+</p>
+<p xml:id="subtitle439" begin="12207528666t" end="12227215000t" region="region0" nttm:uuid="5de81978-47c4-4dd1-8c91-d98dd8ceacf3">
+And definitely getting
+<br/>
+to know everyone.
+</p>
+<p xml:id="subtitle440" begin="12228216000t" end="12257578666t" region="region0" nttm:uuid="c7db11dc-772f-488c-a2c6-590664599561">
+Yeah, how was your talk
+<br/>
+with, um, Carrington?
+</p>
+<p xml:id="subtitle441" begin="12258579666t" end="12277265000t" region="region0" nttm:uuid="a20afae0-696c-4855-90b2-e6614884ac9f">
+I'm like literally--
+<br/>
+I'm going to get it mixed up--
+</p>
+<p xml:id="subtitle442" begin="12277932333t" end="12294615666t" region="region0" nttm:uuid="c9fad490-ab80-4dfc-947f-3850f0890749">
+I keep forgetting
+<br/>
+his name, too!
+</p>
+<p xml:id="subtitle443" begin="12298953333t" end="12325980333t" region="region0" nttm:uuid="446a9275-f0df-4e8c-b926-c0b8303ffb7e">
+[Kaitlynn laughing] Can I, like, sleep
+<br/>
+with you guys?
+</p>
+<p xml:id="subtitle444" begin="12326647666t" end="12342997333t" region="region0" nttm:uuid="7a7a5d73-6580-4799-82b5-d9837f67ebae">Like, the bed's so small.</p>
+<p xml:id="subtitle445" begin="12346334000t" end="12377698666t" region="region0" nttm:uuid="6eb5c167-914e-473d-b566-fd2abba497ba">
+Come into our field!
+<br/>
+She's coming in.
+</p>
+<p xml:id="subtitle446" begin="12378366000t" end="12399720666t" region="region0" nttm:uuid="d9374e22-e365-4fc8-bca8-bfa5c032d4a7">Are you going to scream, though?</p>
+<p xml:id="subtitle447" begin="12409397000t" end="12442096333t" region="region0" nttm:uuid="2a2adf08-5dba-40c7-8407-1d03bb7d9aa4">
+[Matthew]
+<span style="style1">From ménage à Tre</span>
+<br/>
+<span style="style1">to unattended Tre.</span>
+</p>
+<p xml:id="subtitle448" begin="12448102333t" end="12471125333t" region="region0" nttm:uuid="9c2b95e7-7e58-4154-af41-b1ebe7b9ef87">[pop music]</p>
+<p xml:id="subtitle449" begin="12753741000t" end="12779767000t" region="region0" nttm:uuid="ef51e4bf-f9e2-4ca4-899e-889538de4a58">[upbeat music]</p>
+<p xml:id="subtitle450" begin="12830817999t" end="12855175666t" region="region0" nttm:uuid="3583fd5e-2609-46fb-bfc7-6b7d594af711">
+[Matthew]
+<span style="style1">It's morning</span>
+<br/>
+<span style="style1">in the Vegas villa,</span>
+</p>
+<p xml:id="subtitle451" begin="12855843000t" end="12883537333t" region="region0" nttm:uuid="96b3fc60-0f01-4451-a151-867a49564f1d">
+<span style="style1">and like a short-term rental you</span>
+<br/>
+<span style="style1">shouldn't have trusted,</span>
+</p>
+<p xml:id="subtitle452" begin="12884204666t" end="12916236666t" region="region0" nttm:uuid="312bbbcd-5f41-4d59-8f4a-9a9356945884">
+<span style="style1">we've got night-vision cameras</span>
+<br/>
+<span style="style1">hidden everywhere.</span>
+</p>
+<p xml:id="subtitle453" begin="12916904000t" end="12939259666t" region="region0" nttm:uuid="1493b1f3-b41c-4041-afbd-6a3f994fac59">
+<span style="style1">Take a peek.</span>
+<br/>
+<span style="style1">Our couples are...</span>
+</p>
+<p xml:id="subtitle454" begin="13062049000t" end="13090744333t" region="region0" nttm:uuid="195c3ff1-1278-4249-940a-8e33a3603e14">
+<span style="style1">...Rachel, Kierstan</span>
+<br/>
+<span style="style1">and Tre are single,</span>
+</p>
+<p xml:id="subtitle455" begin="13091411666t" end="13103757333t" region="region0" nttm:uuid="ecefec44-0cb4-49d7-9fcf-2e604c022139">
+<span style="style1">and looking for a branch</span>
+</p>
+<p xml:id="subtitle456" begin="13104424666t" end="13146800333t" region="region0" nttm:uuid="70d6778f-4832-4abf-a9e0-0c5b803e16ce">
+<span style="style1">as they climb through the timeless oak</span>
+<br/>
+<span style="style1">that is </span>
+Love Island.
+</p>
+<p xml:id="subtitle457" begin="13152472666t" end="13184171000t" region="region0" nttm:uuid="bde0c766-b942-4624-b266-21e50d1af1d5">[upbeat music]</p>
+<p xml:id="subtitle458" begin="13202856333t" end="13218205000t" region="region0" nttm:uuid="a811b956-f033-4d1b-86f9-3f2930807e8b">
+[Kierstan] I wonder
+<br/>
+what we're doing today.
+</p>
+<p xml:id="subtitle459" begin="13218872333t" end="13248902333t" region="region0" nttm:uuid="44040a7f-b697-4844-b1bd-051ed98f069b">
+Like, we have, like, new people.
+<br/>
+[squealing]
+</p>
+<p xml:id="subtitle460" begin="13249569666t" end="13260914333t" region="region0" nttm:uuid="06afadb5-3aa5-4391-bcbe-a97c375b0899">Yeah.</p>
+<p xml:id="subtitle461" begin="13266920333t" end="13288608666t" region="region0" nttm:uuid="fe24f84a-8971-4cda-aeaa-ef4c9acea878">
+[Kaitlynn] And, too,
+<br/>
+I wanted to let you know,
+</p>
+<p xml:id="subtitle462" begin="13289276000t" end="13319973333t" region="region0" nttm:uuid="e40db69c-be67-4e60-a01e-447f48266117">
+'cause I know you're interested
+<br/>
+in Carrington or whatever,
+</p>
+<p xml:id="subtitle463" begin="13322642666t" end="13365352000t" region="region0" nttm:uuid="1f323d89-991f-40e6-8c05-74b98369d5b2">
+totally feel at liberty
+<br/>
+to pursue that 100%.
+</p>
+<p xml:id="subtitle464" begin="13371024333t" end="13383036333t" region="region0" nttm:uuid="91b6e34b-7f6b-4971-b7a4-539b8b92fcf1">Oh, awesome.</p>
+<p xml:id="subtitle465" begin="13383703666t" end="13396716666t" region="region0" nttm:uuid="c0d11064-5e89-469b-a12c-313788292378">
+It's only just friends
+<br/>
+for me.
+</p>
+<p xml:id="subtitle466" begin="13401054333t" end="13420407000t" region="region0" nttm:uuid="35f7e473-5566-440a-bafa-cd8e836a83b4">
+So I just wanted to, like,
+<br/>
+tell you that.
+</p>
+<p xml:id="subtitle467" begin="13421741666t" end="13448768666t" region="region0" nttm:uuid="7b85106c-7cb6-46d5-8da5-ce0265fcc43f">
+-Like, I'm not gonna be, like--
+<br/>
+-[Kierstan snarls] Not today.
+</p>
+<p xml:id="subtitle468" begin="13449436000t" end="13469122333t" region="region0" nttm:uuid="93baa7c1-37dd-4bed-b97b-2ffc1a92ae7e">
+-Yeah.
+<br/>
+-[Kierstan] I'm excited.
+</p>
+<p xml:id="subtitle469" begin="13469789666t" end="13494147333t" region="region0" nttm:uuid="b264ec8e-d3bb-43cc-8fae-38cfd2b9795a">
+Well, good to know.
+<br/>
+Thanks, babe.
+</p>
+<p xml:id="subtitle470" begin="13519506000t" end="13549869666t" region="region0" nttm:uuid="1c50d361-35b8-438c-8080-057af209e55b">
+[Matthew]
+<span style="style1">Up-down,</span>
+<br/>
+<span style="style1">up-down, up-down, up-down,</span>
+</p>
+<p xml:id="subtitle471" begin="13550537000t" end="13572892666t" region="region0" nttm:uuid="ec3ba4fa-10db-418a-8f40-6eb8c5211aaa">
+<span style="style1">up-down, up-down, up-down,</span>
+<br/>
+<span style="style1">up-down.</span>
+</p>
+<p xml:id="subtitle472" begin="13575228333t" end="13600920666t" region="region0" nttm:uuid="b8325c31-7927-4331-8ad1-e182c29d5ef5">
+<span style="style1">Whoa, Carrington</span>
+<br/>
+<span style="style1">sure is great at up-down.</span>
+</p>
+<p xml:id="subtitle473" begin="13607260333t" end="13622609000t" region="region0" nttm:uuid="c29eb0c4-bd83-46cb-b791-f341f27e53c8">
+-[Kierstan] I wanna watch these boys.
+<br/>
+-[Rachel] Oh, yeah.
+</p>
+<p xml:id="subtitle474" begin="13623610000t" end="13652639000t" region="region0" nttm:uuid="cd6df9ce-ab42-4954-a1b5-e6ca84f89bca">
+-I don't know why I picked this side.
+<br/>
+-Pull this over here, like.
+</p>
+<p xml:id="subtitle475" begin="13653640000t" end="13677997666t" region="region0" nttm:uuid="1001b235-848b-48a0-b5ae-f86a4dee42c8">
+Totally taking up all the room.
+<br/>
+Yeah, I keep talking.
+</p>
+<p xml:id="subtitle476" begin="13686673000t" end="13708695000t" region="region0" nttm:uuid="18e29195-777f-481e-9408-24a4a63c557a">
+Oh, I'm excited.
+<br/>
+What about you?
+</p>
+<p xml:id="subtitle477" begin="13711030666t" end="13730717000t" region="region0" nttm:uuid="381d226e-1f8d-497a-b7c4-5ee97f5333b0">
+-For your...
+<br/>
+-Oh, yeah, yeah, Jeremiah.
+</p>
+<p xml:id="subtitle478" begin="13731384333t" end="13754741000t" region="region0" nttm:uuid="0d288c98-2bcd-4b04-97cf-23c713a01cf0">
+I'm like, so excited
+<br/>
+to like, just talk to him.
+</p>
+<p xml:id="subtitle479" begin="13755742000t" end="13774427333t" region="region0" nttm:uuid="0732a2e0-07a6-4837-841f-3289571e7e99">
+'Cause honestly, like,
+<br/>
+kind of outside of you,
+</p>
+<p xml:id="subtitle480" begin="13775428333t" end="13812131666t" region="region0" nttm:uuid="dcf7c78b-9d9b-4673-8b5a-e1ad9be29f3a">
+he is also like the person
+<br/>
+I, like, jelled the most with?
+</p>
+<p xml:id="subtitle481" begin="13813132666t" end="13828481333t" region="region0" nttm:uuid="9b945d4d-5c02-481a-904e-1a9de9e64b11">
+-So I feel like--
+<br/>
+-Meow!
+</p>
+<p xml:id="subtitle482" begin="13829482333t" end="13855508333t" region="region0" nttm:uuid="b20a1785-f808-4415-85a9-1cc9223817c7">
+-Yeah, yeah, yeah, I'm definitely, like--
+<br/>
+<span style="style1">-Love Island, </span>
+right here, just us.
+</p>
+<p xml:id="subtitle483" begin="13857176666t" end="13875194666t" region="region0" nttm:uuid="d9aa8b75-f6a3-4a61-a032-9dcfd47e1463">
+-I know! I know!
+<br/>
+-We'll just hang with each other.
+</p>
+<p xml:id="subtitle484" begin="13878865000t" end="13891877999t" region="region0" nttm:uuid="6965e08a-c6fd-424f-8bcd-46b4c1b5167c">
+-Down and up, c'mon.
+<br/>
+-C'mon.
+</p>
+<p xml:id="subtitle485" begin="13892545333t" end="13933586333t" region="region0" nttm:uuid="b2d123f7-1f5a-4e45-bec5-f9549a930d1a">
+I feel Jeremiah is like,
+<br/>
+definitely my favorite at this point.
+</p>
+<p xml:id="subtitle486" begin="13934253666t" end="13958277666t" region="region0" nttm:uuid="ab014ee5-3410-4a51-ac3f-79f76846ef4b">
+And it's like I really want to continue
+<br/>
+to get to know him.
+</p>
+<p xml:id="subtitle487" begin="13958945000t" end="13996983000t" region="region0" nttm:uuid="29b1503d-6e38-48d2-81a6-3eeced7c6449">
+He is so sweet,
+<br/>
+and I'm like trying to be, like,
+</p>
+<p xml:id="subtitle488" begin="13997650333t" end="14024677333t" region="region0" nttm:uuid="9bb89abc-48f2-4dcd-874b-bf9de4877cb6">
+"Okay, yeah, I should definitely
+<br/>
+get to know other people,"
+</p>
+<p xml:id="subtitle489" begin="14025344666t" end="14056709333t" region="region0" nttm:uuid="0ea1197d-ccf4-4c28-a49a-de9ce5dab276">
+and like, I definitely thought
+<br/>
+I would feel that way.
+</p>
+<p xml:id="subtitle490" begin="14064050000t" end="14083069000t" region="region0" nttm:uuid="101f7454-feae-4e9a-b189-9c6befee7292">
+Jeremiah is probably, like,
+<br/>
+the best match for me.
+</p>
+<p xml:id="subtitle491" begin="14085738333t" end="14115434666t" region="region0" nttm:uuid="2016cb83-174f-42af-94e5-9afd4b806e7b">
+So I'll probably just
+<br/>
+continue to mainly pursue him
+</p>
+<p xml:id="subtitle492" begin="14116102000t" end="14148467666t" region="region0" nttm:uuid="af233cd7-5a99-4ce0-adfd-404bb5de69d6">
+but like, I'm definitely encouraged
+<br/>
+in getting to know everyone.
+</p>
+<p xml:id="subtitle493" begin="14149135000t" end="14161147000t" region="region0" nttm:uuid="1c1ab73e-b6a7-446a-9d84-2c5abf2a708c">So that's cool.</p>
+<p xml:id="subtitle494" begin="14164817333t" end="14183502666t" region="region0" nttm:uuid="bf76561f-a176-45fc-8ed9-42f4233be025">[dance music]</p>
+<p xml:id="subtitle495" begin="14188507666t" end="14208527666t" region="region0" nttm:uuid="69af9d82-d64f-4631-aaff-6d94cf329c27">
+-Hi!
+<br/>
+-Hey!
+</p>
+<p xml:id="subtitle496" begin="14209195000t" end="14228547666t" region="region0" nttm:uuid="5096e30b-99c1-402b-aeb7-577d7be3c59e">
+-[Kierstan] What are y'all up to?
+<br/>
+-Hanging out, chillin'.
+</p>
+<p xml:id="subtitle497" begin="14229215000t" end="14250569666t" region="region0" nttm:uuid="4e075c09-9b2a-4c68-a33c-7c90351d14df">
+-Come hang out with us.
+<br/>
+-I know!
+</p>
+<p xml:id="subtitle498" begin="14251904333t" end="14272258000t" region="region0" nttm:uuid="7131080a-86e8-4679-b3b1-63a13fa85607">
+It's so hot already.
+<br/>
+High-five.
+</p>
+<p xml:id="subtitle499" begin="14272925333t" end="14298617666t" region="region0" nttm:uuid="116edded-7e6f-4c15-ab74-d74943a5d13d">
+[Mackenzie] ...It's great
+<br/>
+that you're like that...
+</p>
+<p xml:id="subtitle500" begin="14299952333t" end="14339325000t" region="region0" nttm:uuid="7bd01698-ee16-4c1f-beb1-d590e6e5652d">
+I know. The sun is by the glass.
+<br/>
+Gets so hot.
+</p>
+<p xml:id="subtitle501" begin="14339992333t" end="14362014333t" region="region0" nttm:uuid="1d20e114-4518-48a0-9d28-d2900f2796e0">
+Oh, my gosh, cool. I was so worried
+<br/>
+it was gonna hit me wrong.
+</p>
+<p xml:id="subtitle502" begin="14366352000t" end="14387373000t" region="region0" nttm:uuid="5b4bc7e5-2766-483c-9411-2790e0ebb2d4">
+-But Texas is--
+<br/>
+-It's sunny as hell.
+</p>
+<p xml:id="subtitle503" begin="14388040333t" end="14400719666t" region="region0" nttm:uuid="5d60bd23-ffe2-4f47-a3fd-6ee35d96d378">
+I know!
+<br/>
+It's nothing different.
+</p>
+<p xml:id="subtitle504" begin="14401387000t" end="14421073333t" region="region0" nttm:uuid="0a4bc59d-0bc9-413b-9ae6-507f50b2ac42">
+-What part of Texas?
+<br/>
+-Um, Austin.
+</p>
+<p xml:id="subtitle505" begin="14421740666t" end="14433419000t" region="region0" nttm:uuid="a9527592-af61-4c61-a7ec-015a0e863357">
+-Austin.
+<br/>
+-Yeah.
+</p>
+<p xml:id="subtitle506" begin="14434086333t" end="14459111333t" region="region0" nttm:uuid="a787282e-9aca-4225-8dba-caaf85a63439">
+Austin, I heard it's like
+<br/>
+the top 10 places to live.
+</p>
+<p xml:id="subtitle507" begin="14462448000t" end="14473792666t" region="region0" nttm:uuid="c3627cc6-8e48-40fd-9d01-02c4f2d955b1">
+-I love it.
+<br/>
+-It is!
+</p>
+<p xml:id="subtitle508" begin="14475794666t" end="14485804666t" region="region0" nttm:uuid="626c144f-370e-43dd-913a-ae7e305a3441">
+You know how
+<br/>
+like everybody goes to LA,
+</p>
+<p xml:id="subtitle509" begin="14486472000t" end="14525844666t" region="region0" nttm:uuid="c9e6b25f-e96f-4d7d-bde3-9431fa13afe7">
+and everyone's like "Stay out!
+<br/>
+There's too many people."
+</p>
+<p xml:id="subtitle510" begin="14527179333t" end="14542528000t" region="region0" nttm:uuid="f054e1a4-7ce8-40d3-b923-9ccd31f6aa24">
+and now we're doing this
+<br/>
+in Austin.
+</p>
+<p xml:id="subtitle511" begin="14543862666t" end="14564883666t" region="region0" nttm:uuid="af45e1cf-1e1c-4518-85c3-537eb9aaa8e0">
+-You wanna go, like sit?
+<br/>
+-Oh yeah, sit.
+</p>
+<p xml:id="subtitle512" begin="14565551000t" end="14580899666t" region="region0" nttm:uuid="09ab9d1e-a220-465b-b25a-481d17eb3143">
+-Let's do it up.
+<br/>
+-I know.
+</p>
+<p xml:id="subtitle513" begin="14581567000t" end="14590909666t" region="region0" nttm:uuid="361fbef8-9a4f-4f35-bef9-c7d6312e7b38">[James] Where's my glasses?</p>
+<p xml:id="subtitle514" begin="14591577000t" end="14616268333t" region="region0" nttm:uuid="6bf78abc-f9a2-4623-ac02-e0729ec233cc">
+Now where should we do this?
+<br/>
+By the fence?
+</p>
+<p xml:id="subtitle515" begin="14616935666t" end="14629615000t" region="region0" nttm:uuid="94e24499-5c86-4c54-858f-4f985b733d8e">
+[Kierstan] We can do it
+<br/>
+in the shade somewhere.
+</p>
+<p xml:id="subtitle516" begin="14630949666t" end="14645964666t" region="region0" nttm:uuid="dc1d79b9-d97b-4861-888e-8d5fa5336c2a">Nice little spot.</p>
+<p xml:id="subtitle517" begin="14649968666t" end="14696682000t" region="region0" nttm:uuid="aa5c136e-9aca-4d68-ad5f-7db857475728">
+I'm actually very happy with the date
+<br/>
+that Carrington and I went on.
+</p>
+<p xml:id="subtitle518" begin="14697683000t" end="14723709000t" region="region0" nttm:uuid="bf1e818b-9d6c-4b14-88ba-9b5e2621f936">
+And he is very attractive,
+<br/>
+very nice to look at,
+</p>
+<p xml:id="subtitle519" begin="14724376333t" end="14755073666t" region="region0" nttm:uuid="87f5b29c-1d65-4b4f-881f-61b825396291">
+but James.
+<br/>
+Personality is a big thing for me.
+</p>
+<p xml:id="subtitle520" begin="14755741000t" end="14772424333t" region="region0" nttm:uuid="22d4b254-a46b-4719-97ee-fc6e0062ce2e">He has maybe caught my eye a little.</p>
+<p xml:id="subtitle521" begin="14773425333t" end="14794780000t" region="region0" nttm:uuid="20b3c7ad-a4f0-4826-aa2a-b158c4f78a22">
+-I like your tattoos.
+<br/>
+-150 hours overall.
+</p>
+<p xml:id="subtitle522" begin="14795447333t" end="14818804000t" region="region0" nttm:uuid="e3bfbc00-450a-4609-8549-b6147c007cc0">
+I have little baby ones
+<br/>
+here and there.
+</p>
+<p xml:id="subtitle523" begin="14819471333t" end="14841493333t" region="region0" nttm:uuid="490fed9d-9acf-4e95-8abb-ad64fc6f0896">
+And this one, I was like
+<br/>
+"Are you done yet?"
+</p>
+<p xml:id="subtitle524" begin="14842160666t" end="14854840000t" region="region0" nttm:uuid="d0b33afc-c1c3-4ffe-a284-94eb6e5c24df">
+-And then--
+<br/>
+-"Are you done yet."
+</p>
+<p xml:id="subtitle525" begin="14855507333t" end="14874526333t" region="region0" nttm:uuid="2e9db1e8-e27c-4aba-aec5-2a7f3c74d231">
+Aw, that's like
+<br/>
+two minutes. I love that.
+</p>
+<p xml:id="subtitle526" begin="14875193666t" end="14889541333t" region="region0" nttm:uuid="50ddaefe-3376-414b-a0c4-74500607d946">
+I know! Right here.
+<br/>
+I was like "It burns!"
+</p>
+<p xml:id="subtitle527" begin="14890208666t" end="14915567333t" region="region0" nttm:uuid="320e5481-de88-42aa-bc37-86c00671f043">Ugh, this is stressing me out already.</p>
+<p xml:id="subtitle528" begin="14917569333t" end="14926912000t" region="region0" nttm:uuid="7e7d8cf7-da86-4d24-8e46-273c63dadd0c">Everyone's real great.</p>
+<p xml:id="subtitle529" begin="14927579333t" end="14942260666t" region="region0" nttm:uuid="aee3a743-136f-4a90-bb4d-6f428900bd12">
+-I know!
+<br/>
+-You seem nice too.
+</p>
+<p xml:id="subtitle530" begin="14942928000t" end="14955273666t" region="region0" nttm:uuid="25eb6b11-b231-4c65-a90c-bc15100fb250">
+-Thanks.
+<br/>
+-Yeah.
+</p>
+<p xml:id="subtitle531" begin="14956274666t" end="14974960000t" region="region0" nttm:uuid="ec9bc881-8960-4412-951a-86026245666a">High-five. You're the new girl. [laughs]</p>
+<p xml:id="subtitle532" begin="14975627333t" end="14993979000t" region="region0" nttm:uuid="2ba2e1c3-aac7-4379-bdbe-cb755a89faba">
+[Kierstan] Oh, my God, I know.
+<br/>
+What am I going to wear?
+</p>
+<p xml:id="subtitle533" begin="14996314666t" end="15007659333t" region="region0" nttm:uuid="1b452280-39cd-4527-bc5c-8f66bb0c67a6">You're the pretty new girl, though.</p>
+<p xml:id="subtitle534" begin="15008326666t" end="15024676333t" region="region0" nttm:uuid="ac2e2fd0-f15d-4957-af45-4cda20adaa8c">
+How many times
+<br/>
+do people say you're pretty?
+</p>
+<p xml:id="subtitle535" begin="15025343666t" end="15048366666t" region="region0" nttm:uuid="0e1cdb92-06fa-4db6-a18a-c8e597820442">
+-Like, I've had it, here and there.
+<br/>
+-A thousand?
+</p>
+<p xml:id="subtitle536" begin="15049034000t" end="15070388666t" region="region0" nttm:uuid="58eaa7a0-365f-463c-92ae-e340192dd193">
+-Stop it.
+<br/>
+-I can give you a thousand, if you want.
+</p>
+<p xml:id="subtitle537" begin="15071056000t" end="15106091000t" region="region0" nttm:uuid="19b5c226-92f0-483c-b345-c55dba6672dd">
+I'm a complimenter.
+<br/>
+I tell people how I'm feeling.
+</p>
+<p xml:id="subtitle538" begin="15106758333t" end="15140458666t" region="region0" nttm:uuid="93d7a7fb-12c9-4115-9ff5-46b3b61ecb39">
+Boost me up!
+<br/>
+You're very attractive yourself.
+</p>
+<p xml:id="subtitle539" begin="15142460666t" end="15162147000t" region="region0" nttm:uuid="0ca90461-6b9c-4d8e-8d60-f7190a0d490e">
+-I love the tattoos.
+<br/>
+-Thanks for picking me.
+</p>
+<p xml:id="subtitle540" begin="15178163000t" end="15197515666t" region="region0" nttm:uuid="19683452-176d-4f4f-9804-ac9e13c51af4">
+-[James] I'm kidding.
+<br/>
+-[Kierstan] Stop it!
+</p>
+<p xml:id="subtitle541" begin="15198183000t" end="15234886333t" region="region0" nttm:uuid="953ee585-bd03-4b56-9207-47ec76faa408">
+-Feeling I was right!
+<br/>
+-...talking about you and Carrington.
+</p>
+<p xml:id="subtitle542" begin="15243561666t" end="15264916333t" region="region0" nttm:uuid="29d3a353-d442-4a9a-8416-2cdc3a76589f">
+[James] Like I want
+<br/>
+to get you know more, for sure.
+</p>
+<p xml:id="subtitle543" begin="15271589666t" end="15287605666t" region="region0" nttm:uuid="26daf757-1a9c-44b3-a30d-939f0f762bc7">
+-Feel everyone out?
+<br/>
+-If you're open to that?
+</p>
+<p xml:id="subtitle544" begin="15288272999t" end="15296948333t" region="region0" nttm:uuid="7762c47b-9872-48a6-814a-c77b39df9f95">Yeah, of course.</p>
+<p xml:id="subtitle545" begin="15297615666t" end="15316968333t" region="region0" nttm:uuid="83a29a6e-e5da-453b-984a-7c09c5931cfa">
+I know me and Moira,
+<br/>
+we hit it off first night.
+</p>
+<p xml:id="subtitle546" begin="15317635666t" end="15331983333t" region="region0" nttm:uuid="9848040e-bfee-420b-a0e1-6b5e74276c4b">
+-Uh-huh.
+<br/>
+-And um...
+</p>
+<p xml:id="subtitle547" begin="15332984333t" end="15356674666t" region="region0" nttm:uuid="c48b2f59-9723-4acf-a030-171ec75f4379">
+-God, y'all seem--
+<br/>
+-Here's the thing though, like...
+</p>
+<p xml:id="subtitle548" begin="15364682666t" end="15379364000t" region="region0" nttm:uuid="edd40dd4-de8d-403e-886f-b5548c4acb01">
+We're still going to learn
+<br/>
+about each other.
+</p>
+<p xml:id="subtitle549" begin="15380031333t" end="15400718666t" region="region0" nttm:uuid="c4f74267-342b-4d95-b029-bfa6f6544934">
+But she's a little
+<br/>
+on the shy side.
+</p>
+<p xml:id="subtitle550" begin="15404722666t" end="15425076333t" region="region0" nttm:uuid="c29f11bd-2649-4de4-8ee2-3af3d93bbe28">
+You seem...
+<br/>
+You're not. [laughs]
+</p>
+<p xml:id="subtitle551" begin="15439090333t" end="15470455000t" region="region0" nttm:uuid="6b7086d6-56e2-40ec-8d39-48c4e4bee93a">
+I was a little nervous about pulling him
+<br/>
+for a chat, but I did.
+</p>
+<p xml:id="subtitle552" begin="15474125333t" end="15516167333t" region="region0" nttm:uuid="c3beaf56-208e-4548-8d0f-cb378995c205">
+And he seems so funny, so great,
+<br/>
+so very easygoing.
+</p>
+<p xml:id="subtitle553" begin="15517835666t" end="15544529000t" region="region0" nttm:uuid="df74583e-9829-4f30-83fe-a877310b8601">
+And so I get along
+<br/>
+with that, you know, 10-fold.
+</p>
+<p xml:id="subtitle554" begin="15545196333t" end="15557208333t" region="region0" nttm:uuid="a7f8f727-fb09-4b13-ab7c-823e1bd2318a">I love it.</p>
+<p xml:id="subtitle555" begin="15558543000t" end="15576560999t" region="region0" nttm:uuid="7fd2a8ef-5f07-435b-9f8f-89a9b09d41ac">
+Do you have any brothers
+<br/>
+or sisters or anything?
+</p>
+<p xml:id="subtitle556" begin="15577228333t" end="15592577000t" region="region0" nttm:uuid="5271102b-098d-482b-a0d0-cba6790060e1">
+-I have two younger brothers.
+<br/>
+-Nice.
+</p>
+<p xml:id="subtitle557" begin="15599584000t" end="15627945666t" region="region0" nttm:uuid="cd8ef2b4-f4c4-4188-bad0-157b09f26044">
+Would you feel comfortable with him
+<br/>
+kissing other girls?
+</p>
+<p xml:id="subtitle558" begin="15628613000t" end="15647298333t" region="region0" nttm:uuid="975debec-941b-4c04-869e-a074ea62faec">
+You know, I'm not
+<br/>
+in charge of James.
+</p>
+<p xml:id="subtitle559" begin="15647965666t" end="15676660999t" region="region0" nttm:uuid="cf5a0a89-13b1-4e72-a288-96dda0871de5">
+I have no...
+<br/>
+I can't tell him what to do.
+</p>
+<p xml:id="subtitle560" begin="15677328333t" end="15691342333t" region="region0" nttm:uuid="0ae02076-b947-47d9-9007-bb67c8e1c63f">
+Love when someone
+<br/>
+takes the initiative,
+</p>
+<p xml:id="subtitle561" begin="15694011666t" end="15721705999t" region="region0" nttm:uuid="28633764-8b36-4ef9-898e-2c9fc3918b75">
+and like you just grabbing me right here,
+<br/>
+it's made my morning.
+</p>
+<p xml:id="subtitle562" begin="15722373333t" end="15750067666t" region="region0" nttm:uuid="592cad1b-9c8d-4ae3-8c9f-37c17a76394e">
+Oh, my God, you...
+<br/>
+I'm so bad at winking.
+</p>
+<p xml:id="subtitle563" begin="15752737000t" end="15765082666t" region="region0" nttm:uuid="7b19b194-936d-4517-9313-017a35c257e9">Oh, that-- you got it right.</p>
+<p xml:id="subtitle564" begin="15766083666t" end="15790775000t" region="region0" nttm:uuid="a83bf68c-662c-4c93-bbbe-70b30328d76c">I think the new islanders are so stunning.</p>
+<p xml:id="subtitle565" begin="15791442333t" end="15816467333t" region="region0" nttm:uuid="1f4a86fa-ea64-4f64-a60f-b90031ba4685">
+I can't even handle how
+<br/>
+beautiful they are.
+</p>
+<p xml:id="subtitle566" begin="15817134666t" end="15840825000t" region="region0" nttm:uuid="7f8ef541-09b7-4758-8b31-25e26020ae1f">Everything was going great with James.</p>
+<p xml:id="subtitle567" begin="15842159666t" end="15865850000t" region="region0" nttm:uuid="4c14348e-af90-4672-9c45-9c71010497c0">
+Kierstan talking with him
+<br/>
+like one-on-one,
+</p>
+<p xml:id="subtitle568" begin="15866517333t" end="15880531333t" region="region0" nttm:uuid="cfad9d7d-f9fa-401a-9377-e1614fb9a688">like, back off.</p>
+<p xml:id="subtitle569" begin="15903554333t" end="15916567333t" region="region0" nttm:uuid="909cffe7-f43f-4ddd-94b8-a3b8e1780b7f">
+-[phone chimes]
+<br/>
+-[Justine gasps]
+</p>
+<p xml:id="subtitle570" begin="15942927000t" end="15967284666t" region="region0" nttm:uuid="b8b33ed7-5047-48cc-a363-dc5bf2b25dae">I got a text!</p>
+<p xml:id="subtitle571" begin="15967952000t" end="15995646333t" region="region0" nttm:uuid="941bd857-a846-4601-a25c-1af25181e961">
+-[all exclaiming]
+<br/>
+-Guys, I got a text!
+</p>
+<p xml:id="subtitle572" begin="15996313666t" end="16006657333t" region="region0" nttm:uuid="2fdab449-54c9-4e6d-8376-4f32d7cbbf38">Come over here!</p>
+<p xml:id="subtitle573" begin="16011662333t" end="16020337666t" region="region0" nttm:uuid="6e2c9996-ad22-4bb3-a899-a1cd952158af">Whoo!</p>
+<p xml:id="subtitle574" begin="16021005000t" end="16041692333t" region="region1" nttm:uuid="da82b7eb-04a5-40b6-a3fb-addc660a9759">
+"Islanders, you have been
+<br/>
+cleared to land,
+</p>
+<p xml:id="subtitle575" begin="16042359666t" end="16067051000t" region="region1" nttm:uuid="5fc05139-69b9-4c67-ba04-31a0330756fa">
+and it is time to unpack more
+<br/>
+than your underwear,
+</p>
+<p xml:id="subtitle576" begin="16067718333t" end="16089740333t" region="region1" nttm:uuid="0cf646fd-2bff-403f-bc75-a7dd5d747998">
+in today's challenge
+<br/>
+'Excess Baggage.'"
+</p>
+<p xml:id="subtitle577" begin="16090407666t" end="16107091000t" region="region1" nttm:uuid="ae7d2e7c-a7d0-40c1-bd82-75d15e517ddb">#Mile High Club.</p>
+<p xml:id="subtitle578" begin="16107758333t" end="16128112000t" region="region1" nttm:uuid="f20d35a6-a81e-4468-8421-40bddc52a306">#Anything to declare?</p>
+<p xml:id="subtitle579" begin="16131782333t" end="16148132000t" region="region0" nttm:uuid="9f3ab95f-43c1-4d6b-badc-ba3b5ba88cc6">[all whooping]</p>
+<p xml:id="subtitle580" begin="16153470666t" end="16170487666t" region="region0" nttm:uuid="5b5a024f-1d87-4582-9a4e-74f0b662853a">
+-[Kierstan] I'm scared.
+<br/>
+-Whoo!
+</p>
+<p xml:id="subtitle581" begin="16187504666t" end="16209193000t" region="region0" nttm:uuid="ea4e850d-59c8-4d12-a3ca-02ab2e8b371a">[pop music]</p>
+<p xml:id="subtitle582" begin="16242893333t" end="16272256000t" region="region0" nttm:uuid="2b146505-b8c8-4645-8387-66882e2551c6">
+[Matthew]
+<span style="style1">It's time for the first</span>
+<br/>
+Love Island
+<span style="style1">challenge.</span>
+</p>
+<p xml:id="subtitle583" begin="16272923333t" end="16287938333t" region="region0" nttm:uuid="f48a390e-f275-45d7-b5fb-0e7984bad6c5">
+<span style="style1">"Excess Baggage."</span>
+</p>
+<p xml:id="subtitle584" begin="16296613666t" end="16332983333t" region="region0" nttm:uuid="9ffd422f-01d7-4aed-ac8d-d60bb2d9f8f1">
+<span style="style1">The slow-motion running audition</span>
+<br/>
+<span style="style1">is the toughest part</span>
+</p>
+<p xml:id="subtitle585" begin="16333650666t" end="16357341000t" region="region0" nttm:uuid="594b5c03-8e5d-4ba7-8b3b-70ff1590a9e6">
+<span style="style1">of the </span>
+Love Island
+<br/>
+<span style="style1">casting process.</span>
+</p>
+<p xml:id="subtitle586" begin="16367351000t" end="16414731666t" region="region0" nttm:uuid="167fc5d3-2cad-4cd0-8062-ab3a69bb2389">
+<span style="style1">Winners of this challenge will receive</span>
+<br/>
+<span style="style1">a grand total of zero dollars</span>
+</p>
+<p xml:id="subtitle587" begin="16415399000t" end="16453103333t" region="region0" nttm:uuid="933fe20d-6e87-4d81-acf7-7c74d4a9c525">
+<span style="style1">because the producers blew</span>
+<br/>
+<span style="style1">the budget on small pink hats.</span>
+</p>
+<p xml:id="subtitle588" begin="16454771666t" end="16489139333t" region="region0" nttm:uuid="288d4ecc-8bb9-4ae7-befa-0f53ed480142">
+<span style="style1">In today's game,</span>
+<br/>
+<span style="style1">the boys will battle the girls.</span>
+</p>
+<p xml:id="subtitle589" begin="16504821666t" end="16527510999t" region="region0" nttm:uuid="0993981c-8aa2-4399-ba66-ca138c26e05d">
+<span style="style1">A piece of luggage will</span>
+<br/>
+<span style="style1">come down the carousel.</span>
+</p>
+<p xml:id="subtitle590" begin="16528178333t" end="16558208333t" region="region0" nttm:uuid="6f804adb-1f1c-46bb-8d7b-28b8dd2cac33">
+-Does that mean I go first? Okay.
+<br/>
+-Yes!
+</p>
+<p xml:id="subtitle591" begin="16561211333t" end="16601251333t" region="region0" nttm:uuid="6f92e6ff-b903-4e97-ad1b-a5559617baac">
+<span style="style1">Each suitcase contains a dirty secret</span>
+<br/>
+<span style="style1">from an islander's past.</span>
+</p>
+<p xml:id="subtitle592" begin="16601918666t" end="16624941666t" region="region0" nttm:uuid="3daa09af-66fe-4ad3-b9bb-0a577a3c4302">
+-Let's see what we've got.
+<br/>
+-[girls exclaiming]
+</p>
+<p xml:id="subtitle593" begin="16625609000t" end="16642959666t" region="region0" nttm:uuid="edb50e0c-c16f-4dc6-813d-f631d5042e55">Poker face. Poker face.</p>
+<p xml:id="subtitle594" begin="16643627000t" end="16674991666t" region="region0" nttm:uuid="d1c425ce-6fc1-45d8-a412-5da1f6adc8b2">
+-Cougar ahead.
+<br/>
+-Cougar ahead.
+</p>
+<p xml:id="subtitle595" begin="16683333333t" end="16749065666t" region="region0" nttm:uuid="c002fc97-7ee2-443a-aa9c-d13e137e4072">
+"This islander once slept with a woman
+<br/>
+who was more than twice his age!"
+</p>
+<p xml:id="subtitle596" begin="16761745000t" end="16778094666t" region="region0" nttm:uuid="2e545f7d-aca6-49fa-90e6-9d05fb3fcdbc">
+[Matthew]
+<span style="style1">As a team,</span>
+<br/>
+<span style="style1">they must figure out</span>
+</p>
+<p xml:id="subtitle597" begin="16781765000t" end="16808124666t" region="region0" nttm:uuid="da68c2a8-d745-43d7-ad71-207e7e80ebb3">
+<span style="style1">which flirty flight attendant</span>
+<br/>
+<span style="style1">or crafty captain</span>
+</p>
+<p xml:id="subtitle598" begin="16808792000t" end="16854170666t" region="region0" nttm:uuid="ca7f956f-61b4-4dd0-ab76-e43c0d94405b">
+<span style="style1">did the deed</span>
+<br/>
+<span style="style1">and identify the perp with a kiss.</span>
+</p>
+<p xml:id="subtitle599" begin="16860510333t" end="16883867000t" region="region0" nttm:uuid="30ee069e-5886-4fa7-955c-37a54011c586">
+<span style="style1">-TSA gets PDA.</span>
+<br/>
+-[cheering]
+</p>
+<p xml:id="subtitle600" begin="16933249666t" end="16953937000t" region="region0" nttm:uuid="7450999c-2469-4a5f-9f6a-5a6c55f980fd">Carrington!</p>
+<p xml:id="subtitle601" begin="16955605333t" end="16966950000t" region="region0" nttm:uuid="11c91c40-c991-446d-98da-ddcec86a4540">[cheering]</p>
+<p xml:id="subtitle602" begin="16982632333t" end="17006990000t" region="region0" nttm:uuid="77a139c6-6e06-48f5-9dbd-4b3d89e055eb">[cheering and clapping]</p>
+<p xml:id="subtitle603" begin="17032348666t" end="17055038000t" region="region0" nttm:uuid="afeee917-f377-4f33-b2ad-7608f01ab07f">
+"After getting caught
+<br/>
+in the act,
+</p>
+<p xml:id="subtitle604" begin="17058374666t" end="17102085000t" region="region0" nttm:uuid="807d3db1-70e0-4285-8626-98264565afab">
+this Islander once had to run out
+<br/>
+of a girl's house naked
+</p>
+<p xml:id="subtitle605" begin="17102752333t" end="17139122000t" region="region0" nttm:uuid="5d80b9dc-872e-4d5b-a265-4c66767d5bd3">while being chased by dogs."</p>
+<p xml:id="subtitle606" begin="17141124000t" end="17151467666t" region="region0" nttm:uuid="571020ac-828d-46d0-b6da-64c1b102283c">[laughter]</p>
+<p xml:id="subtitle607" begin="17182498666t" end="17204854333t" region="region0" nttm:uuid="5970ec9b-192b-4786-8356-451a81aab25a">
+-[girls squealing]
+<br/>
+-Oh!
+</p>
+<p xml:id="subtitle608" begin="17213529666t" end="17237220000t" region="region0" nttm:uuid="22437a0c-6c51-498f-bf1b-4c309c198fb8">[applause]</p>
+<p xml:id="subtitle609" begin="17241557666t" end="17260576666t" region="region0" nttm:uuid="09700808-7ab2-4852-9b75-b36dbc686d52">[Justine] Girl! With the fake-out!</p>
+<p xml:id="subtitle610" begin="17261244000t" end="17280263000t" region="region0" nttm:uuid="6ed17952-d1f4-4e5f-96b0-a459e97b490b">Jeremiah!</p>
+<p xml:id="subtitle611" begin="17310960333t" end="17329312000t" region="region0" nttm:uuid="91966ce6-0c01-4af3-a9f8-6e18e767306d">
+That was cold. That was cold.
+<br/>
+That was cold, guy.
+</p>
+<p xml:id="subtitle612" begin="17329979333t" end="17343659666t" region="region0" nttm:uuid="c0aecf1e-c6a4-484e-b955-2b130072ad3d">[Kierstan] That was so good.</p>
+<p xml:id="subtitle613" begin="17351667666t" end="17386035333t" region="region0" nttm:uuid="b241a174-9ac3-4e8a-a00a-b285750fe5cc">
+-[gasps]
+<br/>
+-Oh, my God!
+</p>
+<p xml:id="subtitle614" begin="17387370000t" end="17402385000t" region="region0" nttm:uuid="98837513-ef59-4e83-8288-21a4069ff904">
+-[Cely] Okay.
+<br/>
+-All right!
+</p>
+<p xml:id="subtitle615" begin="17405721666t" end="17433749666t" region="region0" nttm:uuid="75677ddf-6e9c-4089-873d-eb8e64b6556f">
+"This Islander slept
+<br/>
+with a friend's girlfriend
+</p>
+<p xml:id="subtitle616" begin="17434417000t" end="17452101333t" region="region0" nttm:uuid="42de6209-b588-43e2-bfca-2b07aabd503d">
+just to see
+<br/>
+if he could pull it off."
+</p>
+<p xml:id="subtitle617" begin="17452768666t" end="17463112333t" region="region0" nttm:uuid="dc97fcce-583c-4981-a994-17a62e163c9f">[Cely squeals]</p>
+<p xml:id="subtitle618" begin="17463779666t" end="17489472000t" region="region0" nttm:uuid="d05fd9db-8083-4692-9cd0-e16d899b0d67">
+Damn, now I want to see
+<br/>
+who the Judas is.
+</p>
+<p xml:id="subtitle619" begin="17490139333t" end="17518834666t" region="region0" nttm:uuid="63912903-a69f-4a58-9de8-a1c75145d5c9">Get it! Ha ha!</p>
+<p xml:id="subtitle620" begin="17519502000t" end="17534183333t" region="region0" nttm:uuid="b6ff03b0-1a82-4cbd-bbf2-7265c7283ce8">Jeremiah!</p>
+<p xml:id="subtitle621" begin="17537520000t" end="17564547000t" region="region0" nttm:uuid="1fbead79-0ef5-42e4-aac9-c2f7022d3518">[cheering and applause]</p>
+<p xml:id="subtitle622" begin="17639288333t" end="17665314333t" region="region0" nttm:uuid="555f5ca8-d351-4c38-a2cc-ef0cdeefadb0">
+Oh, she went in.
+<br/>
+She went in there.
+</p>
+<p xml:id="subtitle623" begin="17666649000t" end="17683999666t" region="region0" nttm:uuid="115ea4ef-1f26-4dfd-8595-8b25e4998e5d">
+I knew she was gonna kiss him,
+<br/>
+but I thought
+</p>
+<p xml:id="subtitle624" begin="17684667000t" end="17723372333t" region="region0" nttm:uuid="75b988a7-0aba-4439-83d1-b286be9b6953">
+she would go in for, like,
+<br/>
+a peck, a quick mini... one, two,
+</p>
+<p xml:id="subtitle625" begin="17724373333t" end="17748063666t" region="region0" nttm:uuid="f64f3e88-2128-4b93-930f-0656c1b251e1">
+and she sucked
+<br/>
+his whole face.
+</p>
+<p xml:id="subtitle626" begin="17757740000t" end="17782097666t" region="region0" nttm:uuid="19d30c0a-0b74-4db6-aa7d-e45012c9982c">
+-Tre!
+<br/>
+-[all exclaiming]
+</p>
+<p xml:id="subtitle627" begin="17782765000t" end="17806121666t" region="region0" nttm:uuid="3d76d969-33bd-4b36-9950-26707136e15b">
+Aw, we love Tre!
+<br/>
+What are you doing?
+</p>
+<p xml:id="subtitle628" begin="17806789000t" end="17832815000t" region="region0" nttm:uuid="f2b748ab-34d1-4bb1-9a20-68baeb3abdf6">Sometimes things just happen.</p>
+<p xml:id="subtitle629" begin="17838153666t" end="17857506333t" region="region0" nttm:uuid="fcd360bd-525d-4787-abb4-c3b45effdcb7">[whooping]</p>
+<p xml:id="subtitle630" begin="17868851000t" end="17899548333t" region="region0" nttm:uuid="f6965e40-7ebc-45f0-9fe3-f62aa5ab2b88">
+"This Islander,
+<br/>
+a.k.a. Mr. Studio Girl,
+</p>
+<p xml:id="subtitle631" begin="17905220666t" end="17917900000t" region="region0" nttm:uuid="bf1bfe25-4335-4680-a860-1ee595b86c33">once made out with a woman</p>
+<p xml:id="subtitle632" begin="17918567333t" end="17944927000t" region="region0" nttm:uuid="c1af7146-30fd-490f-aefb-42d94f13f379">
+while her boyfriend was standing
+<br/>
+right next to her."
+</p>
+<p xml:id="subtitle633" begin="17945928000t" end="17968283666t" region="region0" nttm:uuid="78659cf1-b273-43b4-86e1-c11199b5e6ba">
+-Oh, my God!
+<br/>
+-Damn...
+</p>
+<p xml:id="subtitle634" begin="17968951000t" end="17989304666t" region="region0" nttm:uuid="4a5779fc-7ede-4c7b-bf33-345be0437baa">
+-Girl!
+<br/>
+-Get it!
+</p>
+<p xml:id="subtitle635" begin="18008657333t" end="18029011000t" region="region0" nttm:uuid="345f47a7-1b33-4ac7-acf9-d7836aae0424">[all cheering]</p>
+<p xml:id="subtitle636" begin="18029678333t" end="18059708333t" region="region0" nttm:uuid="41bc44f4-d7ba-4ba2-bea4-2e51ed0dc240">
+I put my foot down
+<br/>
+and kinda claimed what's mine.
+</p>
+<p xml:id="subtitle637" begin="18060375666t" end="18076391666t" region="region0" nttm:uuid="989e454e-6ac4-4430-bff8-14ea7e8f25b5">Okay!</p>
+<p xml:id="subtitle638" begin="18109424666t" end="18130779333t" region="region0" nttm:uuid="0f983366-4169-41c3-acb0-96e5157f94e6">
+-That's two in a row, boy.
+<br/>
+-I'm really sweating now.
+</p>
+<p xml:id="subtitle639" begin="18131446666t" end="18145460666t" region="region0" nttm:uuid="cd8debe4-4c41-4465-9f1e-f41eb93b2087">Johnny!</p>
+<p xml:id="subtitle640" begin="18201850333t" end="18238220000t" region="region0" nttm:uuid="8f575b2b-ff81-460e-9643-b3ccfef1cf18">
+"This Islander once had a threesome
+<br/>
+with two married women."
+</p>
+<p xml:id="subtitle641" begin="18243892333t" end="18269584666t" region="region0" nttm:uuid="0f89edd2-57d9-4e32-b3a5-8e2fc96e64fb">
+-Oh, wow!
+<br/>
+-He's bad.
+</p>
+<p xml:id="subtitle642" begin="18305620666t" end="18344659666t" region="region0" nttm:uuid="cf38df94-8a0a-4041-9ba2-1155033dfa5d">
+-[squealing and laughing]
+<br/>
+-Okay.
+</p>
+<p xml:id="subtitle643" begin="18378693666t" end="18391706666t" region="region0" nttm:uuid="b4f0603d-99da-407c-80c3-289a15efc547">
+-James!
+<br/>
+-Yeah.
+</p>
+<p xml:id="subtitle644" begin="18392374000t" end="18420735666t" region="region0" nttm:uuid="0fe2b7e8-fc9f-427f-b40e-ae02e1694801">
+-[all exclaiming]
+<br/>
+-Oh, I knew it.
+</p>
+<p xml:id="subtitle645" begin="18421403000t" end="18438086333t" region="region0" nttm:uuid="cc9eda31-cfd5-476b-ad89-ce0ff7445110">You little closet--</p>
+<p xml:id="subtitle646" begin="18438753666t" end="18452767666t" region="region0" nttm:uuid="0799ac83-edbc-49ed-b6dd-6c73381dc30c">Two married women?!</p>
+<p xml:id="subtitle647" begin="18453435000t" end="18492807666t" region="region0" nttm:uuid="6f5c868e-c4ce-4714-889a-de5cb4356bb2">
+They came up to me and they said,
+<br/>
+"Could you be our toy tonight?"
+</p>
+<p xml:id="subtitle648" begin="18493475000t" end="18509824666t" region="region0" nttm:uuid="e8dc00a5-829e-4219-b9fe-b5aa5902337f">
+-What?
+<br/>
+-Yeah.
+</p>
+<p xml:id="subtitle649" begin="18525173333t" end="18547862666t" region="region0" nttm:uuid="f0d2035f-e89e-4d25-8177-e452943df93e">
+-Hurray!
+<br/>
+-Whoo!
+</p>
+<p xml:id="subtitle650" begin="18561209333t" end="18592907666t" region="region0" nttm:uuid="ffee05e0-920e-4171-bc98-f6ab2ec05bc0">Oh... kay!</p>
+<p xml:id="subtitle651" begin="18593575000t" end="18619934666t" region="region0" nttm:uuid="e9d64228-410d-4b7e-a40f-c1180cefe9ef">
+Which one of you
+<br/>
+dirty little h'mmms?
+</p>
+<p xml:id="subtitle652" begin="18628610000t" end="18657639000t" region="region0" nttm:uuid="5e6ad7e9-d8f0-4ac1-a71b-6c07c709a7bc">
+"It was like a scene
+<br/>
+from
+<span style="style1">50 Shades of Gray</span>
+</p>
+<p xml:id="subtitle653" begin="18658306333t" end="18703017666t" region="region0" nttm:uuid="4bea1d15-cd68-42f4-a863-3bb1777f7eb1">
+when this Islander lost his virginity
+<br/>
+during a one-night stand."
+</p>
+<p xml:id="subtitle654" begin="18727375333t" end="18751065666t" region="region0" nttm:uuid="6d12fe22-6e07-4421-bed9-6f06eff1240b">Oh!</p>
+<p xml:id="subtitle655" begin="18765413333t" end="18775423333t" region="region0" nttm:uuid="9dd1644f-17d0-4c98-ba75-2bb0e912c274">Connor!</p>
+<p xml:id="subtitle656" begin="18776090666t" end="18792774000t" region="region0" nttm:uuid="402b031b-ef3b-445b-8ec7-7e86e5e3d737">
+[Tre] I knew it.
+<br/>
+I knew it!
+</p>
+<p xml:id="subtitle657" begin="18800448333t" end="18841489333t" region="region0" nttm:uuid="67d659b1-77c9-40ef-bdfa-5e441d3e674d">
+That is a big turn-on for me,
+<br/>
+that he can be a gentleman
+</p>
+<p xml:id="subtitle658" begin="18842156666t" end="18876190666t" region="region0" nttm:uuid="54c71f13-dc67-44e9-abd0-c83b4fe4e933">
+and then he has a other side.
+<br/>
+I'm like okay, all right.
+</p>
+<p xml:id="subtitle659" begin="18876858000t" end="18894542333t" region="region0" nttm:uuid="2ef0970a-d1c1-4c13-a716-fad5816b4eb2">
+[Matthew]
+<span style="style1">So, at the end</span>
+<br/>
+<span style="style1">of round one,</span>
+</p>
+<p xml:id="subtitle660" begin="18895209666t" end="18913895000t" region="region0" nttm:uuid="4fc478f0-0070-4bdb-94ea-5fe53156f8db">
+<span style="style1">the girls have scored three.</span>
+</p>
+<p xml:id="subtitle661" begin="18914562333t" end="18949597333t" region="region0" nttm:uuid="4638c657-6e72-4e69-90d1-2965f2af2044">
+<span style="style1">Now it is the girls' turn</span>
+<br/>
+<span style="style1">to regret not having lied</span>
+</p>
+<p xml:id="subtitle662" begin="18950264666t" end="18970284666t" region="region0" nttm:uuid="775fd4e4-d510-458c-8de2-38c99264730f">
+<span style="style1">to our producers</span>
+<br/>
+<span style="style1">in the interview.</span>
+</p>
+<p xml:id="subtitle663" begin="18972620333t" end="18985967000t" region="region0" nttm:uuid="c7302057-e6c3-4d8f-9edb-b938301000b2">Ooh, rolling dice? What's that?</p>
+<p xml:id="subtitle664" begin="18986634333t" end="19006654333t" region="region0" nttm:uuid="d2e6fd4b-0d54-4ab2-90a4-bc0ca051f196">
+"This Islander
+<br/>
+once flipped a coin
+</p>
+<p xml:id="subtitle665" begin="19007321666t" end="19035016000t" region="region0" nttm:uuid="df671070-e0ab-480b-9f15-49969b3e5576">
+to determine which boy
+<br/>
+she was going home with that night."
+</p>
+<p xml:id="subtitle666" begin="19039020000t" end="19066047000t" region="region0" nttm:uuid="331f03e1-284a-46c2-9180-8c84de4b8596">
+-Ooh!
+<br/>
+-Wow!
+</p>
+<p xml:id="subtitle667" begin="19093741333t" end="19107755333t" region="region0" nttm:uuid="d6a7be68-3fda-4a23-b0e7-b28a2baf0e13">Awww.</p>
+<p xml:id="subtitle668" begin="19153134000t" end="19165479666t" region="region0" nttm:uuid="644cc16e-ea84-49be-9a59-ebf69ef9d841">Cely! Yeah.</p>
+<p xml:id="subtitle669" begin="19168149000t" end="19178492666t" region="region0" nttm:uuid="3f97947e-b1d9-4b2c-9565-e67afffcd676">Cely?!</p>
+<p xml:id="subtitle670" begin="19184832333t" end="19207855333t" region="region0" nttm:uuid="762a5aee-6850-41e5-b4ef-d941eab17bcc">
+It was my wild days.
+<br/>
+[laughing]
+</p>
+<p xml:id="subtitle671" begin="19233547666t" end="19247228000t" region="region0" nttm:uuid="fa5733ff-4fdb-45e5-9e48-8a053ff2397d">Oh, wow!</p>
+<p xml:id="subtitle672" begin="19258239000t" end="19277925333t" region="region0" nttm:uuid="3081f7e8-1178-41b3-a259-e72de4814587">
+What the--
+<br/>
+Is that toilet paper?
+</p>
+<p xml:id="subtitle673" begin="19278592666t" end="19293274000t" region="region0" nttm:uuid="65b97653-77cf-41e8-a26e-82d538aa98d5">Toilet paper?</p>
+<p xml:id="subtitle674" begin="19293941333t" end="19314962333t" region="region0" nttm:uuid="54d76c0b-15a3-4260-b3a2-c0a88cfc777f">
+"This Islander went
+<br/>
+number two
+</p>
+<p xml:id="subtitle675" begin="19315629666t" end="19354001333t" region="region0" nttm:uuid="26c3006f-e984-4556-8bd6-a431f434cb4b">
+on the side of the road because
+<br/>
+the line at the club was too long."
+</p>
+<p xml:id="subtitle676" begin="19354668666t" end="19377358000t" region="region0" nttm:uuid="f00cc2bf-8b04-4efb-8e48-c3fcbfe03157">[Tre and Jeremiah] Oh, hell no!</p>
+<p xml:id="subtitle677" begin="19387701666t" end="19412393000t" region="region0" nttm:uuid="36bac6f4-7738-44d9-932a-e9dd0ca77b46">[all exclaiming]</p>
+<p xml:id="subtitle678" begin="19425072333t" end="19448429000t" region="region0" nttm:uuid="24aa0c97-334d-473e-bbf5-a934a4e43d09">[cheering and applause]</p>
+<p xml:id="subtitle679" begin="19452433000t" end="19476457000t" region="region0" nttm:uuid="c7eb4ef7-6c1c-441e-9fac-f88846c51949">
+-Moira!
+<br/>
+-[laughter]
+</p>
+<p xml:id="subtitle680" begin="19484798666t" end="19498145333t" region="region0" nttm:uuid="d8b7e358-a410-4e88-bb9e-7f34a5118a19">Girl!</p>
+<p xml:id="subtitle681" begin="19498812666t" end="19519500000t" region="region0" nttm:uuid="1fed40d2-d420-4f55-a6d9-ab40aef043b9">
+I like
+<br/>
+threw my underwear away after.
+</p>
+<p xml:id="subtitle682" begin="19520167333t" end="19532179333t" region="region0" nttm:uuid="51040021-d92e-4681-9890-72653fea0d1d">[James] But did you go in?</p>
+<p xml:id="subtitle683" begin="19534848666t" end="19552866666t" region="region0" nttm:uuid="3aa59925-7ef2-4a9a-8c10-8d29c50ec527">
+Oh, yeah,
+<br/>
+we went into the club.
+</p>
+<p xml:id="subtitle684" begin="19554535000t" end="19577891666t" region="region0" nttm:uuid="587eecf1-0a4e-401f-b575-360b3c64e567">
+-Oh my God.
+<br/>
+-[all chattering]
+</p>
+<p xml:id="subtitle685" begin="19583230333t" end="19613260333t" region="region0" nttm:uuid="513c4040-2269-4559-8318-c422e8c0bd51">
+I thought it was kind of cute--
+<br/>
+not cute, but...
+</p>
+<p xml:id="subtitle686" begin="19618599000t" end="19668315333t" region="region0" nttm:uuid="55f07068-326d-4e6d-aa4b-1a3e71345cc7">
+like, damn, I know,
+<br/>
+I've been there, so-- ha-- it's funny.
+</p>
+<p xml:id="subtitle687" begin="19668982666t" end="19697344333t" region="region0" nttm:uuid="0db89977-2c8b-42ef-affa-86e53d6b2dcb">
+"This Islander went
+<br/>
+through a fake wedding ceremony
+</p>
+<p xml:id="subtitle688" begin="19698011666t" end="19728709000t" region="region0" nttm:uuid="9c9b7cf0-dd4b-462e-aa05-b32b147d90cf">
+so the groom would buy her
+<br/>
+a $6,000 bracelet."
+</p>
+<p xml:id="subtitle689" begin="19741388333t" end="19781094666t" region="region0" nttm:uuid="6f99b243-a59e-4b5e-819b-2b3ca5934004">[overlapping animated chatter]</p>
+<p xml:id="subtitle690" begin="19791104666t" end="19810457333t" region="region0" nttm:uuid="81330475-7402-414b-984d-bf6d69e2f6ff">Oh, that is so balling!</p>
+<p xml:id="subtitle691" begin="19834147666t" end="19854167666t" region="region0" nttm:uuid="a30f07b1-103f-4bae-923b-4899d4283ac6">Dagger to the heart.</p>
+<p xml:id="subtitle692" begin="19854835000t" end="19882529333t" region="region0" nttm:uuid="7c5f5582-fd6a-400a-b56b-6647f856564e">
+-Kierstin?
+<br/>
+-What?
+</p>
+<p xml:id="subtitle693" begin="19892873000t" end="19933246666t" region="region0" nttm:uuid="9dcbb538-f86a-470d-8f75-ef7b10b9e879">
+"This Islander believes that some people
+<br/>
+are gifted with natural talents,
+</p>
+<p xml:id="subtitle694" begin="19934247666t" end="19953934000t" region="region0" nttm:uuid="4636d7e8-4ad9-4d64-8a0f-b20d8e8e6d8d">and hers is sex."</p>
+<p xml:id="subtitle695" begin="19954601333t" end="19974621333t" region="region0" nttm:uuid="eeee6376-e356-4bc3-8f16-e7586cebd4ee">Oh, my God!</p>
+<p xml:id="subtitle696" begin="19995308666t" end="20023003000t" region="region0" nttm:uuid="9ce866dc-18e7-40fa-a900-dc61923e9506">[cheering and applause]</p>
+<p xml:id="subtitle697" begin="20049362666t" end="20071718333t" region="region0" nttm:uuid="1ddbcdf7-d3b4-45fd-914e-d5c82becc117">So we just like toss 'em back out there.</p>
+<p xml:id="subtitle698" begin="20072385666t" end="20086066000t" region="region0" nttm:uuid="3a456e15-751a-457e-b196-fa07f21cfc39">Rachel!</p>
+<p xml:id="subtitle699" begin="20090403666t" end="20105752333t" region="region0" nttm:uuid="d59e1ff4-e0b7-49c5-91e2-536fbd35e04c">-Whoo!</p>
+<p xml:id="subtitle700" begin="20162475666t" end="20191504666t" region="region0" nttm:uuid="682f79f8-a4c6-4053-a35f-93571882c88d">"This Islander calls herself an FBI agent</p>
+<p xml:id="subtitle701" begin="20192172000t" end="20224204000t" region="region0" nttm:uuid="4a50c79a-d685-424a-bcec-f855f0471e48">
+'cause she can dig up all the dirt
+<br/>
+on any guy she dates."
+</p>
+<p xml:id="subtitle702" begin="20242222000t" end="20252232000t" region="region0" nttm:uuid="7e7cd6e1-4546-4766-b830-eaf31af792a4">Whoo!</p>
+<p xml:id="subtitle703" begin="20273253000t" end="20307287000t" region="region0" nttm:uuid="09a82798-74b9-45f3-ae3f-72c84d3f5765">
+-Kaitlynn.
+<br/>
+-Put it on the board. Put it on the board.
+</p>
+<p xml:id="subtitle704" begin="20307954333t" end="20336983333t" region="region0" nttm:uuid="7cb7d97d-d53d-49fa-8d73-7d4a1f3b49aa">
+The final score,
+<br/>
+girls, 3, boys, 1.
+</p>
+<p xml:id="subtitle705" begin="20337650666t" end="20348995333t" region="region0" nttm:uuid="cd50408c-e098-4db9-9366-4e6edc3a93c9">So we lost.</p>
+<p xml:id="subtitle706" begin="20349662666t" end="20363009333t" region="region0" nttm:uuid="a2b1cb1d-baef-4fe7-9230-4e2b275eee64">
+[Matthew]
+<span style="style1">Yes, guys,</span>
+<br/>
+<span style="style1">you lost.</span>
+</p>
+<p xml:id="subtitle707" begin="20363676666t" end="20374687666t" region="region0" nttm:uuid="28329175-206c-4865-8b10-c4a31b977eaa">
+<span style="style1">Three to one.</span>
+</p>
+<p xml:id="subtitle708" begin="20379692666t" end="20433413000t" region="region0" nttm:uuid="455f19c2-2bec-4235-82d1-17f9b923b7f1">
+Whoo!
+<br/>
+[overlapping chatter]
+</p>
+<p xml:id="subtitle709" begin="20453766666t" end="20473119333t" region="region0" nttm:uuid="14bc6505-e63f-4cac-a335-6b0109c7a739">
+We the winners, man,
+<br/>
+we the winners!
+</p>
+<p xml:id="subtitle710" begin="20473786666t" end="20496476000t" region="region0" nttm:uuid="c7e57acc-cf07-4f1b-a289-c7aed437320a">Girl power!</p>
+<p xml:id="subtitle711" begin="20497143333t" end="20509489000t" region="region0" nttm:uuid="fe950361-fc94-4bbe-a0e2-57d2eba161ed">
+All right, let's go back
+<br/>
+to the villa!
+</p>
+<p xml:id="subtitle712" begin="20577223333t" end="20619265333t" region="region0" nttm:uuid="05c8ffac-5cb7-499c-95b0-59ab4a41b81e">
+[Matthew]
+<span style="style1">The Islanders just pulled each</span>
+<br/>
+<span style="style1">other's dirtiest secrets out of suitcases.</span>
+</p>
+<p xml:id="subtitle713" begin="20623269333t" end="20651297333t" region="region0" nttm:uuid="8427fd37-4e17-4c1a-9854-946ed4dde0be">
+<span style="style1">Unfortunately, they can't</span>
+<br/>
+<span style="style1">put them back in.</span>
+</p>
+<p xml:id="subtitle714" begin="20651964666t" end="20693673000t" region="region0" nttm:uuid="3a197e07-4eb1-4c46-884c-6d1b66226faf">
+<span style="style1">Instead, they must become</span>
+<br/>
+<span style="style1">the most beautiful baggage handlers</span>
+</p>
+<p xml:id="subtitle715" begin="20694340333t" end="20710690000t" region="region0" nttm:uuid="3b8faca1-01b1-4dce-b79a-9e07ae7a92ed">
+<span style="style1">you've ever seen.</span>
+</p>
+<p xml:id="subtitle716" begin="20712358333t" end="20732044666t" region="region0" nttm:uuid="a838bf4b-0165-4b2e-bc0a-64b1972284c4">
+[Cely] Did everyone have
+<br/>
+as much fun as I did?
+</p>
+<p xml:id="subtitle717" begin="20732712000t" end="20769081666t" region="region0" nttm:uuid="45044722-bb26-49f5-9cfc-26543f50a8d5">
+-'Cause I had so much fun!
+<br/>
+-Finally, right?
+</p>
+<p xml:id="subtitle718" begin="20769749000t" end="20810122666t" region="region0" nttm:uuid="2d6a01b7-e69d-44ce-9a8e-a99bc842d1b5">
+I was dying the entire time.
+<br/>
+Like laughing, that was so funny.
+</p>
+<p xml:id="subtitle719" begin="20818464333t" end="20828808000t" region="region0" nttm:uuid="19fe8127-0f7e-4abc-a895-30c4a68f7604">They were trying to win.</p>
+<p xml:id="subtitle720" begin="20829475333t" end="20841821000t" region="region0" nttm:uuid="0843c83d-241f-412f-8791-a53dc94f4009">Also real stuff, though.</p>
+<p xml:id="subtitle721" begin="20843155666t" end="20881861000t" region="region0" nttm:uuid="a9f35824-4e13-437b-a699-75cc7efb30ac">
+We really gotta talk about how it's going
+<br/>
+to affect everybody's relationship.
+</p>
+<p xml:id="subtitle722" begin="20882528333t" end="20908888000t" region="region0" nttm:uuid="5ba8896a-c3b5-4eee-9333-0c2e0c570d35">
+Thank God I picked Carrington
+<br/>
+and like him.
+</p>
+<p xml:id="subtitle723" begin="20911891000t" end="20921233666t" region="region0" nttm:uuid="bb0ad124-a4ba-40f7-a47f-c52575c59e34">Was that your first kiss?</p>
+<p xml:id="subtitle724" begin="20922234666t" end="20935915000t" region="region0" nttm:uuid="2ad34aa4-1382-4246-ae90-b80400359db4">Oh, with him, yeah.</p>
+<p xml:id="subtitle725" begin="20936582333t" end="20959271666t" region="region0" nttm:uuid="70757a5f-9538-4296-9df4-afdbb03eeb6c">
+It wasn't a regret because
+<br/>
+it did make me realize
+</p>
+<p xml:id="subtitle726" begin="20959939000t" end="20996308666t" region="region0" nttm:uuid="81a8a218-9d9d-4d55-bc85-323081e5fe6f">
+how much I do like him already,
+<br/>
+and I do only want to get to know him.
+</p>
+<p xml:id="subtitle727" begin="20996976000t" end="21013659333t" region="region0" nttm:uuid="1b4303e0-a727-43e7-a73b-66430b3409d9">I'm going for Kierstan hard.</p>
+<p xml:id="subtitle728" begin="21014326666t" end="21045024000t" region="region0" nttm:uuid="ef4251cd-f98b-4428-b4e1-b50f2637c77d">
+Yeah, and she even said,
+<br/>
+yeah, she likes you. Yeah, definitely.
+</p>
+<p xml:id="subtitle729" begin="21046358666t" end="21067713333t" region="region0" nttm:uuid="492e6e90-e247-4c68-96d0-9ddb32783ea8">
+Have y'all kissed outside of any
+<br/>
+of the challenges or games?
+</p>
+<p xml:id="subtitle730" begin="21068380666t" end="21093405666t" region="region0" nttm:uuid="d4aa034a-f8b1-4d12-b0bb-c45921959d78">No, but we should kiss tonight.</p>
+<p xml:id="subtitle731" begin="21097743333t" end="21127439666t" region="region0" nttm:uuid="3050267f-bc4c-4769-98de-f17ab7e0c2e5">
+-Bro, it's just nice having a girl who--
+<br/>
+-Who likes that honesty?
+</p>
+<p xml:id="subtitle732" begin="21128107000t" end="21137783333t" region="region0" nttm:uuid="e9d24409-f8d4-4484-beb2-a86172d554ba">Yeah.</p>
+<p xml:id="subtitle733" begin="21138450666t" end="21173819333t" region="region0" nttm:uuid="277d9683-2788-4d1e-b93e-ef4f3f817f88">
+We're, like, very loved up
+<br/>
+and we're saving our first real kiss.
+</p>
+<p xml:id="subtitle734" begin="21174820333t" end="21185831333t" region="region0" nttm:uuid="472b95f9-9e41-4ad4-abef-c0e452e03e4d">We haven't even done that yet.</p>
+<p xml:id="subtitle735" begin="21186498666t" end="21204850333t" region="region0" nttm:uuid="8789b024-a54e-4409-992b-c3205d7fe57c">So you mean like, outside the game.</p>
+<p xml:id="subtitle736" begin="21205517666t" end="21224870333t" region="region0" nttm:uuid="2a44172d-25bb-468c-81ed-cb0d8d01bf1e">
+We still haven't counted it
+<br/>
+as anything yet.
+</p>
+<p xml:id="subtitle737" begin="21228207000t" end="21248227000t" region="region0" nttm:uuid="dd5ea335-521b-4c07-be3e-f5cb4c995699">
+Do you think
+<br/>
+you can go the distance?
+</p>
+<p xml:id="subtitle738" begin="21252898333t" end="21275254000t" region="region0" nttm:uuid="be06f5de-e4fd-4cbe-a97b-28aa2fc1f512">
+-Dude, I absolutely think that.
+<br/>
+-Yeah?
+</p>
+<p xml:id="subtitle739" begin="21276588666t" end="21312291000t" region="region0" nttm:uuid="b5ff6d27-5d4e-48d6-a941-ed0d7f450b5c">
+Yeah. Honestly, even if a girl
+<br/>
+were to walk in
+</p>
+<p xml:id="subtitle740" begin="21315961333t" end="21351997333t" region="region0" nttm:uuid="5b88adb2-0908-4274-a4f2-d3869085d333">
+and maybe I would think she was more
+<br/>
+attractive than Mackenzie,
+</p>
+<p xml:id="subtitle741" begin="21352664666t" end="21362341000t" region="region0" nttm:uuid="d9441ac5-5004-46de-b397-f1abc434e7b2">I don't think I would flip.</p>
+<p xml:id="subtitle742" begin="21363008333t" end="21377356000t" region="region0" nttm:uuid="ed31fd83-5cb7-44cd-89ef-f68cbc2cbd6e">
+-Exactly.
+<br/>
+-By any means.
+</p>
+<p xml:id="subtitle743" begin="21378023333t" end="21406718666t" region="region0" nttm:uuid="d49b618c-4fe7-4cee-81bb-e848b7c90a31">Rachel, girl, you shocked me.</p>
+<p xml:id="subtitle744" begin="21407386000t" end="21439084333t" region="region0" nttm:uuid="c05329cb-9573-4301-96de-520008a314e4">
+-I was, like, "Oh!"
+<br/>
+-We were all just waiting for it.
+</p>
+<p xml:id="subtitle745" begin="21439751666t" end="21454433000t" region="region0" nttm:uuid="6f147f8a-c07e-483a-a342-c67f574bf653">I was expecting you to...</p>
+<p xml:id="subtitle746" begin="21461106333t" end="21483795666t" region="region0" nttm:uuid="36ea47cb-b026-4960-a564-3f6b546e386d">
+You went in, I was, like,
+<br/>
+"Say no more!"
+</p>
+<p xml:id="subtitle747" begin="21484463000t" end="21508153333t" region="region0" nttm:uuid="5f707200-7b18-41cb-8fa4-85c8475b748d">
+Like, you set the bar. I was like,
+<br/>
+"All right, all right, all right."
+</p>
+<p xml:id="subtitle748" begin="21511823666t" end="21534513000t" region="region0" nttm:uuid="f435d689-bde6-487e-b9b1-3cece7bee984">
+I ain't gonna lie.
+<br/>
+I think Justine is hurt right now.
+</p>
+<p xml:id="subtitle749" begin="21535180333t" end="21551196333t" region="region0" nttm:uuid="1433cd9e-4882-4e31-b202-960e669f2d80">
+-You think so?
+<br/>
+-You need to talk to her first.
+</p>
+<p xml:id="subtitle750" begin="21551863666t" end="21573218333t" region="region0" nttm:uuid="6f7dcd5e-de4c-409e-bd6b-7dc7c7cd19ce">
+-Yeah, out of respect.
+<br/>
+-Yeah, yeah.
+</p>
+<p xml:id="subtitle751" begin="21585564000t" end="21597576000t" region="region0" nttm:uuid="12e5b5df-c6ac-40d5-9d2a-e732d79c3a08">I feel like a bad guy.</p>
+<p xml:id="subtitle752" begin="21607252333t" end="21646625000t" region="region0" nttm:uuid="a743bc37-6621-4ac8-ab6e-69304f56787b">
+But I'm looking forward to pursuing Rachel
+<br/>
+more than I am Justine.
+</p>
+<p xml:id="subtitle753" begin="21647626000t" end="21692337333t" region="region0" nttm:uuid="77c4bf88-3296-42c0-a6fd-391b13fddd27">
+With Justine, man, I really feel
+<br/>
+like it is more like a friendship.
+</p>
+<p xml:id="subtitle754" begin="21733044666t" end="21752063666t" region="region0" nttm:uuid="685dd5af-1139-493d-97bf-79bf2340f2a7">
+[Matthew]
+<span style="style1">Mackenzie wants</span>
+<br/>
+<span style="style1">to talk to Connor</span>
+</p>
+<p xml:id="subtitle755" begin="21752731000t" end="21776755000t" region="region0" nttm:uuid="098136a5-ca66-4010-941a-04515bee479c">
+<span style="style1">about his S&M secret</span>
+<br/>
+<span style="style1">from the challenge,</span>
+</p>
+<p xml:id="subtitle756" begin="21777422333t" end="21796441333t" region="region0" nttm:uuid="82270a49-abb2-4599-b769-511e26a43a9f">
+<span style="style1">but how to ask.</span>
+</p>
+<p xml:id="subtitle757" begin="21810121666t" end="21837816000t" region="region0" nttm:uuid="68e9c6ab-1829-4fc1-9b85-ce3e4d75c98a">Your thing was pretty surprising.</p>
+<p xml:id="subtitle758" begin="21841486333t" end="21876855000t" region="region0" nttm:uuid="411a882c-b135-48f3-8c51-e5867a3c9b7c">
+I think I was more...
+<br/>
+I was, like, I'm curious how
+</p>
+<p xml:id="subtitle759" begin="21883861999t" end="21898877000t" region="region0" nttm:uuid="ab691e8c-55c6-40a7-8438-80b47fe3389e">it was a one-night stand</p>
+<p xml:id="subtitle760" begin="21899544333t" end="21912557333t" region="region0" nttm:uuid="2da532c7-f7c7-4cac-bcaf-c136345170b7">
+because you don't seem
+<br/>
+like the type
+</p>
+<p xml:id="subtitle761" begin="21913224666t" end="21927572333t" region="region0" nttm:uuid="c4fb4291-22e2-4b11-88fe-066c2a7903a9">
+that would
+<br/>
+lose their virginity
+</p>
+<p xml:id="subtitle762" begin="21928239666t" end="21942921000t" region="region0" nttm:uuid="1348d34f-e77a-41b6-a901-91edf318f101">in a one-night stand.</p>
+<p xml:id="subtitle763" begin="21954933000t" end="21972950999t" region="region0" nttm:uuid="87e0d0d4-b62e-41ed-afdd-4fa88e6109a6">
+I guess to be straight up,
+<br/>
+I have...
+</p>
+<p xml:id="subtitle764" begin="21979624333t" end="21995974000t" region="region0" nttm:uuid="0ba5d551-9b18-4e12-a951-754017b29eef">only had sex three times.</p>
+<p xml:id="subtitle765" begin="22002647333t" end="22012991000t" region="region0" nttm:uuid="a597cf30-592b-4dde-b22f-064892989df9">What?</p>
+<p xml:id="subtitle766" begin="22019330666t" end="22038683333t" region="region0" nttm:uuid="b74ff933-657b-46f3-b534-2a702cffdcc9">Yeah. Three people.</p>
+<p xml:id="subtitle767" begin="22043688333t" end="22061039000t" region="region0" nttm:uuid="770b6929-dfa3-4685-ab09-413c9d97c5c6">I think that's a super...</p>
+<p xml:id="subtitle768" begin="22061706333t" end="22088066000t" region="region0" nttm:uuid="ede075dd-b84b-45bc-ad4b-42d31c1bb970">
+powerful way of expressing
+<br/>
+your love for someone.
+</p>
+<p xml:id="subtitle769" begin="22089067000t" end="22098409666t" region="region0" nttm:uuid="17891fe7-0f09-45ee-8dca-0e72451a19f4">
+-Mm-hmm.
+<br/>
+-So.
+</p>
+<p xml:id="subtitle770" begin="22102413666t" end="22119430666t" region="region0" nttm:uuid="2f68b86f-51bc-4851-99dc-024ac109e7eb">I don't just...</p>
+<p xml:id="subtitle771" begin="22120098000t" end="22140118000t" region="region0" nttm:uuid="d6addc30-c019-466a-b82b-72d89f63a2fc">
+go about doing that
+<br/>
+with just anyone.
+</p>
+<p xml:id="subtitle772" begin="22140785333t" end="22149126999t" region="region0" nttm:uuid="f86b2324-dee7-4256-bffb-f17964a1c441">Yeah.</p>
+<p xml:id="subtitle773" begin="22149794333t" end="22193838333t" region="region0" nttm:uuid="d9f91791-0c25-4ebb-a4d6-15c080912140">
+That's why I'm, like, this way with you,
+<br/>
+being super respectful
+</p>
+<p xml:id="subtitle774" begin="22197508666t" end="22215193000t" region="region0" nttm:uuid="007ea140-5a19-4390-8b14-a9464fcaf5f2">because that is special to me.</p>
+<p xml:id="subtitle775" begin="22218863333t" end="22233211000t" region="region0" nttm:uuid="d7ae72dc-9387-43ca-a4ea-b4dcf04b4d5b">No, I like that. Yeah.</p>
+<p xml:id="subtitle776" begin="22235546666t" end="22254565666t" region="region0" nttm:uuid="5081dbff-dd90-4f82-bb9e-ad09740182df">Connor, he just makes me feel, like...</p>
+<p xml:id="subtitle777" begin="22255233000t" end="22283261000t" region="region0" nttm:uuid="722e9192-d08c-42bb-8da8-68d6d5ab9650">
+butterflies.
+<br/>
+I don't know.
+</p>
+<p xml:id="subtitle778" begin="22283928333t" end="22311289000t" region="region0" nttm:uuid="864b2ef5-2119-4e8e-a057-5da8487676c4">
+I just feel such a strong
+<br/>
+friendship connection,
+</p>
+<p xml:id="subtitle779" begin="22311956333t" end="22338649666t" region="region0" nttm:uuid="c8d77573-fdd4-4529-98de-e82378942556">
+but then there's also chemistry
+<br/>
+with him,
+</p>
+<p xml:id="subtitle780" begin="22339317000t" end="22376354000t" region="region0" nttm:uuid="4cf850c5-e896-4b1d-931a-e40247da7230">
+that it's kind of, like,
+<br/>
+wow, I just feel like...
+</p>
+<p xml:id="subtitle781" begin="22384362000t" end="22400711666t" region="region0" nttm:uuid="5fa2d82c-bff6-4456-a17b-462c7c3a0723">
+I don't know,
+<br/>
+I just have butterflies.
+</p>
+<p xml:id="subtitle782" begin="22401379000t" end="22413057333t" region="region0" nttm:uuid="067d2150-2d42-45c5-bde7-27f9900a25dd">I'm like, it's crazy.</p>
+<p xml:id="subtitle783" begin="22417395000t" end="22456434000t" region="region0" nttm:uuid="d73ecb45-6d38-4738-b734-87325a20b4d5">
+Like, in a relationship, are you,
+<br/>
+like, do you wanna have sex?
+</p>
+<p xml:id="subtitle784" begin="22463107333t" end="22476120333t" region="region0" nttm:uuid="b9987482-c3d5-488a-b98e-983f15fa5206">
+-Uh-huh.
+<br/>
+-You're like "Yeah."
+</p>
+<p xml:id="subtitle785" begin="22479123333t" end="22487465000t" region="region0" nttm:uuid="137ae6a5-c3fd-4230-ab3a-cfcb05225428">Yeah.</p>
+<p xml:id="subtitle786" begin="22489133333t" end="22497475000t" region="region0" nttm:uuid="62736442-a4df-4a4a-81dd-b4c951cdf117">No, that's...</p>
+<p xml:id="subtitle787" begin="22507151333t" end="22525169333t" region="region0" nttm:uuid="4393399b-cacb-465e-9d4d-caf3abe5451b">
+-Because I'm the type--
+<br/>
+-That's something that--
+</p>
+<p xml:id="subtitle788" begin="22525836666t" end="22552863666t" region="region0" nttm:uuid="2506b530-3354-47fb-9f12-882f1cf5b123">
+Like, when I'm in a relationship,
+<br/>
+I'm committed to somebody,
+</p>
+<p xml:id="subtitle789" begin="22553531000t" end="22578222333t" region="region0" nttm:uuid="74979d20-0998-4300-8b2e-6e0fe7cd0025">
+-then I want to, like, all the time.
+<br/>
+-Yes.
+</p>
+<p xml:id="subtitle790" begin="22578889666t" end="22609253333t" region="region0" nttm:uuid="63588c31-bf07-421b-954d-754acac99d8f">
+No one gets the cookie
+<br/>
+until they get the whole jar.
+</p>
+<p xml:id="subtitle791" begin="22622600000t" end="22638949666t" region="region0" nttm:uuid="c3c40350-855d-449c-a30a-1872dbd2babd">
+But then they can have
+<br/>
+all the cookies they want.
+</p>
+<p xml:id="subtitle792" begin="22644955666t" end="22660638000t" region="region0" nttm:uuid="e8c95da9-be7a-4cee-b649-0277a1513ef9">
+Yeah, absolutely.
+<br/>
+I agree.
+</p>
+<p xml:id="subtitle793" begin="22661305333t" end="22686330333t" region="region0" nttm:uuid="f837c8ea-4039-4138-8906-67e526e13ba7">
+[Matthew]
+<span style="style1">Well, that cookie metaphor</span>
+<br/>
+<span style="style1">was kind of crummy,</span>
+</p>
+<p xml:id="subtitle794" begin="22686997666t" end="22712356333t" region="region0" nttm:uuid="5118ee3e-a640-49e6-b1bf-6108f05f5d0e">
+<span style="style1">but Mackenzie isn't here</span>
+<br/>
+<span style="style1">for her poetry.</span>
+</p>
+<p xml:id="subtitle795" begin="22713023666t" end="22753063666t" region="region0" nttm:uuid="4ce527b3-8149-43de-9126-50197b5eb85e">
+Let's check out Jeremiah and Justine,
+<br/>
+who are currently baking in the heat.
+</p>
+<p xml:id="subtitle796" begin="22753731000t" end="22766744000t" region="region0" nttm:uuid="4f5fdf12-c6cd-44f3-a1ed-0c0052f5213b">How y'all doin'?</p>
+<p xml:id="subtitle797" begin="22767411333t" end="22778088666t" region="region0" nttm:uuid="78ac79e6-2d52-461e-b897-d47f1d10a7f3">
+-Good. How are you?
+<br/>
+-Hi.
+</p>
+<p xml:id="subtitle798" begin="22779089666t" end="22790768000t" region="region0" nttm:uuid="4c08caa9-3b56-4b7e-bf9b-be9ef3723f73">I'm all right.</p>
+<p xml:id="subtitle799" begin="22791435333t" end="22814124666t" region="region0" nttm:uuid="fe4ff08d-bc18-4296-b33d-99ed683f5fdb">
+-Can I grab a second with Justine?
+<br/>
+-Yeah.
+</p>
+<p xml:id="subtitle800" begin="22814792000t" end="22849493333t" region="region0" nttm:uuid="7870e541-0387-4346-a67b-0fa0948337ea">
+-I'll give you guys a sec.
+<br/>
+-Yeah, we'll meet up later.
+</p>
+<p xml:id="subtitle801" begin="22850160666t" end="22874184666t" region="region0" nttm:uuid="70d149e2-16f1-4126-b709-9a9bd46143b8">
+-[Rachel] Good talking to you.
+<br/>
+-Yes.
+</p>
+<p xml:id="subtitle802" begin="22883527333t" end="22902880000t" region="region0" nttm:uuid="f01e17d4-4668-4341-8456-dce7fcdaa893">
+-How you doing? How you doing?
+<br/>
+-Hi. Good.
+</p>
+<p xml:id="subtitle803" begin="22905215666t" end="22924234666t" region="region0" nttm:uuid="4b5e31cb-c779-4ea3-a0d7-fb0f107d2cec">
+-All right?
+<br/>
+-We were just chitchatting.
+</p>
+<p xml:id="subtitle804" begin="22924902000t" end="22944922000t" region="region0" nttm:uuid="1468949e-eeed-4504-8b68-e935c20cfdd1">
+-How you doing?
+<br/>
+-I'm good. I'm good.
+</p>
+<p xml:id="subtitle805" begin="22948926000t" end="22981959000t" region="region0" nttm:uuid="d9c6e46f-ce91-4a27-8cb9-ae27dd8d873d">
+Um... I wanted to come talk to you
+<br/>
+today... um...
+</p>
+<p xml:id="subtitle806" begin="22984962000t" end="23004314666t" region="region0" nttm:uuid="ba70103b-6c64-4ecf-a111-1d9d24b7d2b3">
+just be like, you know, where we at.
+<br/>
+You know what I'm sayin'?
+</p>
+<p xml:id="subtitle807" begin="23004982000t" end="23021665333t" region="region0" nttm:uuid="93405524-219f-4467-8178-559a6770b4e0">
+-Talk about where we at.
+<br/>
+-Mmm. Of course.
+</p>
+<p xml:id="subtitle808" begin="23029006000t" end="23070047000t" region="region0" nttm:uuid="683ace8f-b1c3-4701-9ac7-144a6be95902">
+You know what I'm saying? It's no secret,
+<br/>
+you know what I'm sayin',
+</p>
+<p xml:id="subtitle809" begin="23070714333t" end="23082726333t" region="region0" nttm:uuid="2777b15d-127e-4f53-931e-c0339e35bf43">like about Rachel.</p>
+<p xml:id="subtitle810" begin="23083393666t" end="23099743333t" region="region0" nttm:uuid="df617444-6cd4-4d55-b0dd-2511ca6f1853">
+-You know what I'm saying?
+<br/>
+-Mm-hmm.
+</p>
+<p xml:id="subtitle811" begin="23100410666t" end="23126436666t" region="region0" nttm:uuid="06501400-d8a9-4cf5-8722-c84a57306dc3">
+I honestly feel,
+<br/>
+like me, personally, I just...
+</p>
+<p xml:id="subtitle812" begin="23132442666t" end="23158135000t" region="region0" nttm:uuid="385c7030-4233-4e54-8212-3d618493bd55">
+-see us better friends...
+<br/>
+-Yes.
+</p>
+<p xml:id="subtitle813" begin="23158802333t" end="23178822333t" region="region0" nttm:uuid="8833f6b1-a11e-443f-940d-85afa02ca1e5">...than anything else.</p>
+<p xml:id="subtitle814" begin="23179489666t" end="23212189000t" region="region0" nttm:uuid="894a8f02-c868-4cc9-bf82-20a01b7cf2fe">
+I just, you know what I'm sayin',
+<br/>
+I want to keep it real with you.
+</p>
+<p xml:id="subtitle815" begin="23212856333t" end="23242886333t" region="region0" nttm:uuid="98296364-1e9d-4a0a-8050-182eb7a7bf65">
+-Yeah.
+<br/>
+-Like you know, like how I'm feelin'.
+</p>
+<p xml:id="subtitle816" begin="23244221000t" end="23260904333t" region="region0" nttm:uuid="e7e6591e-8a63-4a7f-ba18-b89af3253d08">
+but I don't want nothing to change
+<br/>
+between us, you know what I'm saying?
+</p>
+<p xml:id="subtitle817" begin="23264574666t" end="23287264000t" region="region0" nttm:uuid="a45209a2-3310-4631-8c3d-a6dadc015372">No. And it won't, not at all.</p>
+<p xml:id="subtitle818" begin="23379689666t" end="23427737666t" region="region0" nttm:uuid="2b16a572-f22e-412f-b577-5742cd769164">
+[Matthew]
+<span style="style1">It's Love Island, where Justine</span>
+<br/>
+<span style="style1">just got re-friend-zoned by Jeremiah.</span>
+</p>
+<p xml:id="subtitle819" begin="23428738666t" end="23460770666t" region="region0" nttm:uuid="8dabf749-4c06-4f03-be22-2f088b56f9e3">
+<span style="style1">You know what she should do?</span>
+<br/>
+<span style="style1">Make him a mix tape about her feelings,</span>
+</p>
+<p xml:id="subtitle820" begin="23462439000t" end="23485462000t" region="region0" nttm:uuid="45af0b31-c0a2-43de-8b8c-4096b354a839">
+<span style="style1">because that's never worked for me ever.</span>
+</p>
+<p xml:id="subtitle821" begin="23486129333t" end="23519829666t" region="region0" nttm:uuid="760972bb-379b-4047-871a-c885dddc0bde">
+Basically, he's like, "I just wanna be
+<br/>
+honest, just wanna be real, whatever,
+</p>
+<p xml:id="subtitle822" begin="23523500000t" end="23563873666t" region="region0" nttm:uuid="3c475f6b-ed62-429f-8f13-ab3c9017ef59">
+Um... I've been kinda vibing
+<br/>
+with Rachel," blah blah,
+</p>
+<p xml:id="subtitle823" begin="23564541000t" end="23589232333t" region="region0" nttm:uuid="c65eab0d-0c98-4057-b31f-3dc38fc1e9aa">
+He's like "You and I, I think
+<br/>
+are better off as friends."
+</p>
+<p xml:id="subtitle824" begin="23593570000t" end="23619929666t" region="region0" nttm:uuid="b501dc51-a885-4c74-974c-1e7d715977ab">
+I'm like, I wonder if he felt like that
+<br/>
+this entire time?
+</p>
+<p xml:id="subtitle825" begin="23621264333t" end="23639616000t" region="region0" nttm:uuid="bc59dcdb-7187-4f70-a2cf-4c4b1c3c685b">
+I wish he would have
+<br/>
+just said that last night.
+</p>
+<p xml:id="subtitle826" begin="23642952666t" end="23654297333t" region="region0" nttm:uuid="b20438b8-a55a-40ca-96d0-ae634eca4414">
+-You know what I mean?
+<br/>
+-Mm-hmm.
+</p>
+<p xml:id="subtitle827" begin="23654964666t" end="23672982666t" region="region0" nttm:uuid="37d219ed-a8bf-49b5-8e01-12a166893731">
+I appreciate that he like
+<br/>
+was straight up with me,
+</p>
+<p xml:id="subtitle828" begin="23673650000t" end="23694670999t" region="region0" nttm:uuid="314d1a52-8752-421f-8efc-76b34e274a78">
+-and told me this early on,
+<br/>
+-Yeah.
+</p>
+<p xml:id="subtitle829" begin="23695338333t" end="23708685000t" region="region0" nttm:uuid="297c0eb5-c14e-4de5-8ba2-7d02a4841e14">Says a lot about his character,</p>
+<p xml:id="subtitle830" begin="23709352333t" end="23729372333t" region="region0" nttm:uuid="0329ff9f-9e44-46c9-b90f-b205080c6a56">
+so I can't be mad.
+<br/>
+He's a good guy.
+</p>
+<p xml:id="subtitle831" begin="23734377333t" end="23765408333t" region="region0" nttm:uuid="8ed35629-b3f1-4f01-b36f-912484b62da9">
+Yeah, but just don't doubt yourself
+<br/>
+in any way
+</p>
+<p xml:id="subtitle832" begin="23766075666t" end="23779756000t" region="region0" nttm:uuid="4f92e476-ba40-4c98-98b5-1dedf21fc0a1">
+or start getting
+<br/>
+in your head about it.
+</p>
+<p xml:id="subtitle833" begin="23780423333t" end="23798441333t" region="region0" nttm:uuid="587660f6-002d-4c72-a94a-3bde7cde0e3a">Your guy is coming.</p>
+<p xml:id="subtitle834" begin="23799108666t" end="23814123666t" region="region0" nttm:uuid="2842690c-0824-4e73-8394-7412e8ca5b83">[sighs] Hopefully.</p>
+<p xml:id="subtitle835" begin="23814791000t" end="23842151666t" region="region0" nttm:uuid="9f056a44-6572-490c-b18c-f61ccb62c0f2">
+There was like Tre, but I'm finding out
+<br/>
+so many things about him
+</p>
+<p xml:id="subtitle836" begin="23842819000t" end="23878855000t" region="region0" nttm:uuid="2a487ce1-5d01-47a4-9dd5-4cd579bf6ede">
+that are invalidating all the things
+<br/>
+that I thought about him.
+</p>
+<p xml:id="subtitle837" begin="23879522333t" end="23900209666t" region="region0" nttm:uuid="04fb68db-eb23-4163-9a5a-34c479821525">
+That's why I'm like,
+<br/>
+skeptical about going there.
+</p>
+<p xml:id="subtitle838" begin="23900877000t" end="23928571333t" region="region0" nttm:uuid="5e6f630a-6523-4bc4-b494-e683059ebcef">
+But I will say that with Tre,
+<br/>
+like I feel like...
+</p>
+<p xml:id="subtitle839" begin="23936579333t" end="23963940000t" region="region0" nttm:uuid="fc7013cb-1d9b-40e0-8ddd-bca8f636db3f">
+I don't know, I just feel like every time
+<br/>
+you talk to him, you're like...
+</p>
+<p xml:id="subtitle840" begin="23967944000t" end="23990967000t" region="region0" nttm:uuid="9b381f62-c405-48ed-ab3e-2ccd2e490319">
+-Drawn in?
+<br/>
+-Yeah, like you know what I mean? Like...
+</p>
+<p xml:id="subtitle841" begin="23997306666t" end="24029672333t" region="region0" nttm:uuid="53fcc5d7-0f80-468e-b5c6-85a899aafdf4">
+And I feel like, maybe you should give
+<br/>
+that a chance, you know?
+</p>
+<p xml:id="subtitle842" begin="24057700333t" end="24072048000t" region="region0" nttm:uuid="1245096d-5938-4048-bff2-a9934b48e3be">Hey, boys.</p>
+<p xml:id="subtitle843" begin="24116425666t" end="24128771333t" region="region1" nttm:uuid="199b63cb-80b8-4512-b2c5-3dbfcaf87fbb">Let's.</p>
+<p xml:id="subtitle844" begin="24191167000t" end="24217860333t" region="region0" nttm:uuid="7761fc98-3e7f-446d-bfba-09e84ed8ccc6">
+So, obviously, you know,
+<br/>
+I talked to your boy.
+</p>
+<p xml:id="subtitle845" begin="24218527666t" end="24242885333t" region="region0" nttm:uuid="f0b56127-6bfd-445b-ad76-1208fdeb591f">
+-How do you feel about that?
+<br/>
+-I mean...
+</p>
+<p xml:id="subtitle846" begin="24255231000t" end="24268911333t" region="region0" nttm:uuid="017723b0-28a5-4287-b9a4-58f45a68b1d6">It definitely sucks.</p>
+<p xml:id="subtitle847" begin="24269578666t" end="24301610666t" region="region0" nttm:uuid="1fe3b2ae-82ef-473e-a811-30affa428926">
+I kind of, like, wish he
+<br/>
+had said something last night.
+</p>
+<p xml:id="subtitle848" begin="24308617666t" end="24319962333t" region="region0" nttm:uuid="b33de520-0c70-470a-8b98-81a0767b45a2">
+-But I--
+<br/>
+-But how, honestly,
+</p>
+<p xml:id="subtitle849" begin="24320629666t" end="24351327000t" region="region0" nttm:uuid="21fd53dc-cfee-4f1a-8dd7-ae887358809c">
+how would that have changed anything...
+<br/>
+for you?
+</p>
+<p xml:id="subtitle850" begin="24355331000t" end="24387363000t" region="region0" nttm:uuid="e1462138-da21-45a7-b9cd-edc8b6421104">
+I definitely wouldn't have kissed him
+<br/>
+in the challenge, you know what I mean?
+</p>
+<p xml:id="subtitle851" begin="24388030333t" end="24405381000t" region="region0" nttm:uuid="51294d61-fede-476d-b801-bfd60347086c">Basically, eat half of his face?</p>
+<p xml:id="subtitle852" begin="24406048333t" end="24422731666t" region="region0" nttm:uuid="5d0a3e45-4c89-430a-b387-149b193a0249">I don't even want to talk about it.</p>
+<p xml:id="subtitle853" begin="24428737666t" end="24450092333t" region="region0" nttm:uuid="6641cd38-1440-4a23-9e8c-fda285242dd8">[Tre] So how do you feel now?</p>
+<p xml:id="subtitle854" begin="24451760666t" end="24482458000t" region="region0" nttm:uuid="310e0669-9cbf-4f37-8a97-1059178d2e55">
+Like, what's going through
+<br/>
+your mind now?
+</p>
+<p xml:id="subtitle855" begin="24483125333t" end="24514823666t" region="region0" nttm:uuid="e46eb0db-2758-4912-a1cb-0c252b0e6f0f">
+What are you going to do
+<br/>
+situation-wise?
+</p>
+<p xml:id="subtitle856" begin="24523832666t" end="24540849666t" region="region0" nttm:uuid="33686cb2-6014-4e7a-9218-19229d2a8201">Um...</p>
+<p xml:id="subtitle857" begin="24562538000t" end="24580556000t" region="region0" nttm:uuid="bece6ad0-b016-46b3-8081-c5bc522fca69">
+keep putting myself
+<br/>
+out there, I guess.
+</p>
+<p xml:id="subtitle858" begin="24581223333t" end="24595237333t" region="region0" nttm:uuid="ae3d1c3e-90b7-450c-b1f5-78a5e6837a29">You know what I mean?</p>
+<p xml:id="subtitle859" begin="24595904666t" end="24624600000t" region="region0" nttm:uuid="3e85c785-d95d-43be-bfa2-938d5a2f6b9a">
+I feel like that's all you can do
+<br/>
+at this stage.
+</p>
+<p xml:id="subtitle860" begin="24632941666t" end="24676985666t" region="region0" nttm:uuid="00851bc3-c035-4537-8cbd-31ccf44ff6a7">
+Like, obviously, like, it's not a secret,
+<br/>
+I'm attracted to other girls here.
+</p>
+<p xml:id="subtitle861" begin="24677653000t" end="24696004666t" region="region0" nttm:uuid="3840e170-5cbe-4438-98ea-bac07565157b">Everybody here is attractive.</p>
+<p xml:id="subtitle862" begin="24696671999t" end="24741049666t" region="region0" nttm:uuid="4d27e995-aa8f-466f-b1e8-095d889b1412">
+But like, I feel like I connect better
+<br/>
+with you personality-wise.
+</p>
+<p xml:id="subtitle863" begin="24741716999t" end="24754396333t" region="region0" nttm:uuid="6a8cadcf-e7a7-4a37-848f-b10df57a74d5">Yes.</p>
+<p xml:id="subtitle864" begin="24794436333t" end="24823465333t" region="region0" nttm:uuid="76ef3d42-02d6-4369-9cd9-3111e6f68775">
+-Say there was a recoupling tonight.
+<br/>
+-Uh-huh.
+</p>
+<p xml:id="subtitle865" begin="24824132666t" end="24845487333t" region="region0" nttm:uuid="e559c8a4-76fb-42fc-b6e5-2410f9502d94">
+So like Tre, you have to make
+<br/>
+a decision right now.
+</p>
+<p xml:id="subtitle866" begin="24849157666t" end="24865507333t" region="region0" nttm:uuid="1f4ac7ec-3cef-4060-baad-c98f39e7ef10">
+Who do you want
+<br/>
+to couple up with?
+</p>
+<p xml:id="subtitle867" begin="24882524333t" end="24893869000t" region="region0" nttm:uuid="b358cdff-86e3-44a2-ac74-be49a56c08ca">I would say you.</p>
+<p xml:id="subtitle868" begin="24898206666t" end="24912554333t" region="region0" nttm:uuid="1aa340cb-7898-4d0f-b7de-c903adb1ddbb">Tre!</p>
+<p xml:id="subtitle869" begin="24917893000t" end="24957599333t" region="region0" nttm:uuid="de9a9bf7-365a-4556-a530-8350d22a3e37">[pop music]</p>
+<p xml:id="subtitle870" begin="25003979000t" end="25041349666t" region="region0" nttm:uuid="11e238c5-1273-404a-8652-8fce296d7f56">
+I feel like I got closer to Justine.
+<br/>
+Like just straight blood.
+</p>
+<p xml:id="subtitle871" begin="25044686333t" end="25073048000t" region="region0" nttm:uuid="b87bf422-31f3-4180-a0ab-a805ae81f24c">
+I feel like Kaitlynn would be,
+<br/>
+like, a hook-up,
+</p>
+<p xml:id="subtitle872" begin="25074049000t" end="25102076999t" region="region0" nttm:uuid="bae439ee-fb56-4185-8694-3bc1c9e1c8c2">
+and Justine would be more
+<br/>
+like a long-term relationship.
+</p>
+<p xml:id="subtitle873" begin="25102744333t" end="25125433666t" region="region0" nttm:uuid="cb212c0b-7fd1-4584-9a46-771328da0335">
+-No, I'm glad we have each other.
+<br/>
+-Me too.
+</p>
+<p xml:id="subtitle874" begin="25126434666t" end="25156464666t" region="region0" nttm:uuid="aa3a0b20-d286-4b5c-9676-4caed17869f2">
+-I appreciate you for talking to me.
+<br/>
+-I got you.
+</p>
+<p xml:id="subtitle875" begin="25157799333t" end="25181489666t" region="region0" nttm:uuid="90617864-b08a-4f63-8c25-8ca7e51e0e9e">
+I feel like Tre and I,
+<br/>
+we have such a good connection,
+</p>
+<p xml:id="subtitle876" begin="25182157000t" end="25215523666t" region="region0" nttm:uuid="1d6dae30-051b-4577-b065-61af6f0c7f3f">
+and such a genuine real
+<br/>
+vibe, that...
+</p>
+<p xml:id="subtitle877" begin="25223865333t" end="25251226000t" region="region0" nttm:uuid="4cc8f2a8-9051-4768-baeb-6643787ba389">
+it really could turn into something,
+<br/>
+like, really nice,
+</p>
+<p xml:id="subtitle878" begin="25251893333t" end="25269911333t" region="region0" nttm:uuid="824f548f-7468-4221-92ed-7ba0cce70f11">something romantic and really nice.</p>
+<p xml:id="subtitle879" begin="25276584666t" end="25300608666t" region="region0" nttm:uuid="e00752fe-8219-4920-acbb-95fb7c49ffe3">
+-I guess to be continued.
+<br/>
+-Yes.
+</p>
+<p xml:id="subtitle880" begin="25303945333t" end="25322964333t" region="region0" nttm:uuid="460af6f7-f0ec-49a8-bc52-c92ee816950f">
+Meet you back
+<br/>
+at the spot later.
+</p>
+<p xml:id="subtitle881" begin="25323965333t" end="25336978333t" region="region0" nttm:uuid="05685ef2-8397-4344-b120-2531feae28e6">Just let me know when.</p>
+<p xml:id="subtitle882" begin="25339314000t" end="25375016333t" region="region0" nttm:uuid="aa38a933-e19c-44de-90d2-0a79d3ee8b78">[pop music]</p>
+<p xml:id="subtitle883" begin="25412720666t" end="25451426000t" region="region0" nttm:uuid="026dd3ed-441c-4673-94bd-7650abace221">
+[Matthew]
+<span style="style1">Next time on </span>
+Love Island...
+</p>
+<p xml:id="subtitle884" begin="25455430000t" end="25480788666t" region="region1" nttm:uuid="58f516b2-e4c8-4e80-b827-acdba6b148b1">
+<span style="style1">the new girls turn up the heat.</span>
+</p>
+<p xml:id="subtitle885" begin="25511152333t" end="25568209333t" region="region1" nttm:uuid="5f6957e9-de8b-4fcf-b87f-a3b3810f1898">
+<span style="style1">And a dramatic recoupling</span>
+<br/>
+<span style="style1">will change everything.</span>
+</p>
+<p xml:id="subtitle886" begin="25568876666t" end="25588896666t" region="region0" nttm:uuid="44fd75af-7fc4-4dc5-8180-678082c98e2b">
+-Uh-oh.
+<br/>
+-Oh my God.
+</p>
+</div>
+</body>
+</tt>

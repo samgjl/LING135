@@ -86,7 +86,8 @@ class SubtitleReader:
                 beginning, ending = self.xml_time_to_readable(paragraph, time_in_ms = time_in_ms)
 
                 # Write the words said in the subtitle:
-                intra_paragraph = re.sub(r"<br/>", "\n  ", "  " + intra_paragraph_regex.findall(paragraph)[0][1:-4])
+                intra_paragraph = re.sub(r"\n", "", "" + intra_paragraph_regex.findall(paragraph)[0][1:-4])
+                intra_paragraph = re.sub(r"<br/>", "\n  ", "  " + intra_paragraph)
                 intra_paragraph = re.sub(r"&quot;", '"', intra_paragraph)
                 intra_paragraph = re.sub(r"<.*?>", "", intra_paragraph)
 
