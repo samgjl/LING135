@@ -1,158 +1,81 @@
------ TOTALS -----
-  'really' : 16
-  'very' : 16
-  'super' : 2
-
------ TIME STAMPS -----
-
-0:2:4 --> 0:2:7
-  INTENSIFIERS: ['really']
-  I really didn't expect to feel so bad.
-
-0:2:45 --> 0:2:49
-  INTENSIFIERS: ['very']
-  And as was everyone, but,
-  obviously, I'm very invested in you,
-
-0:3:7 --> 0:3:11
-  INTENSIFIERS: ['really']
-  So it's really nice to see
-  that he does have that,
-
-0:4:27 --> 0:4:31
-  INTENSIFIERS: ['really']
-  I really have appreciated
-  your openness to see,
-
-0:4:39 --> 0:4:41
-  INTENSIFIERS: ['Super']
-  Super sad that our friend James left.
-
-0:5:54 --> 0:5:58
-  INTENSIFIERS: ['really']
-  I'm really looking forward to
-  just kind of letting our guard down
-
-0:6:53 --> 0:6:54
-  INTENSIFIERS: ['Really']
-  -For real.
-  -Really?
-
-0:7:36 --> 0:7:39
-  INTENSIFIERS: ['really']
-  He's just, like, really
-  with his feelings this evening.
-
-0:11:41 --> 0:11:44
-  INTENSIFIERS: ['really']
-  Honestly, I really don't know.
-
-0:12:2 --> 0:12:3
-  INTENSIFIERS: ['really']
-  She looks really good.
-
-0:12:15 --> 0:12:17
-  INTENSIFIERS: ['very']
-  Lauren looks very attractive.
-
-0:12:27 --> 0:12:30
-  INTENSIFIERS: ['really']
-  Her British accent, you know,
-  is really attractive.
-
-0:13:37 --> 0:13:38
-  INTENSIFIERS: ['Really']
-  -Really?
-  -To your detriment?
-
-0:14:5 --> 0:14:7
-  INTENSIFIERS: ['very']
-  like they're very controlling.
-
-0:18:41 --> 0:18:43
-  INTENSIFIERS: ['really']
-  looking really confident
-  in their relationship
-
-0:18:49 --> 0:18:53
-  INTENSIFIERS: ['very']
-  If I'm being completely honest,
-  I am very open to getting to know her.
-
-0:19:49 --> 0:19:51
-  INTENSIFIERS: ['very']
-  [Mackenzie] Lauren is a girl
-  who is very confident.
-
-0:21:51 --> 0:21:53
-  INTENSIFIERS: ['really']
-  Nobody here is really like this.
-
-0:21:59 --> 0:22:2
-  INTENSIFIERS: ['really', 'really']
-  Nobody really knows how anybody
-  is really feeling, their intentions.
-
-0:23:6 --> 0:23:10
-  INTENSIFIERS: ['very']
-  She's very realistic, which
-  I love when people are realistic.
-
-0:23:13 --> 0:23:17
-  INTENSIFIERS: ['super']
-  And Lauren, obviously, is super hot.
-
-0:26:25 --> 0:26:28
-  INTENSIFIERS: ['very']
-  [Carrington] I told Kierstan me and you
-  are very happy.
-
-0:27:6 --> 0:27:8
-  INTENSIFIERS: ['really']
-  [Carrington] I really do like Kierstan,
-
-0:27:16 --> 0:27:20
-  INTENSIFIERS: ['very']
-  Just when the girls feel
-  the power switch it's very dramatic.
-
-0:27:20 --> 0:27:22
-  INTENSIFIERS: ['very']
-  Like, it's very obvious, bro.
-
-0:27:23 --> 0:27:24
-  INTENSIFIERS: ['very']
-  [Jonnhy] And it's very unattractive to me.
-
-0:28:12 --> 0:28:13
-  INTENSIFIERS: ['very']
-  It's very good.
-
-0:29:2 --> 0:29:6
-  INTENSIFIERS: ['very']
-  I'm the type of person who,
-  like, I fall in love very quickly
-
-0:29:6 --> 0:29:9
-  INTENSIFIERS: ['very']
-  and very fast, which is
-  why-- which is why I also had to
-
-0:31:36 --> 0:31:40
-  INTENSIFIERS: ['really']
-  When you walked in,
-  I'm like, really attracted
-
-0:32:0 --> 0:32:1
-  INTENSIFIERS: ['very']
-  And very honest.
-
-0:35:22 --> 0:35:24
-  INTENSIFIERS: ['very']
-  And I think that's very attractive for me.
-
-0:40:10 --> 0:40:14
-  INTENSIFIERS: ['very']
-  So Mackenzie did not react
-  very well to this situation.
-
+TOTAL,'really' : 16,'so' : 51,'very' : 16,
+TIME STAMPS,
+0:2:4,: ['really', 'so']
+0:2:45,: ['very']
+0:3:7,: ['So', 'really']
+0:4:1,: ['so']
+0:4:24,: ['so']
+0:4:27,: ['really']
+0:4:44,: ['so']
+0:5:54,: ['really']
+0:6:20,: ['so']
+0:6:53,: ['Really']
+0:7:36,: ['really']
+0:9:27,: ['So']
+0:10:45,: ['so']
+0:10:59,: ['so']
+0:11:21,: ['so']
+0:11:23,: ['So']
+0:11:34,: ['so']
+0:11:39,: ['So']
+0:11:41,: ['really']
+0:11:53,: ['so']
+0:12:2,: ['really']
+0:12:8,: ['so']
+0:12:15,: ['very']
+0:12:27,: ['really']
+0:13:37,: ['Really']
+0:14:2,: ['so']
+0:14:5,: ['very']
+0:14:35,: ['so']
+0:15:35,: ['So']
+0:15:55,: ['so']
+0:18:19,: ['So']
+0:18:41,: ['really']
+0:18:49,: ['very']
+0:19:7,: ['so']
+0:19:15,: ['so']
+0:19:49,: ['very']
+0:19:58,: ['so']
+0:20:27,: ['So']
+0:21:26,: ['So']
+0:21:44,: ['So']
+0:21:51,: ['really']
+0:21:59,: ['really', 'really']
+0:22:40,: ['so']
+0:23:6,: ['very']
+0:25:7,: ['so']
+0:25:14,: ['so']
+0:25:18,: ['so']
+0:26:25,: ['very']
+0:26:45,: ['So']
+0:26:53,: ['so']
+0:27:6,: ['really']
+0:27:16,: ['very']
+0:27:20,: ['very']
+0:27:23,: ['very']
+0:28:12,: ['very']
+0:28:23,: ['so']
+0:28:54,: ['So']
+0:29:2,: ['very']
+0:29:6,: ['very']
+0:29:16,: ['so']
+0:30:25,: ['So']
+0:30:59,: ['so']
+0:31:36,: ['really']
+0:32:0,: ['very']
+0:32:1,: ['So']
+0:32:13,: ['So']
+0:32:43,: ['so']
+0:32:46,: ['So']
+0:32:55,: ['so']
+0:32:57,: ['So']
+0:35:13,: ['so']
+0:35:22,: ['very']
+0:35:50,: ['So']
+0:36:0,: ['so']
+0:36:35,: ['so']
+0:40:10,: ['So', 'very']
+0:40:35,: ['so']
+0:41:13,: ['so']
+0:42:26,: ['So']

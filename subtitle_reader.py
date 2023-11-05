@@ -61,7 +61,10 @@ class SubtitleReader:
 
         # Write to this file:
         if output_path != None:
-            write_name = output_path + filename.split("\\")[-1][0:-4] + '.' + self.target_name.lower()
+            # CSV 
+            write_name = output_path + filename.split("\\")[-1][0:-4] + '.csv'
+            # NORMAL OUTPUT
+            # write_name = output_path + filename.split("\\")[-1][0:-4] + '.' + self.target_name.lower()
         else:
             write_name = filename[0:-4] + '.' + self.target_name.lower()
         write_file = open(write_name, 'w')
@@ -92,18 +95,32 @@ class SubtitleReader:
                 intra_paragraph = re.sub(r"<.*?>", "", intra_paragraph)
 
                 # Add to the output:
-                output += beginning + " --> " + ending + "\n" # Title: timing
-                if (verbose):
-                    output += "  " + self.target_name + ": " + str(targets) + "\n" # targets found
-                output += intra_paragraph + "\n\n" # word context
+                output += beginning + "," # Title: timing
+                targets = str(targets).replace(",", f"\n{beginning}").replace("[", "").replace("]", "")
+                output += str(targets) + "\n" # targets found
+
+                # NORMAL OUTPUT
+                # output += beginning + " --> " + ending + "\n" # Title: timing
+                # if (verbose):
+                #     output += "  " + self.target_name + ": " + str(targets) + "\n" # targets found
+                # output += intra_paragraph + "\n\n" # word context
         
         # Write everything to the file:
+        # CSV:
         if (verbose):
-            write_file.write("----- TOTALS -----\n")
+            write_file.write("TOTAL,")
             for target in target_totals:
-                write_file.write(f"  '{target}' : {str(target_totals[target])}\n")
+                write_file.write(f"'{target}' : {str(target_totals[target])},")
             write_file.write("\n")
-        write_file.write("----- TIME STAMPS -----\n\n" + output)
+        write_file.write("TIME STAMPS,\n" + output)
+
+        # NORMAL OUTPUT
+        # if (verbose):
+        #     write_file.write("----- TOTALS -----\n")
+        #     for target in target_totals:
+        #         write_file.write(f"  '{target}' : {str(target_totals[target])}\n")
+        #     write_file.write("\n")
+        # write_file.write("----- TIME STAMPS -----\n\n" + output)
         # ALWAYS CLOSE THE FILES
         read_file.close()
         write_file.close()

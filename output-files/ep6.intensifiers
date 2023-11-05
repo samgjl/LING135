@@ -1,128 +1,82 @@
------ TOTALS -----
-  'really' : 18
-  'very' : 9
-  'super' : 2
-
------ TIME STAMPS -----
-
-0:0:33 --> 0:0:37
-  INTENSIFIERS: ['really']
-  You are one of the people
-  I really wanna give myself a chance with.
-
-0:2:18 --> 0:2:20
-  INTENSIFIERS: ['very']
-  [Mackenzie] Oh, it wasn't a very good one.
-
-0:2:50 --> 0:2:51
-  INTENSIFIERS: ['Very']
-  -Very nice.
-  -There you go.
-
-0:11:3 --> 0:11:4
-  INTENSIFIERS: ['very']
-  You're very beautiful.
-
-0:11:7 --> 0:11:9
-  INTENSIFIERS: ['very']
-  No, you are very attractive.
-
-0:12:9 --> 0:12:11
-  INTENSIFIERS: ['super']
-  She's super down to earth.
-
-0:13:25 --> 0:13:26
-  INTENSIFIERS: ['Really']
-  -Oh. Is it cold enough?
-  -Really--
-
-0:16:9 --> 0:16:14
-  INTENSIFIERS: ['really']
-  Yeah, we really got to go in deep,
-  like about our childhood and stuff.
-
-0:16:14 --> 0:16:19
-  INTENSIFIERS: ['really']
-  So that was really cool.
-  I feel like I know him so much better.
-
-0:16:27 --> 0:16:29
-  INTENSIFIERS: ['really', 'really']
-  [Cely] It was really, really good.
-
-0:16:45 --> 0:16:48
-  INTENSIFIERS: ['really', 'really']
-  I feel like we are in a really
-  really good spot, and...
-
-0:18:32 --> 0:18:35
-  INTENSIFIERS: ['very']
-  So it is something
-  I'm very sensitive to with my past.
-
-0:18:47 --> 0:18:49
-  INTENSIFIERS: ['really']
-  really wish
-  that you'd voiced it last night.
-
-0:23:10 --> 0:23:11
-  INTENSIFIERS: ['really']
-  No, not really. Uh...
-
-0:23:45 --> 0:23:47
-  INTENSIFIERS: ['very']
-  We're going at our own pace.
-  It's very slow.
-
-0:23:54 --> 0:23:57
-  INTENSIFIERS: ['very']
-  But we're very, like, open still.
-
-0:25:57 --> 0:25:59
-  INTENSIFIERS: ['really']
-  I really enjoyed getting to know her.
-
-0:26:28 --> 0:26:32
-  INTENSIFIERS: ['really']
-  Um...Just haven't really made
-  a-- a decision yet.
-
-0:26:32 --> 0:26:37
-  INTENSIFIERS: ['really']
-  Oh, really? Oh.
-  I'm kinda thinking on, uh, some things.
-
-0:26:38 --> 0:26:41
-  INTENSIFIERS: ['really']
-  -Yeah, I've been thinking too.
-  -I feel like we really have come
-
-0:27:38 --> 0:27:42
-  INTENSIFIERS: ['really']
-  You never really know the future
-  so I guess I'm still-- I'm still hopeful.
-
-0:31:19 --> 0:31:22
-  INTENSIFIERS: ['very']
-  drive, and motivation to be
-  the very best he can be.
-
-0:31:56 --> 0:31:58
-  INTENSIFIERS: ['really']
-  I really might throw up. [sighs]
-
-0:32:18 --> 0:32:22
-  INTENSIFIERS: ['super', 'really']
-  Um, he's super patient,
-  and he really knows how to handle me.
-
-0:34:14 --> 0:34:17
-  INTENSIFIERS: ['really']
-  really cherish the time
-  that we were spending
-
-0:36:24 --> 0:36:27
-  INTENSIFIERS: ['very']
-  Moira, you have
-  a very big decision to make.
-
+TOTAL,'so' : 59,'really' : 18,'very' : 9,
+TIME STAMPS,
+0:0:16,: ['so']
+0:0:33,: ['really']
+0:1:31,: ['So']
+0:2:18,: ['very']
+0:2:46,: ['so']
+0:2:50,: ['Very']
+0:3:44,: ['So']
+0:5:11,: ['So']
+0:7:26,: ['so']
+0:7:53,: ['So']
+0:8:25,: ['so']
+0:8:34,: ['so']
+0:9:4,: ['So']
+0:9:11,: ['so']
+0:9:34,: ['so']
+0:10:0,: ['so']
+0:10:44,: ['So']
+0:10:48,: ['So']
+0:11:3,: ['very']
+0:11:7,: ['very']
+0:11:31,: ['so']
+0:11:37,: ['So']
+0:12:0,: ['So']
+0:12:32,: ['So']
+0:12:57,: ['so']
+0:13:25,: ['Really']
+0:13:27,: ['so']
+0:15:54,: ['so']
+0:16:7,: ['so']
+0:16:9,: ['really']
+0:16:14,: ['So', 'really', 'so']
+0:16:19,: ['so']
+0:16:23,: ['so']
+0:16:27,: ['really', 'really']
+0:16:34,: ['so']
+0:16:43,: ['so']
+0:16:45,: ['really', 'really']
+0:16:48,: ['so']
+0:18:32,: ['So', 'very']
+0:18:47,: ['really']
+0:21:20,: ['so']
+0:21:37,: ['So']
+0:22:47,: ['so']
+0:22:49,: ['So']
+0:23:10,: ['really']
+0:23:18,: ['So']
+0:23:22,: ['So']
+0:23:30,: ['So']
+0:23:33,: ['so']
+0:23:45,: ['very']
+0:23:54,: ['very']
+0:23:57,: ['So']
+0:25:13,: ['So']
+0:25:57,: ['really']
+0:26:2,: ['so']
+0:26:26,: ['so']
+0:26:28,: ['really']
+0:26:32,: ['really']
+0:26:38,: ['really']
+0:26:42,: ['so']
+0:26:50,: ['so']
+0:27:11,: ['so']
+0:27:38,: ['really', 'so']
+0:28:12,: ['So']
+0:29:19,: ['So']
+0:30:39,: ['so']
+0:31:12,: ['so']
+0:31:19,: ['very']
+0:31:32,: ['So']
+0:31:56,: ['really']
+0:32:18,: ['really']
+0:32:28,: ['So']
+0:33:27,: ['So']
+0:34:14,: ['really']
+0:34:24,: ['So']
+0:35:18,: ['So']
+0:35:54,: ['So']
+0:36:24,: ['very']
+0:37:1,: ['So']
+0:41:36,: ['So']

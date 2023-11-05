@@ -1,177 +1,77 @@
------ TOTALS -----
-  'very' : 16
-  'really' : 18
-  'super' : 3
-
------ TIME STAMPS -----
-
-0:0:25 --> 0:0:28
-  INTENSIFIERS: ['very']
-  We're in a very early stage,
-  and it could be somebody else.
-
-0:2:53 --> 0:2:55
-  INTENSIFIERS: ['very']
-  [Connor] I feel like
-  we are in a very good spot.
-
-0:7:46 --> 0:7:49
-  INTENSIFIERS: ['very']
-  I will be very upset if we leave here
-  and you didn't try it.
-
-0:9:10 --> 0:9:14
-  INTENSIFIERS: ['very']
-  I will say that we had a very
-  romantic and nice night together.
-
-0:12:41 --> 0:12:44
-  INTENSIFIERS: ['very']
-  I was very flattered
-  that Lauren married me.
-
-0:15:5 --> 0:15:9
-  INTENSIFIERS: ['really']
-  because I am really trying to see
-  what all the hype is about.
-
-0:15:19 --> 0:15:22
-  INTENSIFIERS: ['really']
-  has really been the highlight
-  of my stay here in the villa.
-
-0:15:29 --> 0:15:34
-  INTENSIFIERS: ['really']
-  I want to pie this girl and I really
-  am going to enjoy every moment of this.
-
-0:16:28 --> 0:16:30
-  INTENSIFIERS: ['very']
-  I hope you enjoy this because
-  I'm going to enjoy it very much.
-
-0:16:47 --> 0:16:51
-  INTENSIFIERS: ['really']
-  Yeah, not really sure
-  what that is supposed to tell me, but...
-
-0:17:45 --> 0:17:47
-  INTENSIFIERS: ['really']
-  It also really hurt my feelings,
-  I'm like...
-
-0:17:47 --> 0:17:51
-  INTENSIFIERS: ['really']
-  is Connor saying really bad things
-  about me that his best boy
-
-0:17:55 --> 0:17:57
-  INTENSIFIERS: ['very']
-  ...I do think I'm very
-  much wifey material so the fact that...
-
-0:19:4 --> 0:19:8
-  INTENSIFIERS: ['really']
-  and because I knew that you guys
-  are really in a good spot right now.
-
-0:19:8 --> 0:19:9
-  INTENSIFIERS: ['really']
-  -Uh-huh.
-  -I really was...
-
-0:22:35 --> 0:22:38
-  INTENSIFIERS: ['really']
-  I'm really into Caleb,
-  but he is so hard to read."
-
-0:23:42 --> 0:23:44
-  INTENSIFIERS: ['very']
-  And so I think that's why
-  I am having a very hard time.
-
-0:23:53 --> 0:23:58
-  INTENSIFIERS: ['really']
-  but I really haven't spent a lot
-  of time with a significant other.
-
-0:24:44 --> 0:24:47
-  INTENSIFIERS: ['very', 'very']
-  very touchy, very reassuring,
-  every second of the day, like,
-
-0:25:15 --> 0:25:18
-  INTENSIFIERS: ['really']
-  -and everything you were talking about?
-  -I don't really think...
-
-0:25:35 --> 0:25:36
-  INTENSIFIERS: ['very']
-  we're very stagnant right now.
-
-0:26:58 --> 0:27:1
-  INTENSIFIERS: ['really']
-  When you say you don't really need
-  that reassurance and affection,
-
-0:27:7 --> 0:27:11
-  INTENSIFIERS: ['really']
-  like I need it more with you because
-  you don't give me really anything.
-
-0:27:36 --> 0:27:40
-  INTENSIFIERS: ['super']
-  I definitely will be super respectful
-  and honest.
-
-0:27:52 --> 0:27:54
-  INTENSIFIERS: ['really']
-  That is really what it comes down to.
-
-0:28:31 --> 0:28:33
-  INTENSIFIERS: ['Very']
-  -that's never easy.
-  -[Mackenzie] Very proud of you.
-
-0:31:9 --> 0:31:12
-  INTENSIFIERS: ['very']
-  Carrington and Tre have come
-  to the very French realization
-
-0:33:20 --> 0:33:22
-  INTENSIFIERS: ['super', 'super']
-  You're super charismatic
-  and super charming.
-
-0:33:37 --> 0:33:44
-  INTENSIFIERS: ['really']
-  connected in order for me
-  to be... Um, feel really good about us.
-
-0:34:5 --> 0:34:9
-  INTENSIFIERS: ['really']
-  I really feel like Calvin
-  hasn't met his girl in here yet.
-
-0:34:40 --> 0:34:43
-  INTENSIFIERS: ['really']
-  I feel like it is something we really
-  need to start thinking about,
-
-0:35:11 --> 0:35:15
-  INTENSIFIERS: ['very']
-  I have faith in them because
-  Caleb is very in touch
-
-0:35:25 --> 0:35:27
-  INTENSIFIERS: ['really']
-  you're really taking advantage of this.
-
-0:38:18 --> 0:38:19
-  INTENSIFIERS: ['very']
-  Well, I have some very important news.
-
-0:38:54 --> 0:38:56
-  INTENSIFIERS: ['very']
-  Well, I have some very important news.
-
+TOTAL,'very' : 16,'so' : 46,'really' : 18,
+TIME STAMPS,
+0:0:25,: ['very']
+0:2:53,: ['very']
+0:3:35,: ['so']
+0:3:38,: ['so']
+0:4:27,: ['so']
+0:4:31,: ['so']
+0:4:42,: ['so']
+0:5:0,: ['So']
+0:6:1,: ['So']
+0:7:24,: ['so']
+0:7:46,: ['very']
+0:8:22,: ['So']
+0:8:57,: ['So']
+0:9:10,: ['very']
+0:9:17,: ['So']
+0:9:47,: ['So']
+0:10:16,: ['so']
+0:11:6,: ['so']
+0:11:23,: ['So']
+0:12:41,: ['very']
+0:12:51,: ['so']
+0:15:5,: ['really']
+0:15:19,: ['really']
+0:15:25,: ['so']
+0:15:29,: ['really']
+0:15:40,: ['So']
+0:15:43,: ['So']
+0:15:51,: ['so']
+0:16:8,: ['So']
+0:16:28,: ['very']
+0:16:44,: ['so']
+0:16:47,: ['really']
+0:17:19,: ['So']
+0:17:45,: ['really']
+0:17:47,: ['really']
+0:17:55,: ['very', 'so']
+0:18:43,: ['So']
+0:19:4,: ['really']
+0:19:8,: ['really']
+0:19:35,: ['so']
+0:19:45,: ['so']
+0:19:56,: ['so']
+0:20:59,: ['So']
+0:22:27,: ['so']
+0:22:35,: ['really', 'so']
+0:23:32,: ['so']
+0:23:42,: ['so', 'very']
+0:23:53,: ['really']
+0:24:3,: ['So']
+0:24:44,: ['very', 'very']
+0:25:15,: ['really']
+0:25:22,: ['so']
+0:25:35,: ['very']
+0:26:58,: ['really']
+0:27:7,: ['really']
+0:27:52,: ['really']
+0:28:28,: ['so']
+0:28:31,: ['Very']
+0:28:51,: ['so']
+0:30:9,: ['So']
+0:30:25,: ['So']
+0:31:9,: ['very']
+0:31:21,: ['So']
+0:32:1,: ['So']
+0:33:23,: ['so', 'so']
+0:33:37,: ['really']
+0:34:5,: ['really']
+0:34:40,: ['really']
+0:35:11,: ['very']
+0:35:25,: ['really']
+0:35:27,: ['so']
+0:38:18,: ['very']
+0:38:54,: ['very']
+0:40:45,: ['So']
+0:42:25,: ['So']
