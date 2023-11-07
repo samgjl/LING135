@@ -1,0 +1,124 @@
+Word, Interview, Public, Total
+ 'really', 18, 29, 47
+ 'very', 11, 17, 28
+ 'so', 9, 25, 34
+Overall, 109
+
+Words by Cast Member
+Lauren
+ , really, 8
+ , so, 2
+ , Interview, 4
+ , Public, 6
+Total, 10
+
+Connor
+ , very, 6
+ , so, 4
+ , really, 2
+ , Interview, 5
+ , Public, 7
+Total, 12
+
+Mackenzie
+ , very, 2
+ , so, 7
+ , really, 4
+ , Interview, 2
+ , Public, 11
+Total, 13
+
+Cely
+ , so, 5
+ , really, 3
+ , Interview, 0
+ , Public, 8
+Total, 8
+
+Johnny
+ , really, 3
+ , very, 1
+ , so, 1
+ , Interview, 3
+ , Public, 2
+Total, 5
+
+Carrington
+ , very, 12
+ , so, 3
+ , really, 6
+ , Interview, 5
+ , Public, 16
+Total, 21
+
+Kierstan
+ , really, 2
+ , very, 2
+ , Interview, 2
+ , Public, 2
+Total, 4
+
+Matthew
+ , really, 2
+ , very, 1
+ , so, 1
+ , Interview, 4
+ , Public, 0
+Total, 4
+
+Rachel
+ , really, 5
+ , so, 3
+ , Interview, 6
+ , Public, 2
+Total, 8
+
+Caleb
+ , very, 2
+ , really, 6
+ , Interview, 4
+ , Public, 4
+Total, 8
+
+Justine
+ , so, 6
+ , really, 2
+ , Interview, 3
+ , Public, 5
+Total, 8
+
+Tre
+ , so, 1
+ , really, 1
+ , very, 1
+ , Interview, 0
+ , Public, 3
+Total, 3
+
+Moira
+ , very, 1
+ , really, 1
+ , so, 1
+ , Interview, 0
+ , Public, 3
+Total, 3
+
+Calvin
+ , really, 2
+ , Interview, 0
+ , Public, 2
+Total, 2
+
+Totals by Gender
+Men
+ , Interview, 21
+ , Public, 34
+ , Total, 55
+Women
+ , Interview, 17
+ , Public, 37
+ , Total, 54
+Total
+ , Total, 109
+ , Interview, 38
+ , Public, 71

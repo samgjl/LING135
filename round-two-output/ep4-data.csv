@@ -1,0 +1,117 @@
+Word, Interview, Public, Total
+ 'so', 12, 25, 37
+ 'really', 13, 20, 33
+ 'very', 1, 8, 9
+Overall, 79
+
+Words by Cast Member
+Moira
+ , so, 4
+ , really, 2
+ , Interview, 1
+ , Public, 5
+Total, 6
+
+Cely
+ , so, 3
+ , very, 6
+ , Interview, 1
+ , Public, 8
+Total, 9
+
+Tre
+ , really, 10
+ , Interview, 3
+ , Public, 7
+Total, 10
+
+Mackenzie
+ , really, 2
+ , so, 1
+ , Interview, 1
+ , Public, 2
+Total, 3
+
+Justine
+ , so, 5
+ , really, 2
+ , Interview, 7
+ , Public, 0
+Total, 7
+
+Carrington
+ , so, 3
+ , really, 2
+ , very, 1
+ , Interview, 1
+ , Public, 5
+Total, 6
+
+Matthew
+ , so, 1
+ , really, 1
+ , very, 1
+ , Interview, 3
+ , Public, 0
+Total, 3
+
+Rachel
+ , so, 4
+ , really, 6
+ , Interview, 4
+ , Public, 6
+Total, 10
+
+Johnny
+ , so, 3
+ , really, 2
+ , Interview, 0
+ , Public, 5
+Total, 5
+
+Jeremiah
+ , so, 6
+ , Interview, 0
+ , Public, 6
+Total, 6
+
+James
+ , really, 2
+ , so, 5
+ , Interview, 0
+ , Public, 7
+Total, 7
+
+Kaitlynn
+ , very, 1
+ , really, 3
+ , so, 1
+ , Interview, 4
+ , Public, 1
+Total, 5
+
+Caleb
+ , really, 1
+ , Interview, 1
+ , Public, 0
+Total, 1
+
+Calvin
+ , so, 1
+ , Interview, 0
+ , Public, 1
+Total, 1
+
+Totals by Gender
+Men
+ , Interview, 8
+ , Public, 31
+ , Total, 39
+Women
+ , Interview, 18
+ , Public, 22
+ , Total, 40
+Total
+ , Total, 79
+ , Interview, 26
+ , Public, 53

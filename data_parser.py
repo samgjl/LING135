@@ -30,16 +30,19 @@ class DataParser:
                                        "Total" : 0},
                             "Total": {}
                            }
+        useless_data_points = 0
 
         for line in data:
             # If the data is unfilled / 'N/A' was entered:
             if (line[1][0] == 'N'):
+                useless_data_points += 1
                 continue
             
             # Data sorting:
             word = "".join([char if char.isalpha() else "" for char in line[0].lower()])
             contestant = line[1]
             interview = line[2]
+            # print(word, contestant, interview)
 
             # Totals over words:
             if (word not in words_totals):
@@ -72,12 +75,14 @@ class DataParser:
         
         # Gendered totals:
         if (self.use_gender):
+            man_regex = re.compile(r'm.n', re.IGNORECASE)
+            woman_regex = re.compile(r'wom.n', re.IGNORECASE)
             for person in words_by_cast:
-                if (person in self.men or "men" in person.lower()):
+                if (person in self.men or len(man_regex.findall(person)) > 0):
                     words_by_gender["Men"]['Interview'] += words_by_cast[person]['Interview']
                     words_by_gender["Men"]['Public'] += words_by_cast[person]['Public']
                     words_by_gender["Men"]['Total'] += words_by_cast[person]['Total']
-                elif (person in self.women or "women" in person.lower()):
+                elif (person in self.women or len(woman_regex.findall(person)) > 0):
                     words_by_gender['Women']['Interview'] += words_by_cast[person]['Interview']
                     words_by_gender["Women"]["Public"] += words_by_cast[person]['Public']
                     words_by_gender["Women"]["Total"] += words_by_cast[person]['Total']
@@ -88,19 +93,20 @@ class DataParser:
             words_by_gender["Total"]["Interview"] = words_by_gender["Men"]["Interview"] + words_by_gender["Women"]["Interview"]
             words_by_gender["Total"]["Public"] = words_by_gender["Men"]["Public"] + words_by_gender["Women"]["Public"]          
 
-        self.write_csv(path = output_path, 
-                       words_totals=words_totals, 
-                       words_by_gender=words_by_gender, 
-                       words_by_cast=words_by_cast)
+        self.write_csv(path =                output_path, 
+                       words_totals =        words_totals, 
+                       words_by_gender =     words_by_gender, 
+                       words_by_cast =       words_by_cast)
 
         file = open(output_path[:-3] + "out", 'w')
         file.write("<words_totals>" + str(words_totals) + "</words_totals>\n")
         file.write("<words_by_cast>" + str(words_by_cast) + "</words_by_cast>\n")
+        file.write("<useless_data_points>" + str(useless_data_points) + "</useless_data_points>\n")
         if self.use_gender:
             file.write("<words_by_gender>" + str(words_by_gender) + "</words_by_gender>\n")
         file.close()
 
-    def write_csv(self, path = "output.csv", words_by_cast = {}, words_by_gender = {}, words_totals = {}):
+    def write_csv(self, path = "output.csv", words_by_cast = {}, words_by_gender = {}, words_totals = {}, useless_data_points = None):
         # WRITING TO FILE
         file = open(path, 'w')
 
@@ -113,7 +119,10 @@ class DataParser:
                        str(words_totals[word]['Interview']) + ", " +
                        str(words_totals[word]['Public']) + ", " +
                        str(words_totals[word]['Total']) + "\n")
-        file.write(f'Overall, {total}\n\n')
+        file.write(f'Overall, {total}\n')
+        if (useless_data_points != None):
+            file.write(f'(unused points), {useless_data_points}\n')
+        file.write('\n')
 
         # Write the totals by cast:
         file.write("Words by Cast Member\n")
@@ -145,6 +154,8 @@ class DataParser:
         words_by_gender = []
         overall_gender = {}
         wbg_regex = re.compile(r'<words_by_gender>.*?</words_by_gender>', re.DOTALL)
+        useless_data_points = 0
+        useless_regex = re.compile(r'<useless_data_points>.*?</useless_data_points>', re.DOTALL)
         intra = re.compile(r'>.*?<', re.DOTALL)
 
         for filename in glob.glob(os.path.join(path, '*.out')):
@@ -160,6 +171,9 @@ class DataParser:
             # By gender:
             wbg = intra.findall(wbg_regex.findall(data)[0])[0][1:-1]
             words_by_gender.append(json.loads(wbg.replace("'", '"'))) # Add the dict to the list
+            # Useless data points:
+            udp = intra.findall(useless_regex.findall(data)[0])[0][1:-1]
+            useless_data_points += int(udp)
         
         # Totals:
         for dictionary in words_by_totals:
@@ -200,10 +214,10 @@ class DataParser:
                             else:
                                 overall_gender[gender][context] += dictionary[gender][context]
         
-        # Write to file:
         self.write_csv(path = path + "overall.csv",
                        words_totals=overall_totals, 
                        words_by_cast=overall_cast,
-                       words_by_gender=overall_gender)
+                       words_by_gender=overall_gender,
+                       useless_data_points=useless_data_points)
 
         file.close()
