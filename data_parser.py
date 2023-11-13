@@ -31,6 +31,18 @@ class DataParser:
                             "Total": {}
                            }
         useless_data_points = 0
+        intensifiers_by_gender = {
+            "Men" : {
+                        "so" : 0,
+                        "very" : 0, 
+                        "really" : 0,
+                    },
+            "Women" : {
+                        "so" : 0,
+                        "very" : 0, 
+                        "really" : 0,
+                    },
+        }
 
         for line in data:
             # If the data is unfilled / 'N/A' was entered:
@@ -42,7 +54,6 @@ class DataParser:
             word = "".join([char if char.isalpha() else "" for char in line[0].lower()])
             contestant = line[1]
             interview = line[2]
-            # print(word, contestant, interview)
 
             # Totals over words:
             if (word not in words_totals):
@@ -72,6 +83,9 @@ class DataParser:
                 words_by_cast[contestant]['Interview'] += 1
             else:
                 words_by_cast[contestant]['Public'] += 1
+
+
+        # Gendered intensifiers by intensifier:
         
         # Gendered totals:
         if (self.use_gender):
@@ -79,13 +93,21 @@ class DataParser:
             woman_regex = re.compile(r'wom.n', re.IGNORECASE)
             for person in words_by_cast:
                 if (person in self.men or len(man_regex.findall(person)) > 0):
+                    # gendered contexts:
                     words_by_gender["Men"]['Interview'] += words_by_cast[person]['Interview']
                     words_by_gender["Men"]['Public'] += words_by_cast[person]['Public']
                     words_by_gender["Men"]['Total'] += words_by_cast[person]['Total']
+                    # Totals:
+                    for word in ["so", "very", "really"]:
+                        intensifiers_by_gender["Men"][word] += words_by_cast[person][word] if word in words_by_cast[person] else 0  # NOT SUSTAINABLE
                 elif (person in self.women or len(woman_regex.findall(person)) > 0):
+                    #gendered contexts:
                     words_by_gender['Women']['Interview'] += words_by_cast[person]['Interview']
                     words_by_gender["Women"]["Public"] += words_by_cast[person]['Public']
                     words_by_gender["Women"]["Total"] += words_by_cast[person]['Total']
+                    # Totals:
+                    for word in ["so", "very", "really"]:
+                        intensifiers_by_gender["Women"][word] += words_by_cast[person][word] if word in words_by_cast[person] else 0 # NOT SUSTAINABLE
                 else:
                     print("missed", person)
             # Overall totals:
@@ -104,6 +126,7 @@ class DataParser:
         file.write("<useless_data_points>" + str(useless_data_points) + "</useless_data_points>\n")
         if self.use_gender:
             file.write("<words_by_gender>" + str(words_by_gender) + "</words_by_gender>\n")
+            file.write("<intensifier_by_gender>" + str(intensifiers_by_gender) + "</intensifier_by_gender>\n")
         file.close()
 
     def write_csv(self, path = "output.csv", words_by_cast = {}, words_by_gender = {}, words_totals = {}, useless_data_points = None):
@@ -157,6 +180,9 @@ class DataParser:
         useless_data_points = 0
         useless_regex = re.compile(r'<useless_data_points>.*?</useless_data_points>', re.DOTALL)
         intra = re.compile(r'>.*?<', re.DOTALL)
+        int_by_gender = re.compile(r'<intensifier_by_gender>.*?</intensifier_by_gender>', re.DOTALL)
+        intensifiers_by_gender = []
+        gender_intensifiers = {}
 
         for filename in glob.glob(os.path.join(path, '*.out')):
             file = open(filename, 'r')
@@ -174,6 +200,9 @@ class DataParser:
             # Useless data points:
             udp = intra.findall(useless_regex.findall(data)[0])[0][1:-1]
             useless_data_points += int(udp)
+            # Intensifier types by gender:
+            ibg = intra.findall(int_by_gender.findall(data)[0])[0][1:-1]
+            intensifiers_by_gender.append(json.loads(ibg.replace("'", '"')))
         
         # Totals:
         for dictionary in words_by_totals:
@@ -213,6 +242,26 @@ class DataParser:
                                 overall_gender[gender][context] = dictionary[gender][context]
                             else:
                                 overall_gender[gender][context] += dictionary[gender][context]
+
+            for dictionary in intensifiers_by_gender: # dictionary of intensifiers
+                for gender in dictionary: # Men / Women
+                    if (gender not in gender_intensifiers):
+                        gender_intensifiers[gender] = dictionary[gender]
+                    else:
+                        for context in dictionary[gender]: # Word
+                            if (context not in gender_intensifiers[gender]):
+                                gender_intensifiers[gender][context] = dictionary[gender][context]
+                            else:
+                                gender_intensifiers[gender][context] += dictionary[gender][context]
+        
+        # Quick extra write! (for intensifier use by gender)
+        f = open(path + "gendered_intensifiers.csv", 'w')
+        f.write("Totals by Gender\n")
+        for gender in ["Men", "Women"]:
+            f.write(gender + '\n')
+            for context in gender_intensifiers[gender]:
+                f.write(f" , {context}, {gender_intensifiers[gender][context]}\n")
+        f.close()
         
         self.write_csv(path = path + "overall.csv",
                        words_totals=overall_totals, 
