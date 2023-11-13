@@ -1,4 +1,4 @@
-TOTAL,'very' : 16,'so' : 46,'really' : 18,
+TOTAL,'very' : 16,'so' : 46,'really' : 18,'real' : 2,
 TIME STAMPS,
 0:0:25,'very'
 0:2:53,'very'
@@ -57,12 +57,14 @@ TIME STAMPS,
 0:25:15,'really'
 0:25:22,'so'
 0:25:35,'very'
+0:26:15,'real'
 0:26:58,'really'
 0:27:7,'really'
 0:27:52,'really'
 0:28:28,'so'
 0:28:31,'Very'
 0:28:51,'so'
+0:29:43,'real'
 0:30:9,'So'
 0:30:25,'So'
 0:31:9,'very'
