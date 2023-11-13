@@ -63,6 +63,7 @@ class SubtitleReader:
         if output_path != None:
             # CSV 
             write_name = output_path + filename.split("\\")[-1][0:-4] + '.csv'
+            # NORMAL OUTPUT
         else:
             write_name = filename[0:-4] + '.' + self.target_name.lower()
         write_file = open(write_name, 'w')
@@ -96,7 +97,6 @@ class SubtitleReader:
                 output += beginning + "," # Title: timing
                 targets = str(targets).replace(",", f"\n{beginning}").replace("[", "").replace("]", "")
                 output += str(targets) + "\n" # targets found
-        
         # Write everything to the file:
         # CSV:
         if (verbose):
